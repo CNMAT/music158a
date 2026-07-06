@@ -1,9 +1,9 @@
 **Music 158A Fall 2026**
 ======================
-Department of Music/CNMAT <br>
-Sound and Music Computing with CNMAT Technologies <br>
-[_UC Berkeley Class Schedule Music 158a Fall 2026_] <br>([https://github.com/CNMAT/Music158B_Spring23/blob/master/SYLLABUS.md](https://classes.berkeley.edu/search/class?search=music+158a&f%5B0%5D=term%3A8588))
-Music 158B, Spring 2023 <br>
+Department of Music/CNMAT <br />
+Sound and Music Computing with CNMAT Technologies <br />
+[_UC Berkeley Class Schedule Music 158a Fall 2026_] <br>(https://classes.berkeley.edu/search/class?search=music+158a&f%5B0%5D=term%3A8588))
+Music 158A, Spring 2026
 
 ![gif](http://i.imgur.com/TuOehiT.gif)
 
