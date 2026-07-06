@@ -9,7 +9,7 @@ How can computational systems designed for musical control expand the ways human
 
 In this course, we do not ask whether an audible phenomenon is music; we ask what is musical about a behavior, and how, through iteration, we better control and understand the behavior - make it more musical. We ask, not what is best, but what is better. <br />
 
-![gif](images/rhythmic_activity_pulsing_dots.gif)
+![gif](images/rhythmic_prob_full16_4beats.gif)
 
 How do we decide what is better?  
 
