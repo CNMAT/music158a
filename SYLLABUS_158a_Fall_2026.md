@@ -2,15 +2,15 @@
 ======================
 Department of Music/CNMAT <br />
 Sound and Music Computing with CNMAT Technologies <br />
-[_UC Berkeley Class Schedule Music 158a Fall 2026_] <br>(https://classes.berkeley.edu/search/class?search=music+158a&f%5B0%5D=term%3A8588))
-Music 158A, Spring 2026
+[_UC Berkeley Class Schedule Music 158a Fall 2026_][classschedule] [classschedule]:https://classes.berkeley.edu/search/class?search=music+158a&f%5B0%5D=term%3A8588)) <br />
+Music 158A, Spring 2026 <br />
 
 ![gif](http://i.imgur.com/TuOehiT.gif)
 
-Instructor: Andrew Blanton
-Email: blanton@berkeley.edu
-Class Day/Time: T TR 10:0-11:30
-Class Website: https://github.com/CNMAT/Music158B_Spring22
+Instructor: Edmund Campion with GSI Pablo Teutli
+Email: campion@berkeley.edu
+Class Day/Time: T TR 11:00 am - 12:30 pm
+Class Website: https://github.com/CNMAT/music158a
 
 [Syllabus](https://github.com/CNMAT/Music158B_Spring23/blob/master/SYLLABUS.md)
 | [Art Resources](https://github.com/CNMAT/Music158B_Spring23/blob/master/RESOURCES.md)
