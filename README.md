@@ -7,7 +7,10 @@ What do we mean when we say something is "musical"? How can computers and AI ass
 
 How can computational systems designed for musical control expand the ways humans think about and make music with machines? <br />
 
-In this course, we do not ask whether an audible phenomenon is music; we ask what is musical about a behavior, and how, through iteration, we better control and understand the behavior - make it more musical. We ask, not what is best, but what is better. 
+In this course, we do not ask whether an audible phenomenon is music; we ask what is musical about a behavior, and how, through iteration, we better control and understand the behavior - make it more musical. We ask, not what is best, but what is better. <br />
+
+How do we decide what is better?  
+
 <br />This music technology and production course is not centered on the direct imitation of conventional human systems of music making. Instead, we replace our reliance on familiarity, often the basis of how we assess musical behaviors, with inquisitiveness, openness, and testing based on audible feedback and comparison. Music made with musically informed computational systems extends beyond imitation of established human practices -- towards an expanded field in which the human is easily overtaken by machine process. <br />
 
 Rather than pursuing fully autonomous music generation, our focus will be on collaborative, semi-autonomous systems, where decision engines and state machines—developed and shaped with the aid of AI coding support, the history of music making with computers at CNMAT, and auditory feedback—lead a student toward new forms of personal musical expression with machines. <br />
