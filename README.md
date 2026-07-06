@@ -13,6 +13,8 @@ In this course, we do not ask whether an audible phenomenon is music; we ask wha
 
 How do we decide what is better?  
 
+![gif](images/rhythmic_prob_full16_4beats_odd_only_fast.gif)
+
 <br />This music technology and production course is not centered on the direct imitation of conventional human systems of music making. Instead, we replace our reliance on familiarity, often the basis of how we assess musical behaviors, with inquisitiveness, openness, and testing based on audible feedback and comparison. Music made with musically informed computational systems extends beyond imitation of established human practices -- towards an expanded field in which the human is easily overtaken by machine process. <br />
 
 Rather than pursuing fully autonomous music generation, our focus will be on collaborative, semi-autonomous systems, where decision engines and state machines—developed and shaped with the aid of AI coding support, the history of music making with computers at CNMAT, and auditory feedback—lead a student toward new forms of personal musical expression with machines. <br />
