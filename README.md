@@ -1,7 +1,7 @@
 # music158a
 Music 158A Fall 2026 <br />
 
-How can computers and AI assistants deepen our understanding of what we call "musical"? <br />
+What do we mean when we say something is "musical"? How can computers and AI assistants deepen our understanding of what we call "musical"? <br />
 
 How can computational systems designed for musical control expand the ways humans think about and make music with machines? <br />
 
