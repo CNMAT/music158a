@@ -1,4 +1,4 @@
-**Music 158A Fall 20263**
+**Music 158A Fall 2026**
 ======================
 Department of Music/CNMAT
 Sound and Music Computing with CNMAT Technologies
