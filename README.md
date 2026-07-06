@@ -3,6 +3,8 @@ Music 158A Fall 2026 <br />
 
 What do we mean when we say something is "musical"? How can computers and AI assistants deepen our understanding of what we call "musical"? <br />
 
+![gif](images/rhythmic_activity_pulsing_dots.gif)
+
 How can computational systems designed for musical control expand the ways humans think about and make music with machines? <br />
 
 In this course, we do not ask whether an audible phenomenon is music; we ask what is musical about a behavior, and how, through iteration, we better control and understand the behavior - make it more musical. We ask, not what is best, but what is better. 
