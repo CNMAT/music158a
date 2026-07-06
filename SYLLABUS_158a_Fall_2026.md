@@ -2,7 +2,9 @@
 ======================
 Department of Music/CNMAT <br />
 Sound and Music Computing with CNMAT Technologies <br />
-[_UC Berkeley Class Schedule Music 158a Fall 2026_][classschedule]:https://classes.berkeley.edu/search/class?search=music+158a&f%5B0%5D=term%3A8588)) <br />
+[UC Berkeley Class Schedule Music 158a Fall 2026][classschedule]
+
+[classschedule]: https://classes.berkeley.edu/search/class?search=music+158a&f%5B0%5D=term%3A8588
 Music 158A, Spring 2026 <br />
 
 ![gif](http://i.imgur.com/TuOehiT.gif)
