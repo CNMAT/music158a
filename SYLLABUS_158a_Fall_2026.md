@@ -60,90 +60,25 @@ There will be four lab assignments for the semester and they must be submitted o
 
 The class will conclude with a final Performance and installation of works in the CNMAT main room. Final projects and research must demonstrate comprehension of, and engagement with both musicallity and technical working of projects. Research leading to the final presentation will begin halfway through the semester once we are finished with the initial labs.
 
-
-Schedule
 --------
-
 ## Schedule
 
-| Week                       | Tuesday                                                                         | Thursday / Other                                                                                        |
-| -------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Week 1                     | —                                                                               | 08/21 (th)<br>Introduction to Music 158A                                                                |
-| Week 2                     | 09/01 (tu)<br>Technical installations **BRING LAPTOPS with Max/MSP installed!** | 09/03 (th)<br>Demo 1 — Build a Mic                                                                      |
-| Week 3                     | 09/08 (tu)<br>—                                                                 | 09/10 (th)<br>Open Lab Prototype Performance 1                                                          |
-| Week 4                     | 09/15 (tu)<br>Demo — Transduction — Drum Solenoids                              | 09/17 (th)<br>[**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf) |
-| Week 5                     | 09/22 (tu)<br>—                                                                 | 09/24 (th)<br>—                                                                                         |
-| Week 6                     | 09/29 (tu)<br>—                                                                 | 10/01 (th)<br>—                                                                                         |
-| Week 7                     | 10/06 (tu)<br>—                                                                 | 10/08 (th)<br>[**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf) |
-| Week 8                     | 10/13 (tu)<br>—                                                                 | 10/18<br>—                                                                                              |
-| Week 9                     | 10/20 (tu)<br>—                                                                 | 10/22 (th)<br>[**Open Performance 3**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf) |
-| Week 10                    | 10/27 (tu)<br>—                                                                 | 10/29 (th)<br>—                                                                                         |
-| Week 11                    | 11/03 (tu)<br>Final Proposal Due                                                | 11/05 (th)<br>—                                                                                         |
-| Week 12                    | 11/10 (tu)<br>Group Work Session / Workshop                                     | 11/12 (th)<br>—                                                                                         |
-| Week 13                    | 11/17 (tu)<br>Possible Open Performance 4<br>Group Work Session / Workshop      | 11/19 (th)<br>—                                                                                         |
-| Week 14                    | 11/24 (tu)<br>FINAL PROJECT DISCUSSION                                          | —                                                                                                       |
-| Week 15                    | 12/01 (tu)<br>Final project discussion, continued                               | —                                                                                                       |
-| Week 16                    | 12/05<br>Reading Week support LABS                                              | —                                                                                                       |
-| Final Project Presentation | 12/14<br>To be discussed                                                        | —                                                                                                       |
-
-
-| Class_Date          |                                                                                                                                                                        |
-| ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Week 1* 08/21 (th)   | Introduction to Music 158A |
-
-| *Week 2* 09/01 (tu)   | Technical installations (BRING LAPTOPS with Max/MSP installed!)|
-
-           09/03 (th)   | Demo 1 - Build a Mic |
-           
-| *Week 3* 09/08     | |
-
-           09/10     | Open Lab Prototype Performance 1 |
-           
-| *Week 4* 09/15     | Demo - Transduction - Drum Solenoids |
-
-          09/17     | [**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf) |
-          
-| *Week 5* 09/22     | |
-
-           09/24     | |
-           
-| *Week 6* 09/29     | |
-
-           10/01     | |
-           
-| *Week 7* 10/06     | |
-
-           10/08     | [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf) |
-           
-| *Week 8* 10/13     | |
-
-           10/18     |  |
-           
-| *Week 9* 10/20     | |
-
-           10/22     | [**Open Performance 3**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf) |
-           
-| *Week 10* 10/27    ||
-
-            10/29    | |
-            
-| *Week 11* 11/03    | **Final Proposal Due** |
-
-            11/05    | |
-            
-| *Week 12* 11/10    | Group Work Session / Workshop |
-
-            11/12    | |
-            
-| *Week 13* 11/17    | **Possible Open Performance 4** Group Work Session / Workshop |
-
-            11/19    | |
-            
-| *Week 14* 11/24    | FINAL PROJECT DISCUSSION|
-
-| *Week 15* 12/01    |Final project discussion (cont.)
-
-| *Week 16* 12/05    |Reading Week support LABS
-
-| *Final Project Presentation day 12/14 (to be discussed)
-
+| Week                       | Dates and Activities                                                                                                                                                                                                       |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Week 1                     | **(th)** 08/21 — Introduction to Music 158A                                                                                                                                                                                |
+| Week 2                     | **(tu)** 09/01 — Technical installations **BRING LAPTOPS with Max/MSP installed!**<br><br>**(th)** 09/03 — Demo 1 — Build a Mic                                                                                            |
+| Week 3                     | **(tu)** 09/08 — Add Tuesday activity description here. This can be a longer description, and GitHub Markdown will wrap it automatically within the column width.<br><br>**(th)** 09/10 — Open Lab Prototype Performance 1 |
+| Week 4                     | **(tu)** 09/15 — Demo — Transduction — Drum Solenoids<br><br>**(th)** 09/17 — [**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf)                                                    |
+| Week 5                     | **(tu)** 09/22 — <br><br>**(th)** 09/24 —                                                                                                                                                                                  |
+| Week 6                     | **(tu)** 09/29 — <br><br>**(th)** 10/01 —                                                                                                                                                                                  |
+| Week 7                     | **(tu)** 10/06 — <br><br>**(th)** 10/08 — [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf)                                                                                        |
+| Week 8                     | **(tu)** 10/13 — <br><br>**(th)** 10/18 —                                                                                                                                                                                  |
+| Week 9                     | **(tu)** 10/20 — <br><br>**(th)** 10/22 — [**Open Performance 3**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf)                                                                                        |
+| Week 10                    | **(tu)** 10/27 — <br><br>**(th)** 10/29 —                                                                                                                                                                                  |
+| Week 11                    | **(tu)** 11/03 — Final Proposal Due<br><br>**(th)** 11/05 —                                                                                                                                                                |
+| Week 12                    | **(tu)** 11/10 — Group Work Session / Workshop<br><br>**(th)** 11/12 —                                                                                                                                                     |
+| Week 13                    | **(tu)** 11/17 — Possible Open Performance 4 / Group Work Session / Workshop<br><br>**(th)** 11/19 —                                                                                                                       |
+| Week 14                    | **(tu)** 11/24 — FINAL PROJECT DISCUSSION                                                                                                                                                                                  |
+| Week 15                    | **(tu)** 12/01 — Final project discussion, continued                                                                                                                                                                       |
+| Week 16                    | **12/05** — Reading Week support LABS                                                                                                                                                                                      |
+| Final Project Presentation | **12/14** — To be discussed                                                                                                                                                                                                |
