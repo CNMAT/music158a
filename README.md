@@ -5,7 +5,7 @@ What do we mean when we say something is "musical"?
 
 How can computers and AI assistants deepen our understanding of what we call "musical"? <br />
 
-![gif](images/rhythmic_activity_pulsing_dots-stretch2.gif)
+![gif](images/rhythmic_activity_pulsing_dots.gif)
 
 How can computational systems designed for musical control expand the ways humans think about and make music with machines? <br />
 
