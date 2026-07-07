@@ -13,7 +13,7 @@ In this course, we do not ask whether an audible phenomenon is music; we ask wha
 
 ![gif](images/rhythmic_prob_full16_4beats.gif)
 
-How do we decide what is better?  
+How do we decide which is better?  
 
 ![gif](images/rhythmic_prob_full16_4beats_odd_only_fast.gif)
 
