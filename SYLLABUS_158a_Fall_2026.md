@@ -7,7 +7,7 @@ Sound and Music Computing with CNMAT Technologies <br />
 [classschedule]: https://classes.berkeley.edu/search/class?search=music+158a&f%5B0%5D=term%3A8588
 Music 158A, Spring 2026 <br />
 
-![gif](images/beat-division.gif)
+![gif](images/rhythmic_activity_pulsing_dots.gif)
 
 Instructor: Edmund Campion with GSI Pablo Teutli
 Email: campion@berkeley.edu
@@ -20,19 +20,20 @@ Class Website: https://github.com/CNMAT/music158a
 
 Course Description
 ------------------
-Music 158b will explore instrument design and musical expression through a practice-based theoretical approach. Students will create new instruments and performance environments using a variety of physical interaction paradigms and musical processes emerging from the UC Berkeley Center for New Music and Audio Technologies (CNMAT). Building on methodologies established in Music 158A/258A, the course builds on developing aesthetic, analytic, and technical skills through discussion, empirical study, and collaborative engagement. With a balance of artistic and technical concerns, participants deepen their understanding of the creative process, demonstrating the results through class installation and public performance. Course can be repeated for credit. Prerequisite: Music 158A, 258A, or consent of instructor.
+Music 158a will explore musical topics through computational and AI related tools, mainly the cycling74/Ableton Max/MSP package. Students will learn the basics of Max/MSP through a series of weekly exercises, including the use of Gemini AI coding support. UC Berkeley Center for New Music and Audio Technologies (CNMAT)has been developing tools for these purposes for over 30 years and we will introduce and apply these tools throughout the semester. The course builds on developing aesthetic, analytic, and technical skills through discussion, empirical study, and collaborative engagement. With a balance of artistic and technical concerns, participants deepen their understanding of the creative process, demonstrating their work through a final-project, presentation and/pr a public performance. 
 
 Course Goals
 -----------------
 
-Over the semester students will build hybrid physical and software-based musical instruments and focus on  workshopping performance. The course will incorporate foundational skills including sensors, signal input, amplification, signal processing, interface design, systems aesthetics, and artistic output. The class will culminate with a final public installation and performance with the instruments built over the course of the semester. 
+In this course, we do not ask whether it is music; we ask what is musical about it, and how, through iteration, might we make it more musical -- not what is best, but what is better. Our interests here are not centered on the direct imitation of conventional human systems of music making. Instead, we will work to replace our reliance on familiarity—often the basis of what we think we like in music—with inquisitiveness, openness, and testing based on audible feedback. Music made with musically informed computational systems extends beyond imitation of established human practices -- towards an expanded field in which the human is sometimes overtaken by machine processes. The primary goal is to accomplish a basic understanding of Max/MSP and to complete a final project that demonstrates that understanding and produces a musical outcome.
+
 
 Final Project Presentations
 ---------------------------
 
-Music 158B/258B students do not take a  standardized final exam. In lieu of a standardized final exam, students work alone or in groups to create final projects and performance applying the skills and techniques developed in class.  Final projects will be submitted as video documentation and technical materials by the scheduled exam date and will be presented to the public at a class performance installation.
+Music 158a students do not take a  standardized final exam. In lieu of a standardized final exam, students work alone to produce a final project. Final projects will be due at the scheduled exam period and will be presented to the class as a demonstration/performance/installation on or near the final exam date (TBD).
 
-Music 258B students will be required to create a final project that is appropriate to the graduate level of study in music composition. The specifics of the requirement will be discussed and agreed upon by the instructor in consultation with each individual student. Graduate students from outside the Music Department can opt to take Music 158B instead of Music 258B, but graduate students in the Department of Music must take Music 258B.
+Music 258B students will be required to create a final project appropriate to the graduate level of disciplinary focus. The specifics of the requirement will be discussed and agreed upon by the instructor in consultation with each student. Graduate students from inside and outside the Music Department must be registered for Music 258B (see instructor).
 
 Class Materials
 ---------------
@@ -65,30 +66,29 @@ Schedule
 
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Week 1* 01/20     | Andrew in France |
-| *Week 1* 01/27     | Class Introduction |
-| *Week 2* 02/03     | Demo 1 - Build a Mic |
-| *Week 2* 02/03     | Discussion / Critique: How do these input devices relate to movement? How well does the range of values relate to the gesture of input? How does the organization and naming of sensor values change the way we think about them? |
-| *Week 3* 02/10     | Discussion / Critique: Building at the edge of perception and software as a medium |
-| *Week 3* 02/10     | Open Lab Prototype Performance 1 |
-| *Week 4* 02/17     | Demo - Transduction - Drum Solenoids |
-| *Week 4* 02/17     | [**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf) |
-| *Week 5* 02/24     | Open Discussion: Activating the environment, mechatronic sound, speaker coils, digital signal processing. |
-| *Week 5* 02/24     | Discussion / Critique: How do these output devices relate to the performance experience? How well does the range of values relate to the gesture of output? How do the names of output processes change the way we think about them? |
-| *Week 6* 03/03     | Open Discussion: Learning to play an unknown instrument by moving between exploratory “babbling” to build a catalog of repeatable figures — this may change each time you sit down to play. |
-| *Week 6* 03/03     | Linda Bouchard and Jeff Lubow presenting their Ocular Scores Morphograph |
-| *Week 7* 03/10     | Discussion / Critique: What was your experience improvising with your teammates’ mappings? What was intuitive and counterintuitive? What makes a successful mapping? |
-| *Week 7* 03/10     | [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf) |
-| *Week 8* 03/17     | Lecture: How the instrument’s tactile, and response effects experience; towards extended appendages. “Dipping” as a way to test repeatability. |
-| *Week 8* 03/17     | Demo - Spatialized Audio Main Room |
-| *Week 9* 03/24     | Discussion / Critique: How do these input devices relate to movement? How well does the range of values relate to the gesture of input? How does the organization and naming of sensor values change the way we think about them? |
-| *Week 9* 03/24     | [**Open Performance 3**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf) |
-| *Week 10* 03/31    | **Spring Recess - No Class!** |
-| *Week 10* 03/31    | **Spring Recess - No Class!** |
-| *Week 11* 04/07    | **Final Proposal Due** |
-| *Week 11* 04/07    | Discussion: Contrapuntal textures in time-based arts. Micro-gestures, Polyphonies of movement and their affect on our perception of sound.How does the resulting musical texture effect the experience of performance? Describe your experience of gesture in contrast to the sounding results. |
-| *Week 12* 04/14    | Group Work Session / Workshop |
-| *Week 12* 04/14    | Strategies for flexibility, modes vs statelessness; found content vs composed embedded content. How does the instrument modality effect the performer’s gesture and musical use of the instrument? Which aspects of performance gesture and sounding results create a sense of musical progression and change? Compare modalities between your instruments and those of other electronic and acoustic instrument |
+| *Week 1* 08/21 (th)   | Introduction to Music 158A |
+| *Week 2* 09/01 (tu)   | Technical installations (BRING LAPTOPS with Max/MSP installed!)|
+           09/03 (th)   | Demo 1 - Build a Mic |
+| *Week 3* 09/08     | |
+           09/10     | Open Lab Prototype Performance 1 |
+| *Week 4* 09/15     | Demo - Transduction - Drum Solenoids |
+          09/17     | [**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf) |
+| *Week 5* 09/22     | |
+           09/24     | |
+| *Week 6* 09/29     | |
+           10/01     | |
+| *Week 7* 10/06     | |
+           10/08     | [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf) |
+| *Week 8* 10/13     | |
+           10/18     |  |
+| *Week 9* 10/20     | |
+           10/22     | [**Open Performance 3**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf) |
+| *Week 10* 10/27    ||
+            10/29    | |
+| *Week 11* 11/03    | **Final Proposal Due** |
+            11/05    | |
+| *Week 12* 11/10    | Group Work Session / Workshop |
+            11/12    | |
 | *Week 13* 04/21    | **Possible Open Performance 4** Group Work Session / Workshop |
 | *Week 13* 04/21    | Discussion / Critique: Describe the experience of performing with different physical and data mediated “feels.” Which gestures were easier to accomplish, which were more difficult?How does the situation surrounding the gesture effect the experience of the performer versus the audience? |
 | *Week 14* 04/28    | Group Work Session / Workshop |
