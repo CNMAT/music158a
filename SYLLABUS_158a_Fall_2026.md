@@ -64,6 +64,29 @@ The class will conclude with a final Performance and installation of works in th
 Schedule
 --------
 
+## Schedule
+
+| Week                       | Tuesday                                                                         | Thursday / Other                                                                                        |
+| -------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Week 1                     | —                                                                               | 08/21 (th)<br>Introduction to Music 158A                                                                |
+| Week 2                     | 09/01 (tu)<br>Technical installations **BRING LAPTOPS with Max/MSP installed!** | 09/03 (th)<br>Demo 1 — Build a Mic                                                                      |
+| Week 3                     | 09/08 (tu)<br>—                                                                 | 09/10 (th)<br>Open Lab Prototype Performance 1                                                          |
+| Week 4                     | 09/15 (tu)<br>Demo — Transduction — Drum Solenoids                              | 09/17 (th)<br>[**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf) |
+| Week 5                     | 09/22 (tu)<br>—                                                                 | 09/24 (th)<br>—                                                                                         |
+| Week 6                     | 09/29 (tu)<br>—                                                                 | 10/01 (th)<br>—                                                                                         |
+| Week 7                     | 10/06 (tu)<br>—                                                                 | 10/08 (th)<br>[**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf) |
+| Week 8                     | 10/13 (tu)<br>—                                                                 | 10/18<br>—                                                                                              |
+| Week 9                     | 10/20 (tu)<br>—                                                                 | 10/22 (th)<br>[**Open Performance 3**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf) |
+| Week 10                    | 10/27 (tu)<br>—                                                                 | 10/29 (th)<br>—                                                                                         |
+| Week 11                    | 11/03 (tu)<br>Final Proposal Due                                                | 11/05 (th)<br>—                                                                                         |
+| Week 12                    | 11/10 (tu)<br>Group Work Session / Workshop                                     | 11/12 (th)<br>—                                                                                         |
+| Week 13                    | 11/17 (tu)<br>Possible Open Performance 4<br>Group Work Session / Workshop      | 11/19 (th)<br>—                                                                                         |
+| Week 14                    | 11/24 (tu)<br>FINAL PROJECT DISCUSSION                                          | —                                                                                                       |
+| Week 15                    | 12/01 (tu)<br>Final project discussion, continued                               | —                                                                                                       |
+| Week 16                    | 12/05<br>Reading Week support LABS                                              | —                                                                                                       |
+| Final Project Presentation | 12/14<br>To be discussed                                                        | —                                                                                                       |
+
+
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 08/21 (th)   | Introduction to Music 158A |
