@@ -67,32 +67,60 @@ Schedule
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 08/21 (th)   | Introduction to Music 158A |
+
 | *Week 2* 09/01 (tu)   | Technical installations (BRING LAPTOPS with Max/MSP installed!)|
+
            09/03 (th)   | Demo 1 - Build a Mic |
+           
 | *Week 3* 09/08     | |
+
            09/10     | Open Lab Prototype Performance 1 |
+           
 | *Week 4* 09/15     | Demo - Transduction - Drum Solenoids |
+
           09/17     | [**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf) |
+          
 | *Week 5* 09/22     | |
+
            09/24     | |
+           
 | *Week 6* 09/29     | |
+
            10/01     | |
+           
 | *Week 7* 10/06     | |
+
            10/08     | [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf) |
+           
 | *Week 8* 10/13     | |
+
            10/18     |  |
+           
 | *Week 9* 10/20     | |
+
            10/22     | [**Open Performance 3**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf) |
+           
 | *Week 10* 10/27    ||
+
             10/29    | |
+            
 | *Week 11* 11/03    | **Final Proposal Due** |
+
             11/05    | |
+            
 | *Week 12* 11/10    | Group Work Session / Workshop |
+
             11/12    | |
-| *Week 13* 04/21    | **Possible Open Performance 4** Group Work Session / Workshop |
-| *Week 13* 04/21    | Discussion / Critique: Describe the experience of performing with different physical and data mediated “feels.” Which gestures were easier to accomplish, which were more difficult?How does the situation surrounding the gesture effect the experience of the performer versus the audience? |
-| *Week 14* 04/28    | Group Work Session / Workshop |
-| *Week 14* 04/28    | Project Discussion / Critique : Show work in Progress |
-| *Week 15* 05/05    | reading week |
-| *Week 16* 05/12    | **Final Performance** |
-|                    |  |
+            
+| *Week 13* 11/17    | **Possible Open Performance 4** Group Work Session / Workshop |
+
+            11/19    | |
+            
+| *Week 14* 11/24    | FINAL PROJECT DISCUSSION|
+
+| *Week 15* 12/01    |Final project discussion (cont.)
+
+| *Week 16* 12/05    |Reading Week support LABS
+
+| *Final Project Presentation day 12/14 (to be discussed)
+
