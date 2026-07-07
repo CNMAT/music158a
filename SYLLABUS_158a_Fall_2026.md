@@ -1,4 +1,4 @@
-**Music 158A Fall 2026**
+**Music 158A Fall 2026 SYLLABUS**
 ======================
 Department of Music/CNMAT <br />
 Sound and Music Computing with CNMAT Technologies <br />
@@ -7,7 +7,7 @@ Sound and Music Computing with CNMAT Technologies <br />
 [classschedule]: https://classes.berkeley.edu/search/class?search=music+158a&f%5B0%5D=term%3A8588
 Music 158A, Spring 2026 <br />
 
-![gif](images/rhythmic_activity_pulsing_dots.gif)
+![gif](images/rhythmic_activity_pulsing_dots_02.gif)
 
 Instructor: Edmund Campion with GSI Pablo Teutli
 Email: campion@berkeley.edu
