@@ -23,6 +23,14 @@ How do we decide which is better?
 
 Rather than pursuing fully autonomous music generation, our focus will be on collaborative, semi-autonomous systems, where decision engines and state machines—developed and shaped with the aid of AI coding support, the history of music making with computers at CNMAT, and auditory feedback—lead a student toward new forms of personal musical expression with machines. <br />
 
-What forms of musical thought become possible when sound, structure, and process are treated as computable materials—some extending beyond the limits of human perception, performance, and cognition? When does an algorithm become more than a procedure to become a compositional partner, model, or musical agent? What kinds of musical knowledge are made explicit when we formalize them computationally? What aspects of musical experience resist formalization, quantization, or algorithmic description? How do feedback, randomness, recursion, emergence, and constraint function musically?
+What forms of musical thought become possible when sound, structure, and process are treated as computable materials—some extending beyond the limits of human perception, performance, and cognition? 
+
+When does an algorithm become more than a rule to become a compositional partner, model, or musical agent? 
+
+What kinds of musical knowledge are made explicit when we formalize them computationally? 
+
+What aspects of musical experience resist formalization, quantization, or algorithmic description?
+
+How do feedback, randomness, recursion, emergence, and constraint function musically?
 
 [Syllabus]([[https://github.com/CNMAT/Music158a/blob/main/SYLLABUS_158a_Fall_2026.md](https://github.com/CNMAT/music158a/blob/main/SYLLABUS_158a_Fall_2026.md)]
