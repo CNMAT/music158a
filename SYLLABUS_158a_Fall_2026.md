@@ -74,19 +74,32 @@ The class will conclude with a final Performance and installation of works in th
 |*Class Requirements:  Always bring Laptops with a full working environment ready for in-class LAB*
 | Week 3                     | **(tu)** 09/08 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 1 <br><br>
 **(th)** 09/10 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 2 
-*Assignments:  Homework_1 assigned and found in folder Homework_Assignments|
+*Assignment:  Homework_1 (all assignments found in folder Homework_Assignments)*
 | Week 4                     | **(tu)** 09/15 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 3  <br><br>**
-(th)** 09/17 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints CLASS DEMONSTRATIONS                                                   |
-| Week 5                     | **(tu)** 09/22 — <br><br>**(th)** 09/24 —                                                                                                                                                                                  |
-| Week 6                     | **(tu)** 09/29 — <br><br>**(th)** 10/01 —                                                                                                                                                                                  |
-| Week 7                     | **(tu)** 10/06 — <br><br>**(th)** 10/08 — [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf)                                                                                        |
-| Week 8                     | **(tu)** 10/13 — <br><br>**(th)** 10/15 —                                                                                                                                                                                  |
-| Week 9                     | **(tu)** 10/20 — <br><br>**(th)** 10/22 — [**Open Performance 3**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf)                                                                                        |
-| Week 10                    | **(tu)** 10/27 — <br><br>**(th)** 10/29 —                                                                                                                                                                                  |
-| Week 11                    | **(tu)** 11/03 — Final Proposal Due<br><br>**(th)** 11/05 —                                                                                                                                                                |
-| Week 12                    | **(tu)** 11/10 — Group Work Session / Workshop<br><br>**(th)** 11/12 —                                                                                                                                                     |
+(th)** 09/17 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints CLASS DEMONSTRATIONS
+| *DUE:  Homework_1 due today by midnight, students are given a chance to present in class today|
+
+| Week 5                     | **(tu)** 09/22 — MSP, Synthesis, CNMAT Spectral Objects PT.1<br><br>
+**(th)** 09/24 —   MSP, Synthesis, CNMAT Spectral Objects PT.2  
+*Assignment:  Homework_2 (all assignments found in folder Homework_Assignments)|*
+| Week 6                     | **(tu)** 09/29 — MSP, Additive Synthesis, CNMAT Spectral Objects PT.3 <br><br>
+**(th)** 10/01 MSP, Synthesis, CNMAT Spectral Objects CLASS DEMONSTRATIONS  —                                                                | *DUE:  Homework_2 due today by midnight, students are given a chance to present in class today|
+
+| Week 7                     | **(tu)** 10/06 — Spatial Audio (SPAT) PT. 1<br><br>
+**(th)** 10/08 — Spatial Audio (SPAT) PT. 2|
+*Assignment:  Homework_3 (all assignments found in folder Homework_Assignments)|*
+| Week 8                     | **(tu)** 10/13 — Spatial Audio (SPAT) PT. 3 <br><br>
+**(th)** 10/15 —     Spatial Audio (SPAT) CLASS DEMONSTRATIONS|                                                                                                                                                                             |
+| Week 9                     | **(tu)** 10/20 — Advanced Control and AI assisted programming PT.1 <br><br>
+**(th)** 10/22 — Advanced Control and AI assisted programming PT.2<br><br>                                                                                  |
+| Week 10                    **(tu)** 10/27 — Advanced Sampling, VST~ plug-ins, Sfz~ samplers Pt.1 <br><br>
+**(th)** 10/29 —                Advanced Sampling, VST~ plug-ins, Sfz~ samplers Pt.2 <br><br>                                                                                                                                                                  |
+| Week 11                    | **(tu)** 11/03 - Advanced Spatial Audio Pt. 1 <br><br>
+**(th)** 11/05 —    Advanced Spatial Audio Pt. 2 <br><br>                                                                                                                                                            |
+| Week 12                    | **(tu)** 11/10 — Group Work Session / Workshop<br><br>
+**(th)** 11/12 —                                                                                                                                                     |
 | Week 13                    | **(tu)** 11/17 — Possible Open Performance 4 / Group Work Session / Workshop<br><br>**(th)** 11/19 —                                                                                                                       |
 | Week 14                    | **(tu)** 11/24 — FINAL PROJECT DISCUSSION                                                                                                                                                                                  |
 | Week 15                    | **(tu)** 12/01 — Final project discussion, continued <br><br>**(th)** 12/03 —                                                                                                                                                                      |
-| Week 16                    | **12/07-11** — Reading Week non-mandatory support LABS                                                                                                                                                                                      |
+| Week 16                    | **12/07-11** — Reading Week non-mandatory support LABS for Final Project development                                                                                                                                                                                      |
 | Final Project Presentation | **12/14** — To be discussed                                                                                                                                                                                                |
