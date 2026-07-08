@@ -14,9 +14,6 @@ Email: campion@berkeley.edu
 Class Day/Time: T TR 11:00 am - 12:30 pm
 Class Website: https://github.com/CNMAT/music158a
 
-[Syllabus](https://github.com/CNMAT/Music158B_Spring23/blob/master/SYLLABUS.md)
-| [Art Resources](https://github.com/CNMAT/Music158B_Spring23/blob/master/RESOURCES.md)
-| [Class Website](https://github.com/CNMAT/Music158B_Spring23)
 
 Course Description
 ------------------
@@ -72,11 +69,14 @@ The class will conclude with a final Performance and installation of works in th
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Week 1                     | **(th)** 08/20 — Introduction to Music 158A
 | *Assignments:  Install Max/MSP (NO CLOUD INSTALLATIONS or Back-ups!!! Windows, no OneDrive and Mac, no iCloud. Students must keep backups of their materials on a flash drive.)* 
-| Week 2                     | **(tu)** 09/01 — MAX/MSP basics and completion of individual student technical installs <br><br>**(th)** 09/03 — in-class practice with Max/MSP and Audio out
+| Week 2                     | **(tu)** 09/01 — MAX/MSP basics and completion of individual student technical installs <br><br>
+**(th)** 09/03 — in-class practice with Max/MSP and Audio out
 |*Class Requirements:  Always bring Laptops with a full working environment ready for in-class LAB*
-| Week 3                     | **(tu)** 09/08 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 1 <br><br>**(th)** 09/10 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 2 
+| Week 3                     | **(tu)** 09/08 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 1 <br><br>
+**(th)** 09/10 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 2 
 *Assignments:  Homework_1 assigned and found in folder Homework_Assignments|
-| Week 4                     | **(tu)** 09/15 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 3  <br><br>**(th)** 09/17 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints CLASS DEMONSTRATIONS                                                   |
+| Week 4                     | **(tu)** 09/15 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 3  <br><br>**
+(th)** 09/17 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints CLASS DEMONSTRATIONS                                                   |
 | Week 5                     | **(tu)** 09/22 — <br><br>**(th)** 09/24 —                                                                                                                                                                                  |
 | Week 6                     | **(tu)** 09/29 — <br><br>**(th)** 10/01 —                                                                                                                                                                                  |
 | Week 7                     | **(tu)** 10/06 — <br><br>**(th)** 10/08 — [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf)                                                                                        |
