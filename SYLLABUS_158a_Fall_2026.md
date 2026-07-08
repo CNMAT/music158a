@@ -52,7 +52,7 @@ Grading Policy
 policy: Students are allowed four (4) absences without penalty.  After four absences, each additional absence will result in a 5% drop in your overall grade. 
 
 **Class Demonstration for Homework assignments = 4% total**
-policy: Every student is required to present once at the front of the class from their own laptop with the results of one of the homework assignments from the entire semester.
+policy: Every student is required to present once at the front of the class from their own laptop with the results of one of the homework assignments.
 
 **Technology and Tools Readiness = 6% total** 
 policy: Students are responsible for maintaining and demonstrating that their laptop working environment is in solid working order at all times. This course features weekly updates and tool sharing on GitHub and/or BCourses. Three (3) random spot checks of readiness will be made during class at random throughout the semester, with each check worth 2% of final grade. 
@@ -74,7 +74,8 @@ The class will conclude with a final Performance and installation of works in th
 | *Assignments:  Install Max/MSP (NO CLOUD INSTALLATIONS or Back-ups!!! Windows, no OneDrive and Mac, no iCloud. Students must keep backups of their materials on a flash drive.)* 
 | Week 2                     | **(tu)** 09/01 — MAX/MSP basics and completion of individual student technical installs <br><br>**(th)** 09/03 — in-class practice with Max/MSP and Audio out
 |*Class Requirements:  Always bring Laptops with a full working environment ready for in-class LAB*
-| Week 3                     | **(tu)** 09/08 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 1 <br><br>**(th)** 09/10 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 2 |
+| Week 3                     | **(tu)** 09/08 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 1 <br><br>**(th)** 09/10 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 2 
+*Assignments:  Homework_1 assigned and found in folder Homework_Assignments|
 | Week 4                     | **(tu)** 09/15 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 3  <br><br>**(th)** 09/17 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints CLASS DEMONSTRATIONS                                                   |
 | Week 5                     | **(tu)** 09/22 — <br><br>**(th)** 09/24 —                                                                                                                                                                                  |
 | Week 6                     | **(tu)** 09/29 — <br><br>**(th)** 10/01 —                                                                                                                                                                                  |
