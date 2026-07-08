@@ -67,8 +67,8 @@ The class will conclude with a final Performance and installation of works in th
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Week 1                     | **(th)** 08/20 — Introduction to Music 158A
 | Assignments:  Install Max/MSP (NO CLOUD INSTALLATIONS or Back-ups!!! Windows, no OneDrive and Mac, no iCloud. Students must keep backups of their materials on a flash drive.) 
-| Week 2                     | **(tu)** 09/01 — MAX/MSP basics and completion of individual student technical installs <br><br>**(th)** 09/03 — Demo 1 — Build a Mic then of course we do it all again and the texxt keeps building and being repaired over and over again.. 
-|Class Requirements:  Always bring Laptops with full working environment ready for in-class LAB
+| Week 2                     | **(tu)** 09/01 — MAX/MSP basics and completion of individual student technical installs <br><br>**(th)** 09/03 — in-class practice with Max/MSP and Audio out
+|*Class Requirements:  Always bring Laptops with a full working environment ready for in-class LAB*
 | Week 3                     | **(tu)** 09/08 — Add Tuesday activity description here. This can be a longer description, and GitHub Markdown will wrap it automatically within the column width.<br><br>**(th)** 09/10 — Open Lab Prototype Performance 1 |
 | Week 4                     | **(tu)** 09/15 — Demo — Transduction — Drum Solenoids<br><br>**(th)** 09/17 — [**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf)                                                    |
 | Week 5                     | **(tu)** 09/22 — <br><br>**(th)** 09/24 —                                                                                                                                                                                  |
