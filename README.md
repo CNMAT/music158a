@@ -1,6 +1,6 @@
 # music158a INTRO
 Music 158A Fall 2026 <br />
-[Jump to Music 158a SYLLABUS]:https://github.com/CNMAT/music158a/edit/main/SYLLABUS_158a_Fall_2026.md
+### [Jump to Fall 2026 Music 158a SYLLABUS] (https://github.com/CNMAT/music158a/edit/main/SYLLABUS_158a_Fall_2026.md)
 
 What do we mean when we say something is "musical"? 
 
