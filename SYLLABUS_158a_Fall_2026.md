@@ -66,7 +66,7 @@ The class will conclude with a final Performance and installation of works in th
 | Week                       | Dates and Activities                                                                                                                                                                                                       |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Week 1                     | **(th)** 08/20 — Introduction to Music 158A
-| Assignments:  Install Max/MSP (NO CLOUD INSTALLATIONS or Back-ups!!! Windows, no OneDrive and Mac, no iCloud. Students must keep backups of their materials on a flash drive.) 
+| *Assignments:  Install Max/MSP (NO CLOUD INSTALLATIONS or Back-ups!!! Windows, no OneDrive and Mac, no iCloud. Students must keep backups of their materials on a flash drive.)* 
 | Week 2                     | **(tu)** 09/01 — MAX/MSP basics and completion of individual student technical installs <br><br>**(th)** 09/03 — in-class practice with Max/MSP and Audio out
 |*Class Requirements:  Always bring Laptops with a full working environment ready for in-class LAB*
 | Week 3                     | **(tu)** 09/08 — Add Tuesday activity description here. This can be a longer description, and GitHub Markdown will wrap it automatically within the column width.<br><br>**(th)** 09/10 — Open Lab Prototype Performance 1 |
