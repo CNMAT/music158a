@@ -48,13 +48,16 @@ Each week students are assigned a specific paradigm of instrument design to be w
 Grading Policy
 --------------
 
-**Class Attendance = 20% total** policy: Students are allowed four (4) absences without penalty.  After four absences, each additional absence will result in a 5% drop in your overall grade. 
+**Class Attendance = 20% total** 
+policy: Students are allowed four (4) absences without penalty.  After four absences, each additional absence will result in a 5% drop in your overall grade. 
 
-**Technology and Tools Readiness = 6% total** policy: Students are responsible for maintaining and demonstrating that their laptop working environment is in solid working order at all times. This course features weekly updates and tool sharing on GitHub and/or BCourses. Three (3) random spot checks of readiness will be made during class at random throughout the semester, with each check worth 2% of final grade. 
+**Class Demonstration for Homework assignments = 4% total**
+policy: Every student is required to present once at the front of the class from their own laptop with the results of one of the homework assignments from the entire semester.
 
-It is required that you attend and participate regularly in critique, this will account for 30% of your grade. The course includes engaged group dialogue and student-led presentations of the assigned labbs along with research materials. Students will be assessed based upon their individual level of engagement in seminar and the quality of student-lead presentations as defined in the grading policy/ rubric below. 
+**Technology and Tools Readiness = 6% total** 
+policy: Students are responsible for maintaining and demonstrating that their laptop working environment is in solid working order at all times. This course features weekly updates and tool sharing on GitHub and/or BCourses. Three (3) random spot checks of readiness will be made during class at random throughout the semester, with each check worth 2% of final grade. 
 
-**Lab Assignments = 40% (4 x 10% each)** 
+**Homework Assignments = 40% (4 x 10% each)** 
 
 There will be four lab assignments for the semester and they must be submitted on the day they are due. Students will submit links  to code via github and visual documentation of hardware to the coorisponding google slide deck for the lab.
 
@@ -71,8 +74,8 @@ The class will conclude with a final Performance and installation of works in th
 | *Assignments:  Install Max/MSP (NO CLOUD INSTALLATIONS or Back-ups!!! Windows, no OneDrive and Mac, no iCloud. Students must keep backups of their materials on a flash drive.)* 
 | Week 2                     | **(tu)** 09/01 — MAX/MSP basics and completion of individual student technical installs <br><br>**(th)** 09/03 — in-class practice with Max/MSP and Audio out
 |*Class Requirements:  Always bring Laptops with a full working environment ready for in-class LAB*
-| Week 3                     | **(tu)** 09/08 — Add Tuesday activity description here. This can be a longer description, and GitHub Markdown will wrap it automatically within the column width.<br><br>**(th)** 09/10 — Open Lab Prototype Performance 1 |
-| Week 4                     | **(tu)** 09/15 — Demo — Transduction — Drum Solenoids<br><br>**(th)** 09/17 — [**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf)                                                    |
+| Week 3                     | **(tu)** 09/08 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 1 <br><br>**(th)** 09/10 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 2 |
+| Week 4                     | **(tu)** 09/15 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints PT 3  <br><br>**(th)** 09/17 — Audio Samples, Max Control and Timing, Probabilistic Selection Engines, and Constraints CLASS DEMONSTRATIONS                                                   |
 | Week 5                     | **(tu)** 09/22 — <br><br>**(th)** 09/24 —                                                                                                                                                                                  |
 | Week 6                     | **(tu)** 09/29 — <br><br>**(th)** 10/01 —                                                                                                                                                                                  |
 | Week 7                     | **(tu)** 10/06 — <br><br>**(th)** 10/08 — [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf)                                                                                        |
