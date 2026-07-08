@@ -1,6 +1,7 @@
 # Music158a Fall 2026 INTRODUCTION
 <br /> <br />
-[*(Jump to Fall 2026 Music 158a SYLLABUS)*](SYLLABUS_158a_Fall_2026.md)
+<sub>[*(Jump to Fall 2026 Music 158a SYLLABUS)*](SYLLABUS_158a_Fall_2026.md)<sub>
+
 
 What do we mean when we say something is "musical"? 
 
