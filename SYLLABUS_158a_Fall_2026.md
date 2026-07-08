@@ -48,7 +48,9 @@ Each week students are assigned a specific paradigm of instrument design to be w
 Grading Policy
 --------------
 
-**Critique Engagement = 30%** 
+**Class Attendance = 20% total** policy: Students are allowed four (4) absences without penalty.  After four absences, each additional absence will result in a 5% drop in your overall grade. 
+
+**Technology and Tools Readiness = 6% total** policy: Students are responsible for maintaining and demonstrating that their laptop working environment is in solid working order at all times. This course features weekly updates and tool sharing on GitHub and/or BCourses. Three (3) random spot checks of readiness will be made during class at random throughout the semester, with each check worth 2% of final grade. 
 
 It is required that you attend and participate regularly in critique, this will account for 30% of your grade. The course includes engaged group dialogue and student-led presentations of the assigned labbs along with research materials. Students will be assessed based upon their individual level of engagement in seminar and the quality of student-lead presentations as defined in the grading policy/ rubric below. 
 
