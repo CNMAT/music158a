@@ -1,6 +1,7 @@
 # Music158a Fall 2026 INTRODUCTION
-<sub> [*(Jump to Fall 2026 Music 158a SYLLABUS)*](SYLLABUS_158a_Fall_2026.md) <sub>
 <br /> <br />
+[*(Jump to Fall 2026 Music 158a SYLLABUS)*](SYLLABUS_158a_Fall_2026.md)
+
 What do we mean when we say something is "musical"? 
 
 How can computers and AI assistants deepen our understanding of what we call "musical"? <br />
