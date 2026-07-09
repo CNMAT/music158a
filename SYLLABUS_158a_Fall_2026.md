@@ -11,7 +11,7 @@ Music 158A, Spring 2026 <br />
 
 Instructor: Edmund Campion with GSI Pablo Teutli
 Email: campion@berkeley.edu
-Class Day/Time: T TR 11:00 am - 12:30 pm
+Class Day/Time: T TR 11:00 am - 12:30 pm <br />
 Class Website: https://github.com/CNMAT/music158a2026
 
 
