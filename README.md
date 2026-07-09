@@ -2,6 +2,8 @@
 
 <sub>[*(Jump to Fall 2026 Music 158a SYLLABUS)*](SYLLABUS_158a_Fall_2026.md)<sub>
 
+In this class, it is OK not to know.  Some of us are musicians (beginning to advanced), some are programmers (beginning to advanced), some know a lot about classical music, and nothing about hip hop.  Some know what they like in music, and don't know much else. All of this is good, and it is "OK not to know".  ASK, PLEASE~! <br />
+
 What do we mean when we say something is "musical"? 
 
 How can computers and AI assistants deepen our understanding of what we call "musical"? <br />
