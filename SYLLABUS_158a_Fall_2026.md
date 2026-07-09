@@ -48,19 +48,27 @@ Grading Policy
 **Class Attendance = 20% total** 
 policy: Students are allowed four (4) absences without penalty.  After four absences, each additional absence will result in a 5% drop in your overall grade. 
 
-**Class Demonstration for Homework assignments = 4% total**
-policy: Every student is required to present once at the front of the class from their own laptop with the results of one of the homework assignments.
+**Class Participation = 5% total**
+policy: Students are expected to ask questions and engage with the professor during the classroom meetings. 
 
-**Technology and Tools Readiness = 6% total** 
-policy: Students are responsible for maintaining and demonstrating that their laptop working environment is in solid working order at all times. This course features weekly updates and tool sharing on GitHub and/or BCourses. Three (3) random spot checks of readiness will be made during class at random throughout the semester, with each check worth 2% of final grade. 
+**Class Demonstration for Homework assignments = 5% total**
+policy: Every student is required to present once at the front of the class from their own laptop with the results of one of the homework assignments. This short presentation (5-8 min.) is in addition to the final project class demonstration required at the end of the semester.
 
-**Homework Assignments = 40% (4 x 10% each)** 
+**Technology and Tools Readiness = 5% total** 
+Policy: Students are responsible for maintaining and demonstrating that their laptop working environment is in solid working order at all times. This course features weekly updates and tool sharing on GitHub and/or BCourses.  When a student is given a warning from the instructor or GSI that they are out of compliance or not up to date on tools presented in class, they have one week to resolve and demonstrate the fix to the GSI. The first warning is without penalty.  All future warnings are an automatic 5% deduction from the overall grade.
 
-There will be four lab assignments for the semester and they must be submitted on the day they are due. Students will submit links  to code via github and visual documentation of hardware to the coorisponding google slide deck for the lab.
+**Homework Assignments = 40% (8 x 5% each)** 
 
-**Final Project and Performance = 30%** 
+Policy: There will be eight (8) homework assignments for the semester. Each assignment will be completed using the Max/MSP software tools provided. Submissions for homework are uploaded to the Music 158A Fall 2026 BCourses site by the beginning of class time on the day they are due. 
 
-The class will conclude with a final Performance and installation of works in the CNMAT main room. Final projects and research must demonstrate comprehension of, and engagement with both musicallity and technical working of projects. Research leading to the final presentation will begin halfway through the semester once we are finished with the initial labs.
+**Final Project and Performance = 25%** 
+
+The class will conclude with a final student demonstration, performance, and/or sound installation in the CNMAT main room. The final project is a creative work involving sound production and sound organization: a musical work or composition.
+
+The course is designed to provide students with no prior musical background and/or no prior computational experience with a clear pathway toward earning the full 25% allocated to the final project. Final projects must demonstrate both comprehension and application of course concepts, and they should be developed using the materials, methods, and technologies presented in class unless Professor Campion explicitly approves the use of other technologies or programming environments.
+
+The final project will involve both musical and technical considerations. Research and development for the final presentation will begin midway through the semester and will be integrated into the sequence of homework assignments.
+
 
 --------
 ## Schedule
