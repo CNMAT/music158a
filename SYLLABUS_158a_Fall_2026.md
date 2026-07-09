@@ -77,13 +77,10 @@ The class will conclude with a final Performance and installation of works in th
 | **Week 8**                     | **(tu)** 10/13 — Spatial Audio, Mixing, SPAT PT. 3<br><br>**(th)** 10/15 — Spatial Audio, Mixing, SPAT --CLASS DEMONSTRATIONS                                                                                                                                |
 | **Week 9**                     | **(tu)** 10/20 — Advanced Control and AI-assisted programming (ml.star) with Pitch Spaces (v8.codebox and v8.ui) PT. 1<br><br>**(th)** 10/22 — Advanced Control and AI-assisted programming with Markov Chains PT. 2                                                                                                     |
 | **Week 10**                    | **(tu)** 10/27 — Advanced Sampling, Event Morphology with Soundfile Descriptors, `vst~` plug-ins, `sfz~` samplers PT. 1<br><br>**(th)** 10/29 — Advanced Sampling, Event Morphology, `vst~` plug-ins, `sfz~` samplers PT. 2                                                                                     |
-| **Week 11**                    | **(tu)** 11/03 — Advanced Synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 1<br><br>**(th)** 11/05 — Advanced synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 2 
-
-| **Week 12**                    | **(tu)** 11/10 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 1<br><br>**(th)** 11/12 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 2 
-|
+| **Week 11**                    | **(tu)** 11/03 — Advanced Synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 1<br><br>**(th)** 11/05 — Advanced synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 2                                                   |
+| **Week 12**                    | **(tu)** 11/10 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 1<br><br>**(th)** 11/12 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 2                                                                                 |
 | **Week 13**                    | **(tu)** 11/17 — CATCH UP! <br><br>**(th)** 11/19 — CATCH UP!                                                                                                                     |
-| **Week 14**                    | **(tu)** 11/24 —  <br><br>**(th)** 11/26(SPRING BREAK)
-|
+| **Week 14**                    | **(tu)** 11/24 —  <br><br>**(th)** 11/26(SPRING BREAK)                                                        |
 | **Week 15**                    | **(tu)** 12/01 — Final project discussions and in-class programming PT. 1 <br><br>**(th)** 12/03 — Final project discussions and in-class programming PT.2                                                                                                                                     |
 | **Week 16**                    | **12/07–12/11** — Reading Week non-mandatory support LABS for Final Project development                    |
 | **Final Project Presentation** | **12/14** — To be discussed                                                                                
