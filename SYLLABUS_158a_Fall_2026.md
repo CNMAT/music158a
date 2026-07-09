@@ -21,18 +21,22 @@ Music 158A explores musical topics through computational and AI-assisted tools, 
 
 The course develops aesthetic, analytical, and technical skills through discussion, empirical study, hands-on experimentation, and collaborative engagement. Balancing artistic and technical concerns, students will deepen their understanding of creative processes involving sound, computation, and musical organization, culminating in a final project and presentation.
 
-Material and required software include: 
+**GitHub and Max (all required, mostly free)**
 
 Max/MSP monthly subscriptions (4-months at $12.99 per month) <br />
 [download max/msp]: https://cycling74.com/products/max
   
-**GitHub and Max packages Additions (all required and free)**
 Max Packages/CNMAT Externals <br />(Open Max/MSP, go to File/Show Package Manager, then search for CNMAT, then install 'CNMAT externals')
 
 Max Packages/odot<br /> (Open Max/MSP, go to File/Show Package Manager, then search for odot, then install 'odot by CNMAT')
 
 GitHub/CNMAT-MMJ-Depot https://github.com/CNMAT/CNMAT-MMJ-Depot <br />(Select green button 'CODE'. Choose 'Download Zip'. unpack/extract Zip and place in your Max9/Packages)
 
+GitHub/CNMAT/CNMAT-Pedagogy https://github.com/CNMAT/CNMAT-Pedagogy <br />(Select green button 'CODE'. Choose 'Download Zip'. unpack/extract Zip and place in your Max9/Packages)
+
+GitHub/EdmundCampion/CNMAT-Pedagogy-Apps https://github.com/EdmundCampion/CNMAT-Pedagogy-Apps <br />(Select green button 'CODE'. Choose 'Download Zip'. unpack/extract Zip and place in your Max9/Packages)
+
+IRCAM Forum SPAT https://forum.ircam.fr/projects/detail/spat/ <br /> (sign up for a free IRCAM Forum membership, download free Spat-5.3.8-macOS, or Spat-5.3.8-win64
 
 Course Goals
 -----------------
