@@ -23,12 +23,12 @@ The course develops aesthetic, analytical, and technical skills through discussi
 
 Material and required software include: 
 
-Max/MSP monthly subscriptions (4-months at $12.99 per month)
+Max/MSP monthly subscriptions (4-months at $12.99 per month) <br />
 [download max/msp]: https://cycling74.com/products/max
   
-GitHub and Max packages Additions (all required and free)
-Max Packages/CNMAT Externals (In Max/MSP, go to File/Show Package Manager, then search for CNMAT, then install 'CNMAT externals')
-Max Packages/odot (In Max/MSP, go to File/Show Package Manager, then search for odot, then install 'odot by CNMAT')
+**GitHub and Max packages Additions (all required and free)**
+Max Packages/CNMAT Externals (Open Max/MSP, go to File/Show Package Manager, then search for CNMAT, then install 'CNMAT externals')
+Max Packages/odot (Open Max/MSP, go to File/Show Package Manager, then search for odot, then install 'odot by CNMAT')
 [GitHub/CNMAT Depot]: https://github.com/CNMAT/CNMAT-MMJ-Depot
 
 
