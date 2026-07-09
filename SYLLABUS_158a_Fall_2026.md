@@ -27,9 +27,9 @@ Max/MSP monthly subscriptions (4-months at $12.99 per month) <br />
 [download max/msp]: https://cycling74.com/products/max
   
 **GitHub and Max packages Additions (all required and free)**
-Max Packages/CNMAT Externals (Open Max/MSP, go to File/Show Package Manager, then search for CNMAT, then install 'CNMAT externals')
-Max Packages/odot (Open Max/MSP, go to File/Show Package Manager, then search for odot, then install 'odot by CNMAT')
-[GitHub/CNMAT Depot]: https://github.com/CNMAT/CNMAT-MMJ-Depot
+Max Packages/CNMAT Externals (Open Max/MSP, go to File/Show Package Manager, then search for CNMAT, then install 'CNMAT externals') <br />
+Max Packages/odot (Open Max/MSP, go to File/Show Package Manager, then search for odot, then install 'odot by CNMAT') <br />
+GitHub/CNMAT-MMJ-Depot https://github.com/CNMAT/CNMAT-MMJ-Depot <br />(Select green button 'CODE'. Choose, 'Download Zip'. unpack/extract Zip and place in your Max9/Packages)
 
 
 Course Goals
