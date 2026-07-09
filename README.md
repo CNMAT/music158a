@@ -4,7 +4,7 @@
 
 In this class, it is OK not to know. Some of us are musicians, from beginner to advanced. Some of us are programmers, from beginner to advanced. Some of us are music lovers who know what they like. Some of us are a little bit of all these things.
 
-Here, those who know something share what they know. If someone insults you or makes you feel unprepared, talk to your professor. Otherwise, ask about it. Depend on your classmates. Please ask! <br />
+Here, those who know something share what they know. If someone makes you feel unprepared, talk to your professor. Otherwise, share what you know and don't be fearful of asking about what you do not know. Ask about it and depend on your classmates and teachers. Please ask! <br />
 
 What do we mean when we say something is "musical"? 
 
