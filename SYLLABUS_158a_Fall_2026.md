@@ -78,9 +78,10 @@ The class will conclude with a final Performance and installation of works in th
 | **Week 9**                     | **(tu)** 10/20 — Advanced Control and AI-assisted programming (v8.codebox and v8.ui) PT. 1<br><br>**(th)** 10/22 — Advanced Control and AI-assisted programming PT. 2                                                                                                     |
 | **Week 10**                    | **(tu)** 10/27 — Advanced Sampling, `vst~` plug-ins, `sfz~` samplers PT. 1<br><br>**(th)** 10/29 — Advanced Sampling, `vst~` plug-ins, `sfz~` samplers PT. 2                                                                                     |
 | **Week 11**                    | **(tu)** 11/03 — Advanced Spatial Audio PT. 1<br><br>**(th)** 11/05 — Advanced Spatial Audio PT. 2         |
-| **Week 12**                    | **(tu)** 11/10 — Group Work Session / Workshop<br><br>**(th)** 11/12 — Group Work Session / Workshop       |
-| **Week 13**                    | **(tu)** 11/17 — Possible Open Performance 4 / Group Work Session / Workshop<br><br>**(th)** 11/19 — Group Work Session / Workshop                                                                                                                       |
-| **Week 14**                    | **(tu)** 11/24 — FINAL PROJECT DISCUSSION                                                                  |
-| **Week 15**                    | **(tu)** 12/01 — Final project discussion, continued<br><br>**(th)** 12/03 — Final project discussion, continued                                                                                                                                     |
+| **Week 12**                    | **(tu)** 11/10 — <br><br>**(th)** 11/12 —       |
+| **Week 13**                    | **(tu)** 11/17 — <br><br>**(th)** 11/19 — Group Work Session / Workshop                                                                                                                       |
+| **Week 14**                    | **(tu)** 11/24 —  
+|
+| **Week 15**                    | **(tu)** 12/01 — Final project discussions and in-class programming PT. 1 <br><br>**(th)** 12/03 — Final project discussions and in-class programming PT.2                                                                                                                                     |
 | **Week 16**                    | **12/07–12/11** — Reading Week non-mandatory support LABS for Final Project development                    |
 | **Final Project Presentation** | **12/14** — To be discussed                                                                                
