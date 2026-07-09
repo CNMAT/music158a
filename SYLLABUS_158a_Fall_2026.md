@@ -12,12 +12,25 @@ Music 158A, Spring 2026 <br />
 Instructor: Edmund Campion with GSI Pablo Teutli
 Email: campion@berkeley.edu
 Class Day/Time: T TR 11:00 am - 12:30 pm
-Class Website: https://github.com/CNMAT/music158a
+Class Website: https://github.com/CNMAT/CNMAT-MMJ-Depot
 
 
 Course Description
 ------------------
-Music 158a will explore musical topics through computational and AI related tools, mainly the cycling74/Ableton Max/MSP package. Students will learn the basics of Max/MSP through a series of weekly exercises, including the use of Gemini AI coding support. UC Berkeley Center for New Music and Audio Technologies (CNMAT)has been developing tools for these purposes for over 30 years and we will introduce and apply these tools throughout the semester. The course builds on developing aesthetic, analytic, and technical skills through discussion, empirical study, and collaborative engagement. With a balance of artistic and technical concerns, participants deepen their understanding of the creative process, demonstrating their work through a final-project, presentation and/pr a public performance. 
+Music 158A explores musical topics through computational and AI-assisted tools, with primary emphasis on the Cycling ’74 / Ableton Max/MSP environment. Students will learn the fundamentals of Max/MSP through a sequence of weekly exercises, eventually including the use of Gemini AI as a coding-support tool. The UC Berkeley Center for New Music and Audio Technologies (CNMAT) has developed tools and practices for this kind of work for more than 30 years, and the course will introduce and apply these resources throughout the semester.
+
+The course develops aesthetic, analytical, and technical skills through discussion, empirical study, hands-on experimentation, and collaborative engagement. Balancing artistic and technical concerns, students will deepen their understanding of creative processes involving sound, computation, and musical organization, culminating in a final project and presentation.
+
+Material and required software include: 
+
+Max/MSP monthly subscriptions (4-months at $12.99 per month)
+[download max/msp]: https://cycling74.com/products/max
+  
+GitHub and Max packages Additions: 
+Max Packages/CNMAT Externals (In Max/MSP, go to File/Show Package Manager, then search for CNMAT, then install 'CNMAT externals')
+Max Packages/odot (In Max/MSP, go to File/Show Package Manager, then search for odot, then install 'odot by CNMAT')
+[GitHub/CNMAT Depot]: https://github.com/CNMAT/CNMAT-MMJ-Depot
+
 
 Course Goals
 -----------------
@@ -91,4 +104,4 @@ The final project will involve both musical and technical considerations. Resear
 | **Week 14**                    | **(tu)** 11/24 — Final Project Preperations <br><br>**(th)** 11/26(SPRING BREAK)                                                        |
 | **Week 15**                    | **(tu)** 12/01 — Final project discussions and in-class programming PT. 1 <br><br>**(th)** 12/03 — Final project discussions and in-class programming PT.2                                                                                                                                     |
 | **Week 16**                    | **12/07–12/11** — Reading Week non-mandatory support LABS for Final Project development                    |
-| **Final Project Presentation** | **12/14** — To be discussed                                                                                
+| **Final Project Presentation** | **12/14** — To be discussed     |                                                                            
