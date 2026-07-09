@@ -12,7 +12,7 @@ Music 158A, Spring 2026 <br />
 Instructor: Edmund Campion with GSI Pablo Teutli
 Email: campion@berkeley.edu
 Class Day/Time: T TR 11:00 am - 12:30 pm
-Class Website: https://github.com/CNMAT/CNMAT-MMJ-Depot
+Class Website: https://github.com/CNMAT/music158a2026
 
 
 Course Description
@@ -26,7 +26,7 @@ Material and required software include:
 Max/MSP monthly subscriptions (4-months at $12.99 per month)
 [download max/msp]: https://cycling74.com/products/max
   
-GitHub and Max packages Additions: 
+GitHub and Max packages Additions (all required and free)
 Max Packages/CNMAT Externals (In Max/MSP, go to File/Show Package Manager, then search for CNMAT, then install 'CNMAT externals')
 Max Packages/odot (In Max/MSP, go to File/Show Package Manager, then search for odot, then install 'odot by CNMAT')
 [GitHub/CNMAT Depot]: https://github.com/CNMAT/CNMAT-MMJ-Depot
