@@ -21,7 +21,7 @@ Music 158A explores musical topics through computational and AI-assisted tools, 
 
 The course develops aesthetic, analytical, and technical skills through discussion, empirical study, hands-on experimentation, and collaborative engagement. Balancing artistic and technical concerns, students will deepen their understanding of creative processes involving sound, computation, and musical organization, culminating in a final project and presentation.
 
-**GitHub and Max (all required, mostly free)**
+**Max and related software downloads (all required, mostly free)**
 
 Max/MSP monthly subscriptions (4-months at $12.99 per month) <br />
 [download max/msp]: https://cycling74.com/products/max
