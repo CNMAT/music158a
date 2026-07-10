@@ -38,6 +38,8 @@ GitHub/EdmundCampion/CNMAT-Pedagogy-Apps https://github.com/EdmundCampion/CNMAT-
 
 IRCAM Forum SPAT https://forum.ircam.fr/projects/detail/spat/ <br /> (sign up for a free IRCAM Forum membership, download free Spat-5.3.8-macOS, or Spat-5.3.8-win64
 
+ADOBE Creative Cloud AUDITION (free for students) https://software.berkeley.edu/software-catalog 
+
 Course Goals
 -----------------
 
