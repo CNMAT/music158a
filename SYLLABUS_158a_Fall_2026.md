@@ -43,37 +43,37 @@ ADOBE Creative Cloud AUDITION (free for students) https://software.berkeley.edu/
 Course Goals
 -----------------
 
-In this course, we do not ask whether it is music; we ask what is musical about it, and how, through iteration, might we make it more musical -- not what is best, but what is better. Our interests here are not centered on the direct imitation of conventional human systems of music making. Instead, we will work to replace our reliance on familiarity—often the basis of what we think we like in music—with inquisitiveness, openness, and testing based on audible feedback. Music made with musically informed computational systems extends beyond imitation of established human practices -- towards an expanded field in which the human is sometimes overtaken by machine processes. The primary goal is to accomplish a basic understanding of Max/MSP and to complete a final project that demonstrates that understanding and produces a musical outcome.
+In this course, we do not ask whether it is music; we ask what is musical about it, and how, through iteration, might we make it more musical -- not what is best, but what is better. Our interests here are not centered on the direct imitation of conventional human systems of music making. Instead, we will work to replace our reliance on familiarity—often the basis for what we "like" in music—with inquisitiveness, openness, and testing based on audible feedback. The real work is learning to listen as part of an analytical process whose goal is to aid in human decisions and revisions directed toward discovery. Music made with musically informed computational systems extends beyond imitation of established human practices -- towards an expanded field in which the human can easily be overtaken by machine processes. The primary goal is to accomplish a basic understanding of Max/MSP and to complete a final project that demonstrates that understanding and produces a musical outcome.
 
-
-Final Project Presentations
----------------------------
-
-Music 158a students do not take a  standardized final exam. In lieu of a standardized final exam, students work alone to produce a final project. Final projects will be due at the scheduled exam period and will be presented to the class as a demonstration/performance/installation on or near the final exam date (TBD).
-
-Music 258B students will be required to create a final project appropriate to the graduate level of disciplinary focus. The specifics of the requirement will be discussed and agreed upon by the instructor in consultation with each student. Graduate students from inside and outside the Music Department must be registered for Music 258B (see instructor).
 
 Class Materials
 ---------------
 
-Music 158B/258B will use the Cycling’74 MaxMSP programming environment extensively. Students must have access to a laptop commuter with MaxMSP, please see the instructor for computer access options. Students may choose to purchase MaMSP, or alternatively, there are student authorization options for under $100 available at cycling74. Lab materials, including software, tangible user interfaces,  sensors, actuators, will be made available to students by the Center for New Music and Audio Technologies throughout the semester. Lab materials are not available for home use. Students will learn techniques for prototyping instrument design away from the lab.
+Music 158B/258B will use the Cycling’74 MaxMSP programming environment extensively. Students must have access to a laptop computer with MaxMSP, please see the instructor for computer access options. Students may choose to purchase MaMSP, or alternatively, there are student authorization options for under $100 available at cycling74. Lab materials, including software, tangible user interfaces,  sensors, actuators, will be made available to students by the Center for New Music and Audio Technologies throughout the semester. Lab materials are not available for home use. Students will learn techniques for prototyping instrument design away from the lab.
 
-Weekly Lab and Homework Assignments
+Bi-weekly modules with homework
 -----------------------------------
 
-Each week students are assigned a specific paradigm of instrument design to be worked through in groups. Students individually prepare design sketches to be shared and tested with their teammates. Concluding each week is a critique session with the full class, where each group presents their lab work, shares their evaluation, and discusses ideas for future developments.
+Approximately every two weeks, a new learning module is presented in class alongside a homework assignment. the homework assignments are dependent on the pedagogical materials exposed in the classroom and it is expected that the student demonstrate basic understanding of the materials through the homework submissions.  Students are required to stay within the boundaries of the course material, even when they come to the class with advanced programming chops.  
+
+Final Project and Presentations/Performance
+-----------------------------------
+
+Music 158a students do not take a  standardized final exam. Instead, students work alone to produce a final project due at the scheduled exam period (Deadline for submission is 5 p.m. December 14). As part of the grading of the final project, students will meet at the time of the final exam or in the last week of classes to present a short demonstration/performance/installation to the class.
+
+Music 258B students will be required to create a final project appropriate to the graduate-level of disciplinary focus. The specifics of the requirement will be discussed and agreed upon by the instructor in consultation with each student. Graduate students from inside and outside the Music Department must be registered for Music 258B (see instructor).
 
 Grading Policy
 --------------
 
 **Class Attendance = 20% total** 
-policy: Students are allowed four (4) absences without penalty.  After four absences, each additional absence will result in a 5% drop in your overall grade. 
+Policy: Students are allowed four (4) unexcused absences without penalty.  After four absences, each additional absence will result in a 5% drop in your overall grade. 
 
 **Class Participation = 5% total**
-policy: Students are expected to ask questions and engage with the professor during the classroom meetings. 
+Policy: Students are expected to ask questions and engage with the professor during the classroom meetings. 
 
 **Class Demonstration for Homework assignments = 5% total**
-policy: Every student is required to present once at the front of the class from their own laptop with the results of one of the homework assignments. This short presentation (5-8 min.) is in addition to the final project class demonstration required at the end of the semester.
+Policy: Each student is required to present once at the front of the class from their own laptop with the results of one of the homework assignments. This short presentation (5-8 min.) is in addition to the final project class demonstration required at the end of the semester.
 
 **Technology and Tools Readiness = 5% total** 
 Policy: Students are responsible for maintaining and demonstrating that their laptop working environment is in solid working order at all times. This course features weekly updates and tool sharing on GitHub and/or BCourses.  When a student is given a warning from the instructor or GSI that they are out of compliance or not up to date on tools presented in class, they have one week to resolve and demonstrate the fix to the GSI. The first warning is without penalty.  All future warnings are an automatic 5% deduction from the overall grade.
@@ -84,7 +84,7 @@ Policy: There will be eight (8) homework assignments for the semester. Each assi
 
 **Final Project and Performance = 25%** 
 
-The class will conclude with a final student demonstration, performance, and/or sound installation in the CNMAT main room. The final project is a creative work involving sound production and sound organization: a musical work or composition.
+The final project is a creative work involving sound production and sound organization: a musical work or composition that demonstrates a thoughtful engagement with the computer-based tools presented in the class. The final project should be derived from the coursework and acknowledge the series of homework assignments which are designed to prepare the student to accomplish an effective final project.
 
 The course is designed to provide students with no prior musical background and/or no prior computational experience with a clear pathway toward earning the full 25% allocated to the final project. Final projects must demonstrate both comprehension and application of course concepts, and they should be developed using the materials, methods, and technologies presented in class unless Professor Campion explicitly approves the use of other technologies or programming environments.
 
