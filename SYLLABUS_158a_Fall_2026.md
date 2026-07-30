@@ -49,17 +49,17 @@ In this course, we do not ask whether it is music; we ask what is musical about 
 Class Materials
 ---------------
 
-Music 158B/258B will use the Cycling’74 MaxMSP programming environment extensively. Students must have access to a laptop computer with MaxMSP, please see the instructor for computer access options. Students may choose to purchase MaMSP, or alternatively, there are student authorization options for under $100 available at cycling74. Lab materials, including software, tangible user interfaces,  sensors, actuators, will be made available to students by the Center for New Music and Audio Technologies throughout the semester. Lab materials are not available for home use. Students will learn techniques for prototyping instrument design away from the lab.
+Music 158B/258B will use the Cycling’74 MaxMSP programming environment extensively. Students must have access to a laptop computer with MaxMSP, please see the instructor for computer access options. Students must subsribe monthly to MaxMSP to take advantage of the complete libraries and saving features. Free software materials running in the Max/MSP environment will be made available to students by the Center for New Music and Audio Technologies throughout the semester. 
 
 Bi-weekly modules with homework
 -----------------------------------
 
-Approximately every two weeks, a new learning module is presented in class alongside a homework assignment. the homework assignments are dependent on the pedagogical materials exposed in the classroom and it is expected that the student demonstrate basic understanding of the materials through the homework submissions.  Students are required to stay within the boundaries of the course material, even when they come to the class with advanced programming chops.  
+Approximately every two weeks, a new learning module is presented in class alongside a homework assignment. The homework assignments rely on the pedagogical materials taught in the classroom, and it is expected that the student demonstrate basic understanding of the materials via the homework submissions.  Students are required to stay within the boundaries of the course material, even when they come to the class with advanced programming chops.  
 
 Final Project and Presentations/Performance
 -----------------------------------
 
-Music 158a students do not take a  standardized final exam. Instead, students work alone to produce a final project due at the scheduled exam period (Deadline for submission is 5 p.m. December 14). As part of the grading of the final project, students will meet at the time of the final exam or in the last week of classes to present a short demonstration/performance/installation to the class.
+Music 158a students do not take a  standardized final exam. Instead, students work alone to produce a final project due at the scheduled exam period (Deadline for submission is 5 p.m. December 14). As part of the final project, students are required meet at the time of the final exam or in the last week of classes to present a short demonstration/performance/installation to the class.
 
 Music 258B students will be required to create a final project appropriate to the graduate-level of disciplinary focus. The specifics of the requirement will be discussed and agreed upon by the instructor in consultation with each student. Graduate students from inside and outside the Music Department must be registered for Music 258B (see instructor).
 
@@ -73,14 +73,14 @@ Policy: Students are allowed four (4) unexcused absences without penalty.  After
 Policy: Students are expected to ask questions and engage with the professor during the classroom meetings. 
 
 **Class Demonstration for Homework assignments = 5% total**
-Policy: Each student is required to present once at the front of the class from their own laptop with the results of one of the homework assignments. This short presentation (5-8 min.) is in addition to the final project class demonstration required at the end of the semester.
+Policy: Each student is required to present, from their own laptop, a short presentation/demonstration (3-5 min.) drawn from one of the homework assignments (student's choice).  (This requirement is in addition to the presentation required for the final project at the end of the semester.)
 
 **Technology and Tools Readiness = 5% total** 
 Policy: Students are responsible for maintaining and demonstrating that their laptop working environment is in solid working order at all times. This course features weekly updates and tool sharing on GitHub and/or BCourses.  When a student is given a warning from the instructor or GSI that they are out of compliance or not up to date on tools presented in class, they have one week to resolve and demonstrate the fix to the GSI. The first warning is without penalty.  All future warnings are an automatic 5% deduction from the overall grade.
 
 **Homework Assignments = 40% (8 x 5% each)** 
 
-Policy: There will be eight (8) homework assignments for the semester. Each assignment will be completed using the Max/MSP software tools provided. Submissions for homework are uploaded to the Music 158A Fall 2026 BCourses site by the beginning of class time on the day they are due. 
+Policy: There will be eight (8) homework assignments for the semester. Each assignment must be completed mainly using Max/MSP and other  software tools taught in class. Submissions for homework are uploaded to the Music 158A Fall 2026 BCourses site by the beginning of class time on the day they are due. 
 
 **Final Project and Performance = 25%** 
 
