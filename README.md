@@ -2,10 +2,6 @@
 
 <sub>[*(Jump to Fall 2026 Music 158a SYLLABUS)*](SYLLABUS_158a_Fall_2026.md)<sub>
 
-In this class, it is OK not to know. Some of us are musicians, from beginner to advanced. Some of us are programmers, from beginner to advanced. Some of us are music lovers who know what they like. Some of us are a little bit of all these things.
-
-Here, those who know something share what they know. If someone makes you feel unprepared, talk to your professor. Otherwise, share what you know and don't be fearful of asking about what you do not know. Ask about it and depend on your classmates and teachers. Please ask! <br />
-
 What do we mean when we say something is "musical"? 
 
 How can computers and AI assistants deepen our understanding of what we call "musical"? <br />
@@ -14,7 +10,11 @@ How can computers and AI assistants deepen our understanding of what we call "mu
 
 How can computational systems designed for musical control expand the ways humans think about and make music with machines? <br />
 
-In this course, we do not ask whether an audible phenomenon is music or even if we like it; we ask what is musical about a behavior, and how, through iteration, we better control and understand the behavior - make it more musical. We ask, not what is best, but what is better. <br />
+This course focuses on learning musical creativity with machines by making musical things.
+
+In this class, it is OK not to know things. Some of us are musicians, from beginner to advanced. Some of us are programmers, from beginner to advanced. Some of us are music lovers who know what they like. Some of us are a little bit of all these things. Here, those who know something share what they know. If someone makes you feel unprepared, talk to your professor. Otherwise, share what you know and don't be fearful of asking about what you do not know. Ask about it and depend on your classmates and teachers. Please ask! <br />
+
+In this course, we do not ask whether an audible phenomenon is music or if we like it; we ask what is musical about a behavior, and how, through iteration, we can demonstrate better control and understand the behavior - make it more musical. We ask, not what is best, but what is better. <br />
 
 ![gif](images/rhythmic_prob_full16_4beats.gif)
 
