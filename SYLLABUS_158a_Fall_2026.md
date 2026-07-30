@@ -9,8 +9,8 @@ Music 158A, Spring 2026 <br />
 
 ![gif](images/rhythmic_activity_4X4_2.gif)
 
-Instructor: Edmund Campion <campion@berkeley.edu> with 
-Graduate Student Instructor: Pablo Teutli <pablom.teutli@berkeley.edu> <br />
+Instructor: Edmund Campion campion@berkeley.edu with <br />
+Graduate Student Instructor: Pablo Teutli pablom.teutli@berkeley.edu <br />
 Email: campion@berkeley.edu
 Class Day/Time: T TR 11:00 am - 12:30 pm <br />
 Class Website: https://github.com/CNMAT/music158a2026
