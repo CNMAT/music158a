@@ -184,6 +184,16 @@ Both works invite attention to process rather than only surface events. Compare 
 <br><br>
 <!-- ASSIGNMENT -->
 <em>Assignment: Homework_2. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+<br><br>
+<!-- CONTEXTUAL LISTENING -->
+<strong>Contextual Listening: Subotnick ↔ Squarepusher — New Sounds Demand New Forms</strong>
+<br><br>
+• Morton Subotnick — <em>Silver Apples of the Moon, Pt. A</em> (1967)
+<br>
+• Squarepusher — <em>Ultravisitor</em> (2017)
+<br><br>
+Compare two purely electronic works in which synthesis is not used primarily to emulate existing instruments or pre-existing styles or formal procedures. Focus on envelope, articulation, spectral identity, physicality, and the extent to which a newly designed sound can itself carry form. <strong>Why do new electronic sounds require new musical forms?</strong>
+<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
 <tr>
