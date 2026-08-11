@@ -145,9 +145,9 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 • Pierre Schaeffer — <em>Étude aux chemins de fer</em> (1948)
 <br>
 • The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005) 
-<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 <br>
 Listen for how each work detaches recorded sound from its original context and gives it a new musical function. Compare gesture, repetition, segmentation, semantic residue, and the boundary between documentary sound and composed structure. <strong>What changes when recognizable recorded events become compositional objects?</strong>
+  <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
 <tr>
@@ -168,9 +168,9 @@ Listen for how each work detaches recorded sound from its original context and g
 • Steve Reich — <em>It's Gonna Rain, Part 1</em> (1965)
 <br>
 • Paul Lansky — <em>Idle Chatter Junior</em> (2001)
-<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 <br>
 Both works invite attention to process rather than only surface events. Compare phase drift and repetition in Reich with layered, recursive, generative processes in Lansky. Ask which musical details are directly specified and which emerge from the system. <strong>When does a simple rule become complex behavior?</strong>
+  <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
 <tr>
