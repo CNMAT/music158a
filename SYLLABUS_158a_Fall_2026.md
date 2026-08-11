@@ -186,7 +186,7 @@ Both works invite attention to process rather than only surface events. Compare 
 <em>Assignment: Homework_2. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
 <br><br>
 <!-- CONTEXTUAL LISTENING -->
-<strong>Contextual Listening: Subotnick ↔ Squarepusher — New Sounds Demand New Forms</strong>
+<strong>Contextual Listening: Subotnick ↔ Squarepusher — New Sounds Generate New Forms</strong>
 <br><br>
 • Morton Subotnick — <em>Silver Apples of the Moon, Pt. A</em> (1967)
 <br>
