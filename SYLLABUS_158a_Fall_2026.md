@@ -164,11 +164,7 @@ Listen for how each work detaches recorded sound from its original context and g
 • Steve Reich — <em>It's Gonna Rain, Part 1</em> (1965)
 <br>
 • Paul Lansky — <em>Idle Chatter Junior</em> (2001)
-<br><br>
-<strong>Apple Music:</strong> <a href="">ADD APPLE MUSIC PLAYLIST LINK</a>
-<br>
-<strong>Spotify:</strong> <a href="">ADD SPOTIFY PLAYLIST LINK</a>
-<br><br>
+
 Both works invite attention to process rather than only surface events. Compare phase drift and repetition in Reich with layered, recursive, generative processes in Lansky. Ask which musical details are directly specified and which emerge from the system. <strong>When does a simple rule become complex behavior?</strong>
 </td>
 </tr>
