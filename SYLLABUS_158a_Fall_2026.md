@@ -93,7 +93,12 @@ The final project will involve both musical and technical considerations. Resear
 
 
 --------
-d## Schedule
+<br><br>
+<strong>Apple Music:</strong> <a href="">ADD APPLE MUSIC PLAYLIST LINK</a>
+<br>
+<strong>Spotify:</strong> <a href="">ADD SPOTIFY PLAYLIST LINK</a>
+<br><br>
+## Schedule
 
 **Note:** this is an active document and subject to weekly updates.
 
