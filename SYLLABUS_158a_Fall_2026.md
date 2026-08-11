@@ -220,6 +220,16 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 <br><br>
 <!-- ASSIGNMENT -->
 <em>Assignment: Homework_3. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+<br><br>
+<!-- CONTEXTUAL LISTENING -->
+<strong>Contextual Listening: The Books ↔ Bernard Parmegiani — Spatial Audio Matters</strong>
+<br><br>
+• The Books — <em>Smells Like Content</em> from <em>Lost and Safe</em> (1973)
+<br>
+• Bernard Parmegiani — <em>En phase, hors phase</em> from <em>Dedans-Dehors</em> (1977)
+<br><br>
+Compare fixed-media spatial compositions. Ask whether location and movement function as decoration or serve more formal roles. <strong>When did sound spatialization move beyond mixing toward essential musical structure?</strong>
+<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
 <tr>
