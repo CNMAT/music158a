@@ -95,274 +95,214 @@ The final project will involve both musical and technical considerations. Resear
 --------
 ## Schedule
 
-# Note: this is an active document and subject to weekly updates.
+**Note:** this is an active document and subject to weekly updates.
 
 <table>
-  <thead>
-    <tr>
-      <th>Week</th>
-      <th>Dates and Activities</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Week 1</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 08/27 — Introduction to Music 158A
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    MAX/MSP basics with Max download and installs <a href="#max-and-related-software-downloads-all-required-mostly-free">Jump to Max and related software downloads</a>
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    — In-class practice with Max/MSP and Audio out
-    <br><br>
-
-    <!-- CONTEXTUAL LISTENING -->
-    <strong>Contextual Listening: Schaeffer ↔ The Books — Recorded Sound as Compositional Object</strong>
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    • Pierre Schaeffer — <em>Étude aux chemins de fer</em> (1948)
-    <br>
-    • The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005)
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    Listen for how each work detaches recorded sound from its original context and gives it a new musical function. Compare gesture, repetition, segmentation, semantic residue, and the boundary between documentary sound and composed structure. <strong>What changes when recognizable recorded events become compositional objects?</strong>
-    <br><br>
-
-    <!-- CLASS REQUIREMENT -->
-    <em>Class Requirement: Always bring laptops with a full working environment ready for in-class LAB. Install Max/MSP. NO CLOUD INSTALLATIONS!!! Windows: OneDrive (make sure all materials are on local machine). Students must keep backups of their materials.</em>
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 2</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 09/01 — Completion of software and pedagogy software installs <a href="#max-and-related-software-downloads-all-required-mostly-free">Jump to Max and related software downloads</a>
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 1
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 09/03 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 2 (Adobe Audition -- editing soundfiles)
-    <br><br>
-
-    <!-- ASSIGNMENT -->
-    <em>Assignment: Homework_1. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 3</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 09/08 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with VST~ (synthesizer) PT. 3
-    <br><br>
-
-    <!-- CLASS DEMONSTRATION -->
-    <strong>(th)</strong> 09/10 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- CLASS DEMONSTRATIONS
-    <br><br>
-
-    <!-- DUE -->
-    <em>DUE: Homework_1 due today by midnight. Students are given a chance to present in class today.</em>
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 4</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 09/15 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 1
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 09/17 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 2
-    <br><br>
-
-    <!-- ASSIGNMENT -->
-    <em>Assignment: Homework_2. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 5</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 09/22 — Signal, Synthesis and Tone, CNMAT Spectral Objects, and the Note to Noise Continuum PT. 3
-    <br><br>
-
-    <!-- CLASS DEMONSTRATION -->
-    <strong>(th)</strong> 09/24 — Signal, Synthesis and Tone, Mixing, CNMAT Spectral Objects -- CLASS DEMONSTRATIONS
-    <br><br>
-
-    <!-- DUE -->
-    <em>DUE: Homework_2 due today by midnight. Students are given a chance to present in class today.</em>
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 6</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 09/29 — Spatial Audio, Mixing, SPAT PT. 1
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 10/01 — Spatial Audio, Mixing, SPAT PT. 2
-    <br><br>
-
-    <!-- ASSIGNMENT -->
-    <em>Assignment: Homework_3. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 7</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 10/06 — Spatial Audio, Mixing, SPAT PT. 3
-    <br><br>
-
-    <!-- CLASS DEMONSTRATION -->
-    <strong>(th)</strong> 10/08 — Spatial Audio, Mixing, SPAT --CLASS DEMONSTRATIONS
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 8</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 10/13 — Advanced Control and AI-assisted programming (ml.star) with Pitch Spaces (v8.codebox and v8.ui) PT. 1
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 10/15 — Advanced Control and AI-assisted programming with Markov Chains PT. 2
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 9</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 10/20 — Advanced Sampling, Event Morphology with Soundfile Descriptors, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 1
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 10/22 — Advanced Sampling, Event Morphology, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 2
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 10</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 10/27 — Advanced Synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 1
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 10/29 — Advanced synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 2
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 11</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 11/03 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 1
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 11/05 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 2
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 12</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 11/10 — Composing with Computers (organization, aesthetics, forms) PT.1
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 11/12 — Composing with Computers (organization, aesthetics, forms, and production) PT. 2 and Adobe Audition multi-channel mixing
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 13</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 11/17 — Final project discussions and in-class programming PT. 1
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 11/19 — Final project discussions and in-class programming PT.2
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 14</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 11/24— TBD
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 11/26 (Spring Break)
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 15</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>(tu)</strong> 12/1— TBD
-    <br><br>
-
-    <!-- GENERAL LESSON -->
-    <strong>(th)</strong> 12/3 Final Project Support (demonstrations)
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Week 16</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>12/07–12/11</strong> — Reading Week non-mandatory support LABS for Final Project development
-
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Final Project Presentation</strong></td>
-      <td>
-
-    <!-- GENERAL LESSON -->
-    <strong>12/14</strong> — To be discussed
-
-      </td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Week</th>
+<th>Dates and Activities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Week 1</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 08/27 — Introduction to Music 158A
+<br><br>
+<!-- GENERAL LESSON -->
+MAX/MSP basics with Max download and installs <a href="#max-and-related-software-downloads-all-required-mostly-free">Jump to Max and related software downloads</a>
+<br><br>
+<!-- GENERAL LESSON -->
+— In-class practice with Max/MSP and Audio out
+<br><br>
+<!-- CONTEXTUAL LISTENING -->
+<strong>Contextual Listening: Schaeffer ↔ The Books — Recorded Sound as Compositional Object</strong>
+<br><br>
+<!-- GENERAL LESSON -->
+• Pierre Schaeffer — <em>Étude aux chemins de fer</em> (1948)
+<br>
+• The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005)
+<br><br>
+<!-- GENERAL LESSON -->
+Listen for how each work detaches recorded sound from its original context and gives it a new musical function. Compare gesture, repetition, segmentation, semantic residue, and the boundary between documentary sound and composed structure. <strong>What changes when recognizable recorded events become compositional objects?</strong>
+<br><br>
+<!-- CLASS REQUIREMENT -->
+<em>Class Requirement: Always bring laptops with a full working environment ready for in-class LAB. Install Max/MSP. NO CLOUD INSTALLATIONS!!! Windows: OneDrive (make sure all materials are on local machine). Students must keep backups of their materials.</em>
+</td>
+</tr>
+<tr>
+<td><strong>Week 2</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 09/01 — Completion of software and pedagogy software installs <a href="#max-and-related-software-downloads-all-required-mostly-free">Jump to Max and related software downloads</a>
+<br><br>
+<!-- GENERAL LESSON -->
+Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 1
+<br><br>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 09/03 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 2 (Adobe Audition -- editing soundfiles)
+<br><br>
+<!-- ASSIGNMENT -->
+<em>Assignment: Homework_1. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+</td>
+</tr>
+<tr>
+<td><strong>Week 3</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 09/08 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with VST~ (synthesizer) PT. 3
+<br><br>
+<!-- CLASS DEMONSTRATION -->
+<strong>(th)</strong> 09/10 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- CLASS DEMONSTRATIONS
+<br><br>
+<!-- DUE -->
+<em>DUE: Homework_1 due today by midnight. Students are given a chance to present in class today.</em>
+</td>
+</tr>
+<tr>
+<td><strong>Week 4</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 09/15 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 1
+<br><br>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 09/17 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 2
+<br><br>
+<!-- ASSIGNMENT -->
+<em>Assignment: Homework_2. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+</td>
+</tr>
+<tr>
+<td><strong>Week 5</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 09/22 — Signal, Synthesis and Tone, CNMAT Spectral Objects, and the Note to Noise Continuum PT. 3
+<br><br>
+<!-- CLASS DEMONSTRATION -->
+<strong>(th)</strong> 09/24 — Signal, Synthesis and Tone, Mixing, CNMAT Spectral Objects -- CLASS DEMONSTRATIONS
+<br><br>
+<!-- DUE -->
+<em>DUE: Homework_2 due today by midnight. Students are given a chance to present in class today.</em>
+</td>
+</tr>
+<tr>
+<td><strong>Week 6</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 09/29 — Spatial Audio, Mixing, SPAT PT. 1
+<br><br>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 10/01 — Spatial Audio, Mixing, SPAT PT. 2
+<br><br>
+<!-- ASSIGNMENT -->
+<em>Assignment: Homework_3. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+</td>
+</tr>
+<tr>
+<td><strong>Week 7</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 10/06 — Spatial Audio, Mixing, SPAT PT. 3
+<br><br>
+<!-- CLASS DEMONSTRATION -->
+<strong>(th)</strong> 10/08 — Spatial Audio, Mixing, SPAT --CLASS DEMONSTRATIONS
+</td>
+</tr>
+<tr>
+<td><strong>Week 8</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 10/13 — Advanced Control and AI-assisted programming (ml.star) with Pitch Spaces (v8.codebox and v8.ui) PT. 1
+<br><br>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 10/15 — Advanced Control and AI-assisted programming with Markov Chains PT. 2
+</td>
+</tr>
+<tr>
+<td><strong>Week 9</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 10/20 — Advanced Sampling, Event Morphology with Soundfile Descriptors, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 1
+<br><br>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 10/22 — Advanced Sampling, Event Morphology, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 2
+</td>
+</tr>
+<tr>
+<td><strong>Week 10</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 10/27 — Advanced Synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 1
+<br><br>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 10/29 — Advanced synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 2
+</td>
+</tr>
+<tr>
+<td><strong>Week 11</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 11/03 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 1
+<br><br>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 11/05 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 2
+</td>
+</tr>
+<tr>
+<td><strong>Week 12</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 11/10 — Composing with Computers (organization, aesthetics, forms) PT.1
+<br><br>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 11/12 — Composing with Computers (organization, aesthetics, forms, and production) PT. 2 and Adobe Audition multi-channel mixing
+</td>
+</tr>
+<tr>
+<td><strong>Week 13</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 11/17 — Final project discussions and in-class programming PT. 1
+<br><br>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 11/19 — Final project discussions and in-class programming PT.2
+</td>
+</tr>
+<tr>
+<td><strong>Week 14</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 11/24— TBD
+<br><br>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 11/26 (Spring Break)
+</td>
+</tr>
+<tr>
+<td><strong>Week 15</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>(tu)</strong> 12/1— TBD
+<br><br>
+<!-- GENERAL LESSON -->
+<strong>(th)</strong> 12/3 Final Project Support (demonstrations)
+</td>
+</tr>
+<tr>
+<td><strong>Week 16</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>12/07–12/11</strong> — Reading Week non-mandatory support LABS for Final Project development
+</td>
+</tr>
+<tr>
+<td><strong>Final Project Presentation</strong></td>
+<td>
+<!-- GENERAL LESSON -->
+<strong>12/14</strong> — To be discussed
+</td>
+</tr>
+</tbody>
 </table>
