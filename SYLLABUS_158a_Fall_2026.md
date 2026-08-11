@@ -94,14 +94,12 @@ The final project will involve both musical and technical considerations. Resear
 
 --------
 ## Schedule
-Music 158A playlist links:
-<br><br>
+**Note:** this is an active document and subject to weekly updates.
+## Music 158A playlist links:
 <strong>Apple Music:</strong> <a href="">ADD APPLE MUSIC PLAYLIST LINK</a>
 <br>
 <strong>Spotify:</strong> <a href="">ADD SPOTIFY PLAYLIST LINK</a>
 <br><br>
-**Note:** this is an active document and subject to weekly updates.
-
 <table>
 <thead>
 <tr>
@@ -144,9 +142,9 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 <!-- CONTEXTUAL LISTENING -->
 <strong>Contextual Listening: Schaeffer ↔ The Books — Recorded Sound as Compositional Object</strong>
 <br><br>
-• Pierre Schaeffer — <em>Étude aux chemins de fer</em> (1948)
+• Pierre Schaeffer — <em>Étude aux chemins de fer</em> (1948) ###### **[(Jump to Music 158 playlist links)](#schedule)**
 <br>
-• The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005)
+• The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005) ###### **[(Jump to Music 158 playlist links)](#schedule)**
 <br><br>
 Listen for how each work detaches recorded sound from its original context and gives it a new musical function. Compare gesture, repetition, segmentation, semantic residue, and the boundary between documentary sound and composed structure. <strong>What changes when recognizable recorded events become compositional objects?</strong>
 </td>
