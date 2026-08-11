@@ -145,7 +145,7 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 <strong>(th)</strong> 09/03 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 2 (Adobe Audition -- editing soundfiles)
 <br><br>
 <!-- ASSIGNMENT -->
-<em>Assignment: Homework_1. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+<em>Assignment: Homework_1. All assignments are found in the <code>Homework_Assignments</code> folder on BCourses.</em>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 <strong>(th)</strong> 09/17 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 2
 <br><br>
 <!-- ASSIGNMENT -->
-<em>Assignment: Homework_2. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+<em>Assignment: Homework_2. All assignments are found in the <code>Homework_Assignments</code> folder on BCourses.</em>
 </td>
 </tr>
 <tr>
@@ -197,7 +197,7 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 <strong>(th)</strong> 10/01 — Spatial Audio, Mixing, SPAT PT. 2
 <br><br>
 <!-- ASSIGNMENT -->
-<em>Assignment: Homework_3. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+<em>Assignment: Homework_3. All assignments are found in the <code>Homework_Assignments</code> folder on BCourses.</em>
 </td>
 </tr>
 <tr>
