@@ -24,7 +24,7 @@ How do we decide which is better?
 
 ![gif](images/rhythmic_activity_sweep-fade.gif)
 
-<br />This music technology and sound production course is not centered on the direct imitation of conventional human systems of music making. Instead, we replace our reliance on familiarity (often the basis of how we assess musical behaviors) with inquisitiveness, openness, and testing based on audible feedback and comparison. Music made with musically informed computational systems easily extends beyond imitation of established human practices -- towards an expanded field in which the human "musicality" is overtaken by machine "musicality". But the question remains, is it musical, and how? <br />
+<br />This music technology and sound production course is not centered on the direct imitation of conventional human systems of music making. Typical style and genre modeling is not the point. Instead, we replace our reliance on familiarity (often the basis of how we assess musical behaviors) with inquisitiveness, openness, and testing based on audible feedback and comparison. Music made with musically informed computational systems easily extends beyond imitation of established human practices -- towards an expanded field in which the human "musicality" is overtaken by machine "musicality". But the question remains, is it musical, and how? <br />
 
 Rather than pursuing fully autonomous music generation, our focus will be on collaborative, semi-autonomous systems, where decision engines and state machines—developed and shaped with the aid of AI coding support, the history of music making with computers at CNMAT, and auditory feedback—lead a student toward new forms of personal musical expression with machines. <br />
 
