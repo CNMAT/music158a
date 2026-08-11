@@ -93,7 +93,7 @@ The final project will involve both musical and technical considerations. Resear
 
 
 --------
-## Schedule
+d## Schedule
 
 **Note:** this is an active document and subject to weekly updates.
 
@@ -117,17 +117,6 @@ MAX/MSP basics with Max download and installs <a href="#max-and-related-software
 <!-- GENERAL LESSON -->
 — In-class practice with Max/MSP and Audio out
 <br><br>
-<!-- CONTEXTUAL LISTENING -->
-<strong>Contextual Listening: Schaeffer ↔ The Books — Recorded Sound as Compositional Object</strong>
-<br><br>
-<!-- GENERAL LESSON -->
-• Pierre Schaeffer — <em>Étude aux chemins de fer</em> (1948)
-<br>
-• The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005)
-<br><br>
-<!-- GENERAL LESSON -->
-Listen for how each work detaches recorded sound from its original context and gives it a new musical function. Compare gesture, repetition, segmentation, semantic residue, and the boundary between documentary sound and composed structure. <strong>What changes when recognizable recorded events become compositional objects?</strong>
-<br><br>
 <!-- CLASS REQUIREMENT -->
 <em>Class Requirement: Always bring laptops with a full working environment ready for in-class LAB. Install Max/MSP. NO CLOUD INSTALLATIONS!!! Windows: OneDrive (make sure all materials are on local machine). Students must keep backups of their materials.</em>
 </td>
@@ -145,7 +134,16 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 <strong>(th)</strong> 09/03 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 2 (Adobe Audition -- editing soundfiles)
 <br><br>
 <!-- ASSIGNMENT -->
-<em>Assignment: Homework_1. All assignments are found in the <code>Homework_Assignments</code> folder on BCourses.</em>
+<em>Assignment: Homework_1. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+<br><br>
+<!-- CONTEXTUAL LISTENING -->
+<strong>Contextual Listening: Schaeffer ↔ The Books — Recorded Sound as Compositional Object</strong>
+<br><br>
+• Pierre Schaeffer — <em>Étude aux chemins de fer</em> (1948)
+<br>
+• The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005)
+<br><br>
+Listen for how each work detaches recorded sound from its original context and gives it a new musical function. Compare gesture, repetition, segmentation, semantic residue, and the boundary between documentary sound and composed structure. <strong>What changes when recognizable recorded events become compositional objects?</strong>
 </td>
 </tr>
 <tr>
@@ -159,6 +157,19 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 <br><br>
 <!-- DUE -->
 <em>DUE: Homework_1 due today by midnight. Students are given a chance to present in class today.</em>
+<br><br>
+<!-- CONTEXTUAL LISTENING -->
+<strong>Contextual Listening: Reich ↔ Lansky — From Simple Rules to Complex Behavior</strong>
+<br><br>
+• Steve Reich — <em>It's Gonna Rain, Part 1</em> (1965)
+<br>
+• Paul Lansky — <em>Idle Chatter Junior</em> (2001)
+<br><br>
+<strong>Apple Music:</strong> <a href="">ADD APPLE MUSIC PLAYLIST LINK</a>
+<br>
+<strong>Spotify:</strong> <a href="">ADD SPOTIFY PLAYLIST LINK</a>
+<br><br>
+Both works invite attention to process rather than only surface events. Compare phase drift and repetition in Reich with layered, recursive, generative processes in Lansky. Ask which musical details are directly specified and which emerge from the system. <strong>When does a simple rule become complex behavior?</strong>
 </td>
 </tr>
 <tr>
@@ -171,7 +182,7 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 <strong>(th)</strong> 09/17 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 2
 <br><br>
 <!-- ASSIGNMENT -->
-<em>Assignment: Homework_2. All assignments are found in the <code>Homework_Assignments</code> folder on BCourses.</em>
+<em>Assignment: Homework_2. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
 </td>
 </tr>
 <tr>
@@ -197,7 +208,7 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 <strong>(th)</strong> 10/01 — Spatial Audio, Mixing, SPAT PT. 2
 <br><br>
 <!-- ASSIGNMENT -->
-<em>Assignment: Homework_3. All assignments are found in the <code>Homework_Assignments</code> folder on BCourses.</em>
+<em>Assignment: Homework_3. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
 </td>
 </tr>
 <tr>
