@@ -96,7 +96,7 @@ The final project will involve both musical and technical considerations. Resear
 ## Schedule
 **Note:** this is an active document and subject to weekly updates.
 ## **Music 158A playlist links**
-<strong>Apple Music:</strong> <a href="">ADD APPLE MUSIC PLAYLIST LINK</a>
+<strong>Apple Music:</strong> <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">ADD APPLE MUSIC PLAYLIST LINK</a>
 <br>
 <strong>Spotify:</strong> <a href="">ADD SPOTIFY PLAYLIST LINK</a>
 <br><br>
@@ -147,7 +147,7 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 • The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005) 
 <br><br>
 Listen for how each work detaches recorded sound from its original context and gives it a new musical function. Compare gesture, repetition, segmentation, semantic residue, and the boundary between documentary sound and composed structure. <strong>What changes when recognizable recorded events become compositional objects?</strong>
-  <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
+  <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ Listen for how each work detaches recorded sound from its original context and g
 • Paul Lansky — <em>Idle Chatter Junior</em> (2001)
 <br><br>
 Both works invite attention to process rather than only surface events. Compare phase drift and repetition in Reich with layered, recursive, generative processes in Lansky. Ask which musical details are directly specified and which emerge from the system. <strong>When does a simple rule become complex behavior?</strong>
-  <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
+  <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ Both works invite attention to process rather than only surface events. Compare 
 • Squarepusher — <em>Square Rave</em> (1999)
 <br><br>
 Compare two highly contrasting electronic works in which synthesis is not used primarily to emulate existing instruments or pre-existing styles and formal procedures. Formal boundaries are pushed in both cases. Focus on timing, envelope, articulation, color, physicality, gesture, and the extent to which a newly designed sound can itself carry form. <strong>Why do new electronic sounds require expansion of pre-existing formal structures?</strong>
-<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
+<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 • Bernard Parmegiani — <em>En phase, hors phase</em> from <em>Dedans-Dehors</em> (1977)
 <br><br>
 Compare fixed-media spatial compositions. Ask whether location and movement function as decoration or serve more formal roles. <strong>When did sound spatialization move beyond mixing toward essential musical structure?</strong>
-<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
+<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
 <tr>
