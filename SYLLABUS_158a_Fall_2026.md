@@ -190,9 +190,9 @@ Both works invite attention to process rather than only surface events. Compare 
 <br><br>
 • Morton Subotnick — <em>Silver Apples of the Moon, Pt. A</em> (1967)
 <br>
-• Squarepusher — <em>Ultravisitor</em> (2017)
+• Squarepusher — <em>Square Rave</em> (1999)
 <br><br>
-Compare two purely electronic works in which synthesis is not used primarily to emulate existing instruments or pre-existing styles or formal procedures. Focus on envelope, articulation, spectral identity, physicality, and the extent to which a newly designed sound can itself carry form. <strong>Why do new electronic sounds require new musical forms?</strong>
+Compare two highly contrasting electronic works in which synthesis is not used primarily to emulate existing instruments or pre-existing styles and formal procedures. Formal boundaries are pushed in both cases. Focus on timing, envelope, articulation, color, physicality, gesture, and the extent to which a newly designed sound can itself carry form. <strong>Why do new electronic sounds require expansion of pre-existing formal structures?</strong>
 <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
