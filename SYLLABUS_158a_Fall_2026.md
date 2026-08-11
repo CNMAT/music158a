@@ -142,9 +142,9 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 <!-- CONTEXTUAL LISTENING -->
 <strong>Contextual Listening: Schaeffer ↔ The Books — Recorded Sound as Compositional Object</strong>
 <br><br>
-• Pierre Schaeffer — <em>Étude aux chemins de fer</em> (1948) ###### **[(Jump to Music 158 playlist links)](#schedule)**
+• Pierre Schaeffer — <em>Étude aux chemins de fer</em> (1948)
 <br>
-• The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005) <a href="#Music 158 playlist links">Jump to playlist links</a>
+• The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005) <a href="#Music 158A playlist links">Jump to playlist links</a>
 <br><br>
 Listen for how each work detaches recorded sound from its original context and gives it a new musical function. Compare gesture, repetition, segmentation, semantic residue, and the boundary between documentary sound and composed structure. <strong>What changes when recognizable recorded events become compositional objects?</strong>
 </td>
