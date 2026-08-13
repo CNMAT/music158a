@@ -110,6 +110,7 @@ The final project will involve both musical and technical considerations. Resear
 <tbody>
 <!-- WEEK 1 -->
 <tr>
+  <!-- lesson plan week 1 -->
 <td><strong>Week 1</strong></td>
 <td>
 <!-- wk.1 lesson -->
