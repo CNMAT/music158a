@@ -256,7 +256,7 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 <br>
 • Bernard Parmegiani — <em>En phase, hors phase</em> from <em>Dedans-Dehors</em> (1977)
 <br><br>
-Compare fixed-media spatial compositions. Ask whether location and movement function as decoration or serve more formal roles. <strong>When did sound spatialization move beyond mixing toward essential musical structure?</strong>
+Compare fixed-media spatial compositions. Ask whether location and movement function as decoration or serve more formal roles. <strong>When did sound spatialization move beyond traditional mixing toward becoming an essential element in musical structure, what some call a "compositional determinant"?</strong>
 <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
