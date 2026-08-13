@@ -409,7 +409,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <td><strong>Final Project Presentation</strong></td>
 <td>
 <!-- final project presentation lesson -->
-<strong>12/14</strong> — To be discussed
+<strong>12/14</strong> — FINAL PROJECT DUE TODAY!!!
 </td>
 </tr>
 </tbody>
