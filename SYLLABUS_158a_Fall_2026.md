@@ -145,7 +145,7 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 <strong>(th)</strong> 09/03 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 2 (Adobe Audition -- editing soundfiles)
 <br><br>
 <!-- homework assignment 1 -->
-<em>Assignment: Homework_1. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+<em>Assignment: Homework_1. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
 <!-- contextual listening -->
 <strong>Contextual Listening: Schaeffer ↔ The Books — Recorded Sound as Compositional Object</strong>
@@ -199,7 +199,7 @@ Both works invite attention to process rather than only surface events. Compare 
 <strong>(th)</strong> 09/17 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 2
 <br><br>
 <!-- homework assignment 2 -->
-<em>Assignment: Homework_2. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+<em>Assignment: Homework_2. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
 <!-- contextual listening -->
 <strong>Contextual Listening: Subotnick ↔ Squarepusher — New Sounds Generate New Forms</strong>
@@ -243,7 +243,7 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 <strong>(th)</strong> 10/01 — Spatial Audio, Mixing, SPAT PT. 2
 <br><br>
 <!-- homework assignment 3 -->
-<em>Assignment: Homework_3. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
+<em>Assignment: Homework_3. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
 <!-- contextual listening -->
 <strong>Contextual Listening: The Books ↔ Bernard Parmegiani — Spatial Audio Matters</strong>
@@ -407,6 +407,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </tr>
 </tbody>
 </table>
+
 
 
 
