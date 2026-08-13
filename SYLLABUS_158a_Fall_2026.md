@@ -109,7 +109,7 @@ The final project will involve both musical and technical considerations. Resear
 </thead>
 <tbody>
 <!-- WEEK 1 -->
-<tr>
+<tr style="background-color: #ffffff;">
 <td><strong>Week 1</strong></td>
 <td>
 <!-- Lesson Plan Week 1 -->
@@ -129,7 +129,7 @@ MAX/MSP basics with Max download and installs <a href="#max-and-related-software
 </td>
 </tr>
 <!-- WEEK 2 -->
-<tr>
+<tr style="background-color: #f2f2f2;">
 <td><strong>Week 2</strong></td>
 <td>
 <!-- Lesson Plan Week 2 -->
@@ -159,7 +159,7 @@ Listen for how each work detaches recorded sound from its original context and g
 </td>
 </tr>
 <!-- WEEK 3 -->
-<tr>
+<tr style="background-color: #f2f2f2;">
 <td><strong>Week 3</strong></td>
 <td>
 <!-- Lesson Plan Week 3 -->
@@ -186,7 +186,7 @@ Both works invite attention to process rather than only surface events. Compare 
 </td>
 </tr>
 <!-- WEEK 4 -->
-<tr>
+<tr style="background-color: #ffffff;">
 <td><strong>Week 4</strong></td>
 <td>
 <!-- Lesson Plan Week 4 -->
@@ -213,7 +213,7 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 </td>
 </tr>
 <!-- WEEK 5 -->
-<tr>
+<tr style="background-color: #ffffff;">
 <td><strong>Week 5</strong></td>
 <td>
 <!-- Lesson Plan Week 5 -->
@@ -230,7 +230,7 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 </td>
 </tr>
 <!-- WEEK 6 -->
-<tr>
+<tr style="background-color: #f2f2f2;">
 <td><strong>Week 6</strong></td>
 <td>
 <!-- Lesson Plan Week 6 -->
@@ -257,7 +257,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 7 -->
-<tr>
+<tr style="background-color: #f2f2f2;">
 <td><strong>Week 7</strong></td>
 <td>
 <!-- Lesson Plan Week 7 -->
@@ -271,7 +271,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 8 -->
-<tr>
+<tr style="background-color: #ffffff;">
 <td><strong>Week 8</strong></td>
 <td>
 <!-- Lesson Plan Week 8 -->
@@ -286,7 +286,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 9 -->
-<tr>
+<tr style="background-color: #f2f2f2;">
 <td><strong>Week 9</strong></td>
 <td>
 <!-- Lesson Plan Week 9 -->
@@ -300,7 +300,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 10 -->
-<tr>
+<tr style="background-color: #ffffff;">
 <td><strong>Week 10</strong></td>
 <td>
 <!-- Lesson Plan Week 10 -->
@@ -315,7 +315,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 11 -->
-<tr>
+<tr style="background-color: #f2f2f2;">
 <td><strong>Week 11</strong></td>
 <td>
 <!-- Lesson Plan Week 11 -->
@@ -329,7 +329,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 12 -->
-<tr>
+<tr style="background-color: #ffffff;">
 <td><strong>Week 12</strong></td>
 <td>
 <!-- Lesson Plan Week 12 -->
@@ -344,7 +344,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 13 -->
-<tr>
+<tr style="background-color: #f2f2f2;">
 <td><strong>Week 13</strong></td>
 <td>
 <!-- Lesson Plan Week 13 -->
@@ -358,7 +358,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 14 -->
-<tr>
+<tr style="background-color: #f2f2f2;">
 <td><strong>Week 14</strong></td>
 <td>
 <!-- Lesson Plan Week 14 -->
@@ -373,7 +373,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 15 -->
-<tr>
+<tr style="background-color: #f2f2f2;">
 <td><strong>Week 15</strong></td>
 <td>
 <!-- Lesson Plan Week 15 -->
@@ -390,9 +390,6 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <tr>
 <td><strong>Week 16</strong></td>
 <td>
-<!-- Lesson Plan Week 16 -->
-<strong>Lesson Plan Week 16</strong>
-<br><br>
 <!-- wk.16 lesson -->
 <strong>12/07–12/11</strong> — Reading Week non-mandatory support LABS for Final Project development
 <!-- homework assignment 8 -->
@@ -407,6 +404,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </tr>
 </tbody>
 </table>
+
 
 
 
