@@ -112,6 +112,7 @@ The final project will involve both musical and technical considerations. Resear
 <tr>
 <td><strong>Week 1</strong></td>
 <td>
+  <!-- Lesson Plan Week 1 -->
 <!-- wk.1 lesson -->
 <strong>(th)</strong> 08/27 — Introduction to Music 158A
 <br><br>
