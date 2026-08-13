@@ -377,3 +377,4 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </table>
 
 
+
