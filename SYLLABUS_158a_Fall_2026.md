@@ -109,9 +109,9 @@ The final project will involve both musical and technical considerations. Resear
 </thead>
 <tbody>
 <!-- WEEK 1 -->
-<tr style="background-color: #ffffff;">
-<td><strong>Week 1</strong></td>
-<td>
+<tr>
+<td bgcolor="#ffffff" style="background-color:#ffffff;"><strong>Week 1</strong></td>
+<td bgcolor="#ffffff" style="background-color:#ffffff;">
 <!-- Lesson Plan Week 1 -->
 <strong>Lesson Plan Week 1</strong>
 <br><br>
@@ -129,9 +129,9 @@ MAX/MSP basics with Max download and installs <a href="#max-and-related-software
 </td>
 </tr>
 <!-- WEEK 2 -->
-<tr style="background-color: #f2f2f2;">
-<td><strong>Week 2</strong></td>
-<td>
+<tr>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><strong>Week 2</strong></td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <!-- Lesson Plan Week 2 -->
 <strong>Lesson Plan Week 2</strong>
 <br><br>
@@ -159,9 +159,9 @@ Listen for how each work detaches recorded sound from its original context and g
 </td>
 </tr>
 <!-- WEEK 3 -->
-<tr style="background-color: #f2f2f2;">
-<td><strong>Week 3</strong></td>
-<td>
+<tr>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><strong>Week 3</strong></td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <!-- Lesson Plan Week 3 -->
 <strong>Lesson Plan Week 3</strong>
 <br><br>
@@ -186,9 +186,9 @@ Both works invite attention to process rather than only surface events. Compare 
 </td>
 </tr>
 <!-- WEEK 4 -->
-<tr style="background-color: #ffffff;">
-<td><strong>Week 4</strong></td>
-<td>
+<tr>
+<td bgcolor="#ffffff" style="background-color:#ffffff;"><strong>Week 4</strong></td>
+<td bgcolor="#ffffff" style="background-color:#ffffff;">
 <!-- Lesson Plan Week 4 -->
 <strong>Lesson Plan Week 4</strong>
 <br><br>
@@ -213,9 +213,9 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 </td>
 </tr>
 <!-- WEEK 5 -->
-<tr style="background-color: #ffffff;">
-<td><strong>Week 5</strong></td>
-<td>
+<tr>
+<td bgcolor="#ffffff" style="background-color:#ffffff;"><strong>Week 5</strong></td>
+<td bgcolor="#ffffff" style="background-color:#ffffff;">
 <!-- Lesson Plan Week 5 -->
 <strong>Lesson Plan Week 5</strong>
 <br><br>
@@ -230,9 +230,9 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 </td>
 </tr>
 <!-- WEEK 6 -->
-<tr style="background-color: #f2f2f2;">
-<td><strong>Week 6</strong></td>
-<td>
+<tr>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><strong>Week 6</strong></td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <!-- Lesson Plan Week 6 -->
 <strong>Lesson Plan Week 6</strong>
 <br><br>
@@ -257,9 +257,9 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 7 -->
-<tr style="background-color: #f2f2f2;">
-<td><strong>Week 7</strong></td>
-<td>
+<tr>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><strong>Week 7</strong></td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <!-- Lesson Plan Week 7 -->
 <strong>Lesson Plan Week 7</strong>
 <br><br>
@@ -271,9 +271,9 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 8 -->
-<tr style="background-color: #ffffff;">
-<td><strong>Week 8</strong></td>
-<td>
+<tr>
+<td bgcolor="#ffffff" style="background-color:#ffffff;"><strong>Week 8</strong></td>
+<td bgcolor="#ffffff" style="background-color:#ffffff;">
 <!-- Lesson Plan Week 8 -->
 <strong>Lesson Plan Week 8</strong>
 <br><br>
@@ -286,9 +286,9 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 9 -->
-<tr style="background-color: #f2f2f2;">
-<td><strong>Week 9</strong></td>
-<td>
+<tr>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><strong>Week 9</strong></td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <!-- Lesson Plan Week 9 -->
 <strong>Lesson Plan Week 9</strong>
 <br><br>
@@ -300,9 +300,9 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 10 -->
-<tr style="background-color: #ffffff;">
-<td><strong>Week 10</strong></td>
-<td>
+<tr>
+<td bgcolor="#ffffff" style="background-color:#ffffff;"><strong>Week 10</strong></td>
+<td bgcolor="#ffffff" style="background-color:#ffffff;">
 <!-- Lesson Plan Week 10 -->
 <strong>Lesson Plan Week 10</strong>
 <br><br>
@@ -315,9 +315,9 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 11 -->
-<tr style="background-color: #f2f2f2;">
-<td><strong>Week 11</strong></td>
-<td>
+<tr>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><strong>Week 11</strong></td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <!-- Lesson Plan Week 11 -->
 <strong>Lesson Plan Week 11</strong>
 <br><br>
@@ -329,9 +329,9 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 12 -->
-<tr style="background-color: #ffffff;">
-<td><strong>Week 12</strong></td>
-<td>
+<tr>
+<td bgcolor="#ffffff" style="background-color:#ffffff;"><strong>Week 12</strong></td>
+<td bgcolor="#ffffff" style="background-color:#ffffff;">
 <!-- Lesson Plan Week 12 -->
 <strong>Lesson Plan Week 12</strong>
 <br><br>
@@ -344,9 +344,9 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 13 -->
-<tr style="background-color: #f2f2f2;">
-<td><strong>Week 13</strong></td>
-<td>
+<tr>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><strong>Week 13</strong></td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <!-- Lesson Plan Week 13 -->
 <strong>Lesson Plan Week 13</strong>
 <br><br>
@@ -358,9 +358,9 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 14 -->
-<tr style="background-color: #f2f2f2;">
-<td><strong>Week 14</strong></td>
-<td>
+<tr>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><strong>Week 14</strong></td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <!-- Lesson Plan Week 14 -->
 <strong>Lesson Plan Week 14</strong>
 <br><br>
@@ -373,9 +373,9 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </td>
 </tr>
 <!-- WEEK 15 -->
-<tr style="background-color: #f2f2f2;">
-<td><strong>Week 15</strong></td>
-<td>
+<tr>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><strong>Week 15</strong></td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <!-- Lesson Plan Week 15 -->
 <strong>Lesson Plan Week 15</strong>
 <br><br>
@@ -404,6 +404,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </tr>
 </tbody>
 </table>
+
 
 
 
