@@ -113,6 +113,8 @@ The final project will involve both musical and technical considerations. Resear
 <td><strong>Week 1</strong></td>
 <td>
 <!-- Lesson Plan Week 1 -->
+<strong>Lesson Plan Week 1</strong>
+<br><br>
 <!-- wk.1 lesson -->
 <strong>(th)</strong> 08/27 — Introduction to Music 158A
 <br><br>
@@ -131,6 +133,8 @@ MAX/MSP basics with Max download and installs <a href="#max-and-related-software
 <td><strong>Week 2</strong></td>
 <td>
 <!-- Lesson Plan Week 2 -->
+<strong>Lesson Plan Week 2</strong>
+<br><br>
 <!-- wk.2 lesson -->
 <strong>(tu)</strong> 09/01 — Completion of software and pedagogy software installs <a href="#max-and-related-software-downloads-all-required-mostly-free">Jump to Max and related software downloads</a>
 <br><br>
@@ -159,6 +163,8 @@ Listen for how each work detaches recorded sound from its original context and g
 <td><strong>Week 3</strong></td>
 <td>
 <!-- Lesson Plan Week 3 -->
+<strong>Lesson Plan Week 3</strong>
+<br><br>
 <!-- wk.3 lesson -->
 <strong>(tu)</strong> 09/08 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with VST~ (synthesizer) PT. 3
 <br><br>
@@ -184,6 +190,8 @@ Both works invite attention to process rather than only surface events. Compare 
 <td><strong>Week 4</strong></td>
 <td>
 <!-- Lesson Plan Week 4 -->
+<strong>Lesson Plan Week 4</strong>
+<br><br>
 <!-- wk.4 lesson -->
 <strong>(tu)</strong> 09/15 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 1
 <br><br>
@@ -209,6 +217,8 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 <td><strong>Week 5</strong></td>
 <td>
 <!-- Lesson Plan Week 5 -->
+<strong>Lesson Plan Week 5</strong>
+<br><br>
 <!-- wk.5 lesson -->
 <strong>(tu)</strong> 09/22 — Signal, Synthesis and Tone, CNMAT Spectral Objects, and the Note to Noise Continuum PT. 3
 <br><br>
@@ -224,6 +234,8 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 <td><strong>Week 6</strong></td>
 <td>
 <!-- Lesson Plan Week 6 -->
+<strong>Lesson Plan Week 6</strong>
+<br><br>
 <!-- wk.6 lesson -->
 <strong>(tu)</strong> 09/29 — Spatial Audio, Mixing, SPAT PT. 1
 <br><br>
@@ -249,6 +261,8 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <td><strong>Week 7</strong></td>
 <td>
 <!-- Lesson Plan Week 7 -->
+<strong>Lesson Plan Week 7</strong>
+<br><br>
 <!-- wk.7 lesson -->
 <strong>(tu)</strong> 10/06 — Spatial Audio, Mixing, SPAT PT. 3
 <br><br>
@@ -261,6 +275,8 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <td><strong>Week 8</strong></td>
 <td>
 <!-- Lesson Plan Week 8 -->
+<strong>Lesson Plan Week 8</strong>
+<br><br>
 <!-- wk.8 lesson -->
 <strong>(tu)</strong> 10/13 — Advanced Control and AI-assisted programming (ml.star) with Pitch Spaces (v8.codebox and v8.ui) PT. 1
 <br><br>
@@ -274,6 +290,8 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <td><strong>Week 9</strong></td>
 <td>
 <!-- Lesson Plan Week 9 -->
+<strong>Lesson Plan Week 9</strong>
+<br><br>
 <!-- wk.9 lesson -->
 <strong>(tu)</strong> 10/20 — Advanced Sampling, Event Morphology with Soundfile Descriptors, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 1
 <br><br>
@@ -286,6 +304,8 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <td><strong>Week 10</strong></td>
 <td>
 <!-- Lesson Plan Week 10 -->
+<strong>Lesson Plan Week 10</strong>
+<br><br>
 <!-- wk.10 lesson -->
 <strong>(tu)</strong> 10/27 — Advanced Synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 1
 <br><br>
@@ -299,6 +319,8 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <td><strong>Week 11</strong></td>
 <td>
 <!-- Lesson Plan Week 11 -->
+<strong>Lesson Plan Week 11</strong>
+<br><br>
 <!-- wk.11 lesson -->
 <strong>(tu)</strong> 11/03 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 1
 <br><br>
@@ -311,6 +333,8 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <td><strong>Week 12</strong></td>
 <td>
 <!-- Lesson Plan Week 12 -->
+<strong>Lesson Plan Week 12</strong>
+<br><br>
 <!-- wk.12 lesson -->
 <strong>(tu)</strong> 11/10 — Composing with Computers (organization, aesthetics, forms) PT.1
 <br><br>
@@ -324,6 +348,8 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <td><strong>Week 13</strong></td>
 <td>
 <!-- Lesson Plan Week 13 -->
+<strong>Lesson Plan Week 13</strong>
+<br><br>
 <!-- wk.13 lesson -->
 <strong>(tu)</strong> 11/17 — Final project discussions and in-class programming PT. 1
 <br><br>
@@ -336,6 +362,8 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <td><strong>Week 14</strong></td>
 <td>
 <!-- Lesson Plan Week 14 -->
+<strong>Lesson Plan Week 14</strong>
+<br><br>
 <!-- wk.14 lesson -->
 <strong>(tu)</strong> 11/24— TBD
 <br><br>
@@ -349,6 +377,8 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <td><strong>Week 15</strong></td>
 <td>
 <!-- Lesson Plan Week 15 -->
+<strong>Lesson Plan Week 15</strong>
+<br><br>
 <!-- wk.15 lesson -->
 <strong>(tu)</strong> 12/1— TBD
 <br><br>
@@ -361,6 +391,8 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <td><strong>Week 16</strong></td>
 <td>
 <!-- Lesson Plan Week 16 -->
+<strong>Lesson Plan Week 16</strong>
+<br><br>
 <!-- wk.16 lesson -->
 <strong>12/07–12/11</strong> — Reading Week non-mandatory support LABS for Final Project development
 <!-- homework assignment 8 -->
@@ -375,6 +407,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 </tr>
 </tbody>
 </table>
+
 
 
 
