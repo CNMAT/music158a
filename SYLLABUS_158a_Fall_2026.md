@@ -44,7 +44,7 @@ ADOBE Creative Cloud AUDITION (free for students) https://software.berkeley.edu/
 Course Goals
 -----------------
 
-In this course, we do not ask whether it is music; we ask what is musical about it, and how, through iteration, might we make it more musical -- not what is best, but what is better. Our interests here are not centered on the direct imitation of conventional human systems of music making. Instead, we will work to replace our reliance on familiarity—often the basis for what we "like" in music—with inquisitiveness, openness, and testing based on audible feedback. The real work is learning to listen as part of an analytical process whose goal is to aid in human decisions and revisions directed toward discovery. Music made with musically informed computational systems extends beyond imitation of established human practices -- towards an expanded field in which the human can easily be overtaken by machine processes. The primary goal is to accomplish a basic understanding of Max/MSP and to complete a final project that demonstrates that understanding and produces a musical outcome.
+The primary goal is to accomplish a working understanding of Max/MSP software and to complete a final project that demonstrates that understanding and produces a musical outcome. In this course, we do not ask whether it is music; we ask what is musical about it, and how, through iteration, might we make it more musical -- not what is best, but what is better. Our interests here are not centered on the direct imitation of conventional human systems of music making. Instead, we will work to replace our reliance on familiarity—often the basis for what we "like" in music—with inquisitiveness, openness, and testing based on audible feedback. The real work is learning to listen as part of an analytical process whose goal is to aid in human decisions and revisions directed toward discovery. Music made with musically informed computational systems can easily extend beyond imitation of established human practices -- towards an expanded field in which the human aspects can be overtaken by machine processes. 
 
 
 Class Materials
@@ -108,38 +108,40 @@ The final project will involve both musical and technical considerations. Resear
 </tr>
 </thead>
 <tbody>
+<!-- WEEK 1 -->
 <tr>
 <td><strong>Week 1</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.1 lesson -->
 <strong>(th)</strong> 08/27 — Introduction to Music 158A
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.1 lesson -->
 MAX/MSP basics with Max download and installs <a href="#max-and-related-software-downloads-all-required-mostly-free">Jump to Max and related software downloads</a>
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.1 lesson -->
 — In-class practice with Max/MSP and Audio out
 <br><br>
-<!-- CLASS REQUIREMENT -->
+<!-- class requirement -->
 <em>Class Requirement: Always bring laptops with a full working environment ready for in-class LAB. Install Max/MSP. NO CLOUD INSTALLATIONS!!! Windows: OneDrive (make sure all materials are on local machine). Students must keep backups of their materials.</em>
 </td>
 </tr>
+<!-- WEEK 2 -->
 <tr>
 <td><strong>Week 2</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.2 lesson -->
 <strong>(tu)</strong> 09/01 — Completion of software and pedagogy software installs <a href="#max-and-related-software-downloads-all-required-mostly-free">Jump to Max and related software downloads</a>
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.2 lesson -->
 Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 1
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.2 lesson -->
 <strong>(th)</strong> 09/03 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 2 (Adobe Audition -- editing soundfiles)
 <br><br>
-<!-- ASSIGNMENT -->
+<!-- homework assignment 1 -->
 <em>Assignment: Homework_1. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
 <br><br>
-<!-- CONTEXTUAL LISTENING -->
+<!-- contextual listening -->
 <strong>Contextual Listening: Schaeffer ↔ The Books — Recorded Sound as Compositional Object</strong>
 <br><br>
 • Pierre Schaeffer — <em>Étude aux chemins de fer</em> (1948)
@@ -150,19 +152,20 @@ Listen for how each work detaches recorded sound from its original context and g
   <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
+<!-- WEEK 3 -->
 <tr>
 <td><strong>Week 3</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.3 lesson -->
 <strong>(tu)</strong> 09/08 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with VST~ (synthesizer) PT. 3
 <br><br>
-<!-- CLASS DEMONSTRATION -->
+<!-- class demonstration -->
 <strong>(th)</strong> 09/10 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- CLASS DEMONSTRATIONS
 <br><br>
 <!-- DUE -->
 <em>DUE: Homework_1 due today by midnight. Students are given a chance to present in class today.</em>
 <br><br>
-<!-- CONTEXTUAL LISTENING -->
+<!-- contextual listening -->
 <strong>Contextual Listening: Reich ↔ Lansky — From Simple Rules to Complex Behavior</strong>
 <br><br>
 • Steve Reich — <em>It's Gonna Rain, Part 1</em> (1965)
@@ -173,19 +176,20 @@ Both works invite attention to process rather than only surface events. Compare 
   <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
+<!-- WEEK 4 -->
 <tr>
 <td><strong>Week 4</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.4 lesson -->
 <strong>(tu)</strong> 09/15 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 1
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.4 lesson -->
 <strong>(th)</strong> 09/17 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 2
 <br><br>
-<!-- ASSIGNMENT -->
+<!-- homework assignment 2 -->
 <em>Assignment: Homework_2. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
 <br><br>
-<!-- CONTEXTUAL LISTENING -->
+<!-- contextual listening -->
 <strong>Contextual Listening: Subotnick ↔ Squarepusher — New Sounds Generate New Forms</strong>
 <br><br>
 • Morton Subotnick — <em>Silver Apples of the Moon, Pt. A</em> (1967)
@@ -196,32 +200,34 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
+<!-- WEEK 5 -->
 <tr>
 <td><strong>Week 5</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.5 lesson -->
 <strong>(tu)</strong> 09/22 — Signal, Synthesis and Tone, CNMAT Spectral Objects, and the Note to Noise Continuum PT. 3
 <br><br>
-<!-- CLASS DEMONSTRATION -->
+<!-- class demonstration -->
 <strong>(th)</strong> 09/24 — Signal, Synthesis and Tone, Mixing, CNMAT Spectral Objects -- CLASS DEMONSTRATIONS
 <br><br>
 <!-- DUE -->
 <em>DUE: Homework_2 due today by midnight. Students are given a chance to present in class today.</em>
 </td>
 </tr>
+<!-- WEEK 6 -->
 <tr>
 <td><strong>Week 6</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.6 lesson -->
 <strong>(tu)</strong> 09/29 — Spatial Audio, Mixing, SPAT PT. 1
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.6 lesson -->
 <strong>(th)</strong> 10/01 — Spatial Audio, Mixing, SPAT PT. 2
 <br><br>
-<!-- ASSIGNMENT -->
+<!-- homework assignment 3 -->
 <em>Assignment: Homework_3. All assignments are found in the <code>Homework_Assignments</code> folder.</em>
 <br><br>
-<!-- CONTEXTUAL LISTENING -->
+<!-- contextual listening -->
 <strong>Contextual Listening: The Books ↔ Bernard Parmegiani — Spatial Audio Matters</strong>
 <br><br>
 • The Books — <em>Smells Like Content</em> from <em>Lost and Safe</em> (1973)
@@ -232,109 +238,125 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
 </td>
 </tr>
+<!-- WEEK 7 -->
 <tr>
 <td><strong>Week 7</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.7 lesson -->
 <strong>(tu)</strong> 10/06 — Spatial Audio, Mixing, SPAT PT. 3
 <br><br>
-<!-- CLASS DEMONSTRATION -->
+<!-- class demonstration -->
 <strong>(th)</strong> 10/08 — Spatial Audio, Mixing, SPAT --CLASS DEMONSTRATIONS
 </td>
 </tr>
+<!-- WEEK 8 -->
 <tr>
 <td><strong>Week 8</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.8 lesson -->
 <strong>(tu)</strong> 10/13 — Advanced Control and AI-assisted programming (ml.star) with Pitch Spaces (v8.codebox and v8.ui) PT. 1
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.8 lesson -->
 <strong>(th)</strong> 10/15 — Advanced Control and AI-assisted programming with Markov Chains PT. 2
+<!-- homework assignment 4 -->
 </td>
 </tr>
+<!-- WEEK 9 -->
 <tr>
 <td><strong>Week 9</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.9 lesson -->
 <strong>(tu)</strong> 10/20 — Advanced Sampling, Event Morphology with Soundfile Descriptors, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 1
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.9 lesson -->
 <strong>(th)</strong> 10/22 — Advanced Sampling, Event Morphology, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 2
 </td>
 </tr>
+<!-- WEEK 10 -->
 <tr>
 <td><strong>Week 10</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.10 lesson -->
 <strong>(tu)</strong> 10/27 — Advanced Synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 1
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.10 lesson -->
 <strong>(th)</strong> 10/29 — Advanced synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 2
+<!-- homework assignment 5 -->
 </td>
 </tr>
+<!-- WEEK 11 -->
 <tr>
 <td><strong>Week 11</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.11 lesson -->
 <strong>(tu)</strong> 11/03 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 1
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.11 lesson -->
 <strong>(th)</strong> 11/05 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 2
 </td>
 </tr>
+<!-- WEEK 12 -->
 <tr>
 <td><strong>Week 12</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.12 lesson -->
 <strong>(tu)</strong> 11/10 — Composing with Computers (organization, aesthetics, forms) PT.1
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.12 lesson -->
 <strong>(th)</strong> 11/12 — Composing with Computers (organization, aesthetics, forms, and production) PT. 2 and Adobe Audition multi-channel mixing
+<!-- homework assignment 6 -->
 </td>
 </tr>
+<!-- WEEK 13 -->
 <tr>
 <td><strong>Week 13</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.13 lesson -->
 <strong>(tu)</strong> 11/17 — Final project discussions and in-class programming PT. 1
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.13 lesson -->
 <strong>(th)</strong> 11/19 — Final project discussions and in-class programming PT.2
 </td>
 </tr>
+<!-- WEEK 14 -->
 <tr>
 <td><strong>Week 14</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.14 lesson -->
 <strong>(tu)</strong> 11/24— TBD
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.14 lesson -->
 <strong>(th)</strong> 11/26 (Spring Break)
+<!-- homework assignment 7 -->
 </td>
 </tr>
+<!-- WEEK 15 -->
 <tr>
 <td><strong>Week 15</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.15 lesson -->
 <strong>(tu)</strong> 12/1— TBD
 <br><br>
-<!-- GENERAL LESSON -->
+<!-- wk.15 lesson -->
 <strong>(th)</strong> 12/3 Final Project Support (demonstrations)
 </td>
 </tr>
+<!-- WEEK 16 -->
 <tr>
 <td><strong>Week 16</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- wk.16 lesson -->
 <strong>12/07–12/11</strong> — Reading Week non-mandatory support LABS for Final Project development
+<!-- homework assignment 8 -->
 </td>
 </tr>
 <tr>
 <td><strong>Final Project Presentation</strong></td>
 <td>
-<!-- GENERAL LESSON -->
+<!-- final project presentation lesson -->
 <strong>12/14</strong> — To be discussed
 </td>
 </tr>
 </tbody>
 </table>
+
