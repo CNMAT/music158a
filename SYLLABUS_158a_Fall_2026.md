@@ -231,8 +231,6 @@ Compare two highly contrasting electronic works in which synthesis moves beyond 
 
 <!-- class demonstration -->
 <strong>(th)</strong> 09/24 — Signal, Synthesis and Tone, Mixing, CNMAT Spectral Objects — CLASS DEMONSTRATIONS
-<br><br>
-
 <!-- DUE -->
 <em>DUE: Homework_2 due today by midnight. Students are given a chance to present in class today.</em>
 <br><br>
