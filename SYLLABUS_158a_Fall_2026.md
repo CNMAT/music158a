@@ -50,44 +50,44 @@ The primary goal is to accomplish a working understanding of Max/MSP software an
 Class Materials
 ---------------
 
-Music 158B/258B will use the Cycling’74 MaxMSP programming environment extensively. Students must have access to a laptop computer with MaxMSP, please see the instructor for computer access options. Students must subscribe monthly to MaxMSP to take advantage of the complete libraries and saving features. Free software materials running in the Max/MSP environment will be made available to students by the Center for New Music and Audio Technologies throughout the semester. 
+Music 158A/258A will use the Cycling’74 MaxMSP programming environment extensively. Students must have access to a laptop computer with MaxMSP (Windows or MacOS). Please see the instructor for computer access options. Students must subscribe monthly to MaxMSP to access the full library and save features. Free software materials running in the Max/MSP environment will be made available to students by the Center for New Music and Audio Technologies throughout the semester. Patches developed in class will be stored in this repository for access and download. BCourses site is used only for homework submissions and grading.
 
 Bi-weekly modules with homework
 -----------------------------------
 
-Approximately every two weeks, a new learning module is presented in class alongside a homework assignment. The homework assignments rely on the pedagogical materials taught in the classroom, and it is expected that the student demonstrate basic understanding of the materials via the homework submissions.  Students are required to stay within the boundaries of the course material, even when they come to the class with advanced programming chops.  
+Approximately every two weeks, a new learning module is presented in class alongside a homework assignment. The homework assignments rely on the pedagogical materials taught in the classroom, and it is expected that the student demonstrate basic understanding of the materials via the homework submissions.  Students are required to stay within the boundaries of the course material, even when they come to the class with advanced programming chops. 
 
 Final Project and Presentations/Performance
 -----------------------------------
 
-Music 158a students do not take a  standardized final exam. Instead, students work alone to produce a final project due at the scheduled exam period (Deadline for submission is 5 p.m. December 14). As part of the final project, students are required meet at the time of the final exam or in the last week of classes to present a short demonstration/performance/installation to the class.
+Music 158a students do not take a  standardized final exam. Instead, students work alone to produce a final project due at the scheduled exam period (Deadline for submission is 5 p.m. December 14). As part of the final project, students are required to meet at the time of the final exam or in the last week of classes to present a short demonstration/performance/installation to the class.
 
-Music 258B students will be required to create a final project appropriate to the graduate-level of disciplinary focus. The specifics of the requirement will be discussed and agreed upon by the instructor in consultation with each student. Graduate students from inside and outside the Music Department must be registered for Music 258B (see instructor).
+Music 258A students will be required to create a final project appropriate to the graduate-level of disciplinary focus. The specifics of the requirement will be discussed and agreed upon by the instructor in consultation with each student. Graduate students from inside and outside the Music Department must be registered for Music 258B (see instructor).
 
 Grading Policy
 --------------
 
 **Class Attendance = 20% total** 
-Policy: Students are allowed four (4) unexcused absences without penalty.  After four absences, each additional absence will result in a 5% drop in your overall grade. 
+Policy: Students are allowed four (4) unexcused absences without penalty.  After four absences, each additional absence will result in a 5% drop in your overall grade. CNMAT is off campus, but we need to start the class on time.  If you are unable to meet at the starting time, speak to your teachers.
 
 **Class Participation = 5% total**
-Policy: Students are expected to ask questions and engage with the professor during the classroom meetings. 
+Students are expected to ask questions and engage with the professor during the classroom meetings. 
 
 **Class Demonstration for Homework assignments = 5% total**
-Policy: Each student is required to present, from their own laptop, a short presentation/demonstration (3-5 min.) drawn from one of the homework assignments (student's choice).  (This requirement is in addition to the presentation required for the final project at the end of the semester.)
+Each student is required to present, from their own laptop, a short presentation/demonstration (3-5 min.) drawn from one of the homework assignments (student's choice).  (This requirement is in addition to the presentation required for the final project at the end of the semester.)
 
 **Technology and Tools Readiness = 5% total** 
-Policy: Students are responsible for maintaining and demonstrating that their laptop working environment is in solid working order at all times. This course features weekly updates and tool sharing on GitHub and/or BCourses.  When a student is given a warning from the instructor or GSI that they are out of compliance or not up to date on tools presented in class, they have one week to resolve and demonstrate the fix to the GSI. The first warning is without penalty.  All future warnings are an automatic 5% deduction from the overall grade.
+Students are responsible for maintaining and demonstrating that their laptop working environment is in solid working order at all times. This course features weekly updates and tool sharing on GitHub and/or BCourses.  When a student is given a warning from the instructor or GSI, indicating they are out of compliance or not up to date on tools presented in class, they have one week to resolve and demonstrate the fix to the GSI. The first warning is without penalty.  All future warnings are an automatic 5% deduction from the overall grade.
 
 **Homework Assignments = 40% (8 x 5% each)** 
 
-Policy: There will be eight (8) homework assignments for the semester. Each assignment must be completed mainly using Max/MSP and other  software tools taught in class. Submissions for homework are uploaded to the Music 158A Fall 2026 BCourses site by the beginning of class time on the day they are due. 
+There will be eight (8) homework assignments for the semester. Each assignment must be completed mainly using Max/MSP and other software tools taught in class. Submissions for homework are uploaded to the Music 158A Fall 2026 BCourses site by the beginning of class time on the day they are due.  
 
 **Final Project and Performance = 25%** 
 
-The final project is a creative work involving sound production and sound organization: a musical work or composition that demonstrates a thoughtful engagement with the computer-based tools presented in the class. The final project should be derived from the coursework and acknowledge the series of homework assignments which are designed to prepare the student to accomplish an effective final project.
+The final project is a creative work involving sound production and sound organization: a musical work, or composition that demonstrates a thoughtful engagement with the computer-based tools presented in the class. The final project should be derived from the coursework and acknowledge the series of homework assignments that are designed to prepare the student to complete an effective final project.
 
-The course is designed to provide students with no prior musical background and/or no prior computational experience with a clear pathway toward earning the full 25% allocated to the final project. Final projects must demonstrate both comprehension and application of course concepts, and they should be developed using the materials, methods, and technologies presented in class unless Professor Campion explicitly approves the use of other technologies or programming environments.
+The course is designed to provide students with no prior musical background and/or no prior computational experience with a clear pathway toward earning the full 25% allocated to the final project. Final projects must demonstrate both comprehension and application of course concepts, and they should be developed using the materials, methods, and technologies presented in class. Professor Campion must explicitly approve the use of other technologies or programming environments. Graduate students have more leeway in designing their final project.
 
 The final project will involve both musical and technical considerations. Research and development for the final presentation will begin midway through the semester and will be integrated into the sequence of homework assignments.
 
