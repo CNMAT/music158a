@@ -110,7 +110,7 @@ The final project will involve both musical and technical considerations. Resear
 <tbody>
 <!-- WEEK 1 -->
 <tr>
-<td><strong>Week 1</strong></td>
+<td><strong>Week 1</strong><br>Aug. 24-28</td>
 <td>
 <!-- Lesson Plan Week 1 -->
 <strong>Lesson Plan Week 1</strong>
@@ -130,7 +130,7 @@ MAX/MSP basics with Max download and installs <a href="#max-and-related-software
 </tr>
 <!-- WEEK 2 -->
 <tr>
-<td><strong>Week 2</strong></td>
+<td><strong>Week 2</strong><br>Aug. 31-Sep. 4</td>
 <td>
 <!-- Lesson Plan Week 2 -->
 <strong>Lesson Plan Week 2</strong>
@@ -162,7 +162,7 @@ Listen for how each work detaches recorded sound from its original context and g
 <tr></tr>
 <!-- WEEK 3 -->
 <tr>
-<td><strong>Week 3</strong></td>
+<td><strong>Week 3</strong><br>Sep. 7-11</td>
 <td>
 <!-- Lesson Plan Week 3 -->
 <strong>Lesson Plan Week 3</strong>
@@ -189,7 +189,7 @@ Both works invite attention to process rather than only surface events. Compare 
 </tr>
 <!-- WEEK 4 -->
 <tr>
-<td><strong>Week 4</strong></td>
+<td><strong>Week 4</strong><br>Sep. 14-18</td>
 <td>
 <!-- Lesson Plan Week 4 -->
 <strong>Lesson Plan Week 4</strong>
@@ -218,7 +218,7 @@ Compare two highly contrasting electronic works in which synthesis moves beyond 
 <tr></tr>
 <!-- WEEK 5 -->
 <tr>
-<td><strong>Week 5</strong></td>
+<td><strong>Week 5</strong><br>Sep. 21-25</td>
 <td>
 <!-- Lesson Plan Week 5 -->
 <strong>Lesson Plan Week 5</strong>
@@ -251,7 +251,7 @@ Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-202
 </tr>
 <!-- WEEK 6 -->
 <tr>
-<td><strong>Week 6</strong></td>
+<td><strong>Week 6</strong><br>Sep. 28-Oct. 2</td>
 <td>
 <!-- Lesson Plan Week 6 -->
 <strong>Lesson Plan Week 6</strong>
@@ -280,7 +280,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <tr></tr>
 <!-- WEEK 7 -->
 <tr>
-<td><strong>Week 7</strong></td>
+<td><strong>Week 7</strong><br>Oct. 5-9</td>
 <td>
 <!-- Lesson Plan Week 7 -->
 <strong>Lesson Plan Week 7</strong>
@@ -306,7 +306,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <tr></tr>
 <!-- WEEK 8 -->
 <tr>
-<td><strong>Week 8</strong></td>
+<td><strong>Week 8</strong><br>Oct. 12-16</td>
 <td>
 <!-- Lesson Plan Week 8 -->
 <strong>Lesson Plan Week 8</strong>
@@ -323,7 +323,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 </tr>
 <!-- WEEK 9 -->
 <tr>
-<td><strong>Week 9</strong></td>
+<td><strong>Week 9</strong><br>Oct. 19-23</td>
 <td>
 <!-- Lesson Plan Week 9 -->
 <strong>Lesson Plan Week 9</strong>
@@ -343,7 +343,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 </tr>
 <!-- WEEK 10 -->
 <tr>
-<td><strong>Week 10</strong></td>
+<td><strong>Week 10</strong><br>Oct. 26-30</td>
 <td>
 <!-- Lesson Plan Week 10 -->
 <strong>Lesson Plan Week 10</strong>
@@ -364,7 +364,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 </tr>
 <!-- WEEK 11 -->
 <tr>
-<td><strong>Week 11</strong></td>
+<td><strong>Week 11</strong><br>Nov. 2-6</td>
 <td>
 <!-- Lesson Plan Week 11 -->
 <strong>Lesson Plan Week 11</strong>
@@ -384,7 +384,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 </tr>
 <!-- WEEK 12 -->
 <tr>
-<td><strong>Week 12</strong></td>
+<td><strong>Week 12</strong><br>Nov. 9-13</td>
 <td>
 <!-- Lesson Plan Week 12 -->
 <strong>Lesson Plan Week 12</strong>
@@ -404,7 +404,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 </tr>
 <!-- WEEK 13 -->
 <tr>
-<td><strong>Week 13</strong></td>
+<td><strong>Week 13</strong><br>Nov. 16-20</td>
 <td>
 <!-- Lesson Plan Week 13 -->
 <strong>Lesson Plan Week 13</strong>
@@ -423,7 +423,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <tr></tr>
 <!-- WEEK 14 -->
 <tr>
-<td><strong>Week 14</strong></td>
+<td><strong>Week 14</strong><br>Nov. 23-27</td>
 <td>
 <!-- Lesson Plan Week 14 -->
 <strong>Lesson Plan Week 14</strong>
@@ -439,7 +439,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <tr></tr>
 <!-- WEEK 15 -->
 <tr>
-<td><strong>Week 15</strong></td>
+<td><strong>Week 15</strong><br>Nov. 30-Dec. 4</td>
 <td>
 <!-- Lesson Plan Week 15 -->
 <strong>Lesson Plan Week 15</strong>
@@ -453,7 +453,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 </tr>
 <!-- WEEK 16 -->
 <tr>
-<td><strong>Week 16</strong></td>
+<td><strong>Week 16</strong><br>Dec. 7-11</td>
 <td>
 <!-- wk.16 lesson -->
 <strong>12/07–12/11</strong> — Reading Week non-mandatory support LABS for Final Project development
@@ -468,6 +468,17 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 </tr>
 </tbody>
 </table>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
