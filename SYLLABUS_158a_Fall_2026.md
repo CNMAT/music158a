@@ -316,6 +316,9 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <!-- wk.8 lesson -->
 <strong>(tu)</strong> 10/13 — Advanced Control and AI-assisted programming (ml.star) with Pitch Spaces (v8.codebox and v8.ui) PT. 1
 <br><br>
+  <!-- wk.8 lesson -->
+<strong>(tu)</strong> Max Nodes for interpolating interface control
+<br><br>
   <!-- homework assignment 4 -->
 <em>Assignment: Homework_4. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
