@@ -220,28 +220,44 @@ Compare two highly contrasting electronic works in which synthesis moves beyond 
 <tr>
 <td><strong>Week 5</strong></td>
 <td>
+
 <!-- Lesson Plan Week 5 -->
 <strong>Lesson Plan Week 5</strong>
 <br><br>
+
 <!-- wk.5 lesson -->
 <strong>(tu)</strong> 09/22 — Signal, Synthesis and Tone, CNMAT Spectral Objects, and the Note to Noise Continuum PT. 3
 <br><br>
+
 <!-- class demonstration -->
-<strong>(th)</strong> 09/24 — Signal, Synthesis and Tone, Mixing, CNMAT Spectral Objects -- CLASS DEMONSTRATIONS
+<strong>(th)</strong> 09/24 — Signal, Synthesis and Tone, Mixing, CNMAT Spectral Objects — CLASS DEMONSTRATIONS
 <br><br>
+
 <!-- DUE -->
 <em>DUE: Homework_2 due today by midnight. Students are given a chance to present in class today.</em>
-</td>
-</tr>
-  <!-- contextual listening -->
+<br><br>
+
+<!-- CONTEXTUAL LISTENING -->
 <strong>Contextual Listening: The Books ↔ Bernard Parmegiani — Spatial Audio Matters</strong>
 <br><br>
-• Brian Eno  — <em>2/2 </em> from <em>Ambient 1: Music for Airports</em> (1978)
+
+• Brian Eno — <em>2/2</em> from <em>Ambient 1: Music for Airports</em> (1978)
 <br>
 • Aphex Twin — <em>Formula</em> from <em>Windowlicker-EP</em> (1999)
 <br><br>
+
 Compare two contrasting electronic compositions: one by Brian Eno, based on simplicity, sustained tones, and functional harmony, and one by Aphex Twin, characterized by noise, complexity, and rapid sonic transformation. Consider how harmonically pitched sounds require musical structure to be organized differently from noise-based or inharmonic soundscapes. Pay particular attention to timbre, density, gesture, and temporal organization. <strong>Can the contrast between tone and noise be understood as a continuum of sonic possibilities rather than as two opposing categories?</strong>
-<div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
+
+<div align="right">
+<sub>
+<strong>Music 158A playlist links:</strong>
+Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL" target="_blank">LINK</a>
+· Spotify: <a href="" target="_blank">LINK</a>
+</sub>
+</div>
+
+</td>
+</tr>
 <!-- WEEK 6 -->
 <tr>
 <td><strong>Week 6</strong></td>
