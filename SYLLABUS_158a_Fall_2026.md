@@ -238,7 +238,7 @@ Compare two highly contrasting electronic works in which synthesis moves beyond 
 <br><br>
 
 <!-- CONTEXTUAL LISTENING -->
-<strong>Contextual Listening: The Books ↔ Bernard Parmegiani — Spatial Audio Matters</strong>
+<strong>Contextual Listening: Brian Eno ↔ Aphex Twin — Tone and Noise and Note to Noise Continuum</strong>
 <br><br>
 
 • Brian Eno — <em>2/2</em> from <em>Ambient 1: Music for Airports</em> (1978)
