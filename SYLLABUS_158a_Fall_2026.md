@@ -400,6 +400,11 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <br><br>
 <!-- wk.12 lesson -->
 <strong>(th)</strong> 11/12 — Composing with Computers (organization, aesthetics, forms, and production) PT. 2 and Adobe Audition multi-channel mixing
+  <!-- contextual listening -->
+<strong>Contextual Listening: Phoebe Bridgers — The Outside from Lost Weekend</strong>
+<br><br>
+What tools, techniques, and specific effects can be heard in this recent release that relate to materials covered in this class? <strong>How is electronic technology functioning within and transforming a top-selling indie folk/alternative singer's practice?</strong>
+    <div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- WEEK 13 -->
