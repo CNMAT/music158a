@@ -155,15 +155,7 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 • The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005) 
 <br><br>
 Listen for how each work detaches recorded sound from its original context and gives it a new musical function. Compare gesture, repetition, segmentation, semantic residue, and the boundary between documentary sound and composed structure. <strong>What changes when recognizable recorded events become compositional objects?</strong>
-  <div align="right">
-  <sub>
-    <strong>Music 158A playlist links:</strong>
-    Apple Music:
-    <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL" target="_blank">LINK</a>
-    · Spotify:
-    <a href="" target="_blank">LINK</a>
-  </sub>
-</div>
+  <div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- shading parity spacer -->
@@ -192,7 +184,7 @@ Listen for how each work detaches recorded sound from its original context and g
 • Paul Lansky — <em>Idle Chatter Junior</em> (2001)
 <br><br>
 Both works invite attention to process rather than only surface events. Compare phase drift and repetition in Reich with layered, recursive, generative processes in Lansky. Ask which musical details are directly specified and which emerge from the system. <strong>When does a simple rule become complex behavior?</strong>
-  <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
+    <div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- WEEK 4 -->
@@ -218,8 +210,8 @@ Both works invite attention to process rather than only surface events. Compare 
 <br>
 • Squarepusher — <em>Square Rave</em> (1999)
 <br><br>
-Compare two highly contrasting electronic works in which synthesis is not used primarily to emulate existing instruments or pre-existing styles and formal procedures. Formal boundaries are pushed in both cases. Focus on timing, envelope, articulation, color, physicality, gesture, and the extent to which a newly designed sound can itself carry form. <strong>Why do new electronic sounds require expansion of pre-existing formal structures?</strong>
-<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
+Compare two highly contrasting electronic works in which synthesis moves beyond the emulation of existing instruments, pre-existing styles, or established formal procedures, and in which expanded resources and new sonic materials contribute to new approaches to form. Focus on timing, envelope, articulation, timbre, physicality, gesture, and the extent to which a newly designed sound can itself articulate or carry form. <strong>Why might new electronic sounds require an expansion or rethinking of pre-existing formal structures?</strong>
+<div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- shading parity spacer -->
@@ -241,6 +233,15 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 <em>DUE: Homework_2 due today by midnight. Students are given a chance to present in class today.</em>
 </td>
 </tr>
+  <!-- contextual listening -->
+<strong>Contextual Listening: The Books ↔ Bernard Parmegiani — Spatial Audio Matters</strong>
+<br><br>
+• Brian Eno  — <em>2/2 </em> from <em>Ambient 1: Music for Airports</em> (1978)
+<br>
+• Aphex Twin — <em>Formula</em> from <em>Windowlicker-EP</em> (1999)
+<br><br>
+Compare two contrasting electronic compositions: one by Brian Eno, based on simplicity, sustained tones, and functional harmony, and one by Aphex Twin, characterized by noise, complexity, and rapid sonic transformation. Consider how harmonically pitched sounds require musical structure to be organized differently from noise-based or inharmonic soundscapes. Pay particular attention to timbre, density, gesture, and temporal organization. <strong>Can the contrast between tone and noise be understood as a continuum of sonic possibilities rather than as two opposing categories?</strong>
+<div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
 <!-- WEEK 6 -->
 <tr>
 <td><strong>Week 6</strong></td>
@@ -265,7 +266,7 @@ Compare two highly contrasting electronic works in which synthesis is not used p
 • Bernard Parmegiani — <em>En phase, hors phase</em> from <em>Dedans-Dehors</em> (1977)
 <br><br>
 Compare fixed-media spatial compositions. Ask whether location and movement function as decoration or serve more formal roles. <strong>When did sound spatialization move beyond traditional mixing toward becoming an essential element in musical structure, what some call a "compositional determinant"?</strong>
-<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">LINK</a> · Spotify: <a href="">LINK</a></sub></div>
+<div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- shading parity spacer -->
