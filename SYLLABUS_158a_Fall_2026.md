@@ -341,6 +341,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <em>Assignment: Homework_5. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
   <em>DUE: Homework_4 due today by midnight. Students are given a chance to present in class today.</em>
+  <br><br>
 <!-- wk.9 lesson -->
 <strong>(th)</strong> 10/22 — Advanced Sampling, Event Morphology, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 2
 </td>
@@ -359,6 +360,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <em>Assignment: Homework_6. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
   <em>DUE: Homework_5 due today by midnight. Students are given a chance to present in class today.</em>
+  <br><br>
 <!-- wk.10 lesson -->
 <strong>(th)</strong> 10/29 — Advanced synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 2
 <!-- homework assignment 5 -->
@@ -378,6 +380,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <em>Assignment: Homework_7. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
   <em>DUE: Homework_6 due today by midnight. Students are given a chance to present in class today.</em>
+  <br><br>
 <!-- wk.11 lesson -->
 <strong>(th)</strong> 11/05 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 2
 </td>
@@ -396,6 +399,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <em>Assignment: Homework_8. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
   <em>DUE: Homework_7 due today by midnight. Students are given a chance to present in class today.</em>
+  <br><br>
 <!-- wk.12 lesson -->
 <strong>(th)</strong> 11/12 — Composing with Computers (organization, aesthetics, forms, and production) PT. 2 and Adobe Audition multi-channel mixing
 </td>
@@ -414,6 +418,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <strong>(th)</strong> 11/19 — Final project discussions and in-class programming PT.2
   <br><br>
   <em>DUE: Homework_8 due today by midnight. Students are given a chance to present in class today.</em>
+  <br><br>
 </td>
 </tr>
 <!-- shading parity spacer -->
@@ -430,7 +435,6 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <br><br>
 <!-- wk.14 lesson -->
 <strong>(th)</strong> 11/26 (Spring Break)
-<!-- homework assignment 7 -->
 </td>
 </tr>
 <!-- shading parity spacer -->
@@ -455,7 +459,6 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <td>
 <!-- wk.16 lesson -->
 <strong>12/07–12/11</strong> — Reading Week non-mandatory support LABS for Final Project development
-<!-- homework assignment 8 -->
 </td>
 </tr>
 <tr>
