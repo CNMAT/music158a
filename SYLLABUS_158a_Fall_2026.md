@@ -141,7 +141,7 @@ MAX/MSP basics with Max download and installs <a href="#max-and-related-software
 <!-- wk.2 lesson -->
 Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 1
 <br><br>
-  ![Computational Contraption](media/computational-contraption_machine_GitHub.gif)
+![Computational Contraption](images/computational-contraption_machine_GitHub.gif)
   <br><br>
 <!-- wk.2 lesson -->
 <strong>(th)</strong> 09/03 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 2 (Adobe Audition -- editing soundfiles)
