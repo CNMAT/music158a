@@ -400,6 +400,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <br><br>
 <!-- wk.12 lesson -->
 <strong>(th)</strong> 11/12 — Composing with Computers (organization, aesthetics, forms, and production) PT. 2 and Adobe Audition multi-channel mixing
+  <br><br>
   <!-- contextual listening -->
 <strong>Contextual Listening: Phoebe Bridgers — The Outside from Lost Weekend</strong>
 <br><br>
