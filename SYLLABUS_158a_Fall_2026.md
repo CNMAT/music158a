@@ -299,8 +299,17 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <br><br>
 <!-- class demonstration -->
 <strong>(th)</strong> 10/08 — Spatial Audio, Mixing, SPAT --CLASS DEMONSTRATIONS
+<!-- contextual listening -->
+<strong>Contextual Listening: Multi-Channel sound in the CNMAT main room</strong>
+<br><br>
+• TBA
+<br>
+Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whether location and movement function as decoration or serve more formal roles. <strong>When did sound spatialization move beyond traditional mixing toward becoming an essential element in musical structure, what some call a "compositional determinant"?</strong>
+<div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
+<!-- shading parity spacer -->
+<tr></tr>
 <!-- WEEK 8 -->
 <tr>
 <td><strong>Week 8</strong></td>
