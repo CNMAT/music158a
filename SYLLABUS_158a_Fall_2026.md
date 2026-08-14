@@ -320,9 +320,11 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <!-- wk.8 lesson -->
 <strong>(tu)</strong> 10/13 — Advanced Control and AI-assisted programming (ml.star) with Pitch Spaces (v8.codebox and v8.ui) PT. 1
 <br><br>
+  <!-- homework assignment 4 -->
+<em>Assignment: Homework_4. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
+<br><br>
 <!-- wk.8 lesson -->
 <strong>(th)</strong> 10/15 — Advanced Control and AI-assisted programming with Markov Chains PT. 2
-<!-- homework assignment 4 -->
 </td>
 </tr>
 <!-- WEEK 9 -->
@@ -334,6 +336,9 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <br><br>
 <!-- wk.9 lesson -->
 <strong>(tu)</strong> 10/20 — Advanced Sampling, Event Morphology with Soundfile Descriptors, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 1
+<br><br>
+   <!-- homework assignment 5 -->
+<em>Assignment: Homework_5. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
 <!-- wk.9 lesson -->
 <strong>(th)</strong> 10/22 — Advanced Sampling, Event Morphology, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 2
@@ -348,6 +353,9 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <br><br>
 <!-- wk.10 lesson -->
 <strong>(tu)</strong> 10/27 — Advanced Synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 1
+<br><br>
+  <!-- homework assignment 6 -->
+<em>Assignment: Homework_6. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
 <!-- wk.10 lesson -->
 <strong>(th)</strong> 10/29 — Advanced synthesis, Subtractive Synthesis with Inharmonicity and Noise PT. 2
@@ -364,6 +372,9 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <!-- wk.11 lesson -->
 <strong>(tu)</strong> 11/03 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 1
 <br><br>
+  <!-- homework assignment 7 -->
+<em>Assignment: Homework_7. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
+<br><br>
 <!-- wk.11 lesson -->
 <strong>(th)</strong> 11/05 — Advanced Spatial Audio with automation, MAX/MSP MC objects PT. 2
 </td>
@@ -377,6 +388,9 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <br><br>
 <!-- wk.12 lesson -->
 <strong>(tu)</strong> 11/10 — Composing with Computers (organization, aesthetics, forms) PT.1
+<br><br>
+  <!-- homework assignment 8 -->
+<em>Assignment: Homework_8. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
 <!-- wk.12 lesson -->
 <strong>(th)</strong> 11/12 — Composing with Computers (organization, aesthetics, forms, and production) PT. 2 and Adobe Audition multi-channel mixing
