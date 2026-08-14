@@ -306,7 +306,6 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 • TBA
 <br><br>
 Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whether location and movement function as decoration or serve more formal roles. <strong>When did sound spatialization move beyond traditional mixing toward becoming an essential element in musical structure, what some call a "compositional determinant"?</strong>
-<div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- shading parity spacer -->
