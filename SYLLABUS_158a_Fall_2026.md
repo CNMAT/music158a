@@ -85,7 +85,7 @@ Students are responsible for maintaining and demonstrating that their laptop wor
 
 There will be eight (8) homework assignments for the semester. Each assignment must be completed mainly using Max/MSP and other software tools taught in class. Submissions for homework are uploaded to the Music 158A Fall 2026 BCourses site by the beginning of class time on the day they are due.  
 
-**Final Project and Performance = 25%** 
+**Final Project and Presentations/Performance = 25%** 
 
 The final project is a creative work involving sound production and sound organization: a musical work, or composition that demonstrates a thoughtful engagement with the computer-based tools presented in the class. The final project should be derived from the coursework and acknowledge the series of homework assignments that are designed to prepare the student to complete an effective final project.
 
