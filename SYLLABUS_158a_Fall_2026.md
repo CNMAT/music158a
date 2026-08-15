@@ -76,7 +76,7 @@ Policy: Students are allowed four (4) unexcused absences without penalty.  After
 Students are expected to ask questions and engage with the professor during the classroom meetings. 
 
 **Class Demonstration for Homework assignments = 5% total**
-Each student is required to present, from their own laptop, a short presentation/demonstration (3-5 min.) drawn from one of the homework assignments (student's choice).  (This requirement is in addition to the presentation required for the final project at the end of the semester.)
+Each student is required to present one time, from their own laptop, a short presentation/demonstration (3-5 min.) drawn from one of the homework assignments (student's choice).  (This requirement is in addition to the presentation required for the final project at the end of the semester.)
 
 **Technology and Tools Readiness = 5% total** 
 Students are responsible for maintaining and demonstrating that their laptop working environment is in solid working order at all times. This course features weekly updates and tool sharing on GitHub and/or BCourses.  When a student is given a warning from the instructor or GSI, indicating they are out of compliance or not up to date on tools presented in class, they have one week to resolve and demonstrate the fix to the GSI. The first warning is without penalty.  All future warnings are an automatic 5% deduction from the overall grade.
