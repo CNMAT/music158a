@@ -73,7 +73,7 @@ Grading Policy
 Policy: Students are allowed four (4) unexcused absences without penalty.  After four absences, each additional absence will result in a 5% drop in your overall grade. CNMAT is off campus, but we need to start the class on time.  If you are unable to meet at the starting time, speak to your teachers.
 
 **Class Participation = 5% total**
-Students are expected to ask questions and engage with the professor during the classroom meetings. 
+Students are expected to ask questions and engage with the professor during the classroom meetings. Diagnostic quizzes are given several times throughout the semester but are not counted in the overall grade. These in-class exercises are designed to help students assess their own understanding of the fundamentals of Max/MSP.
 
 **Class Demonstration for Homework assignments = 5% total**
 Each student is required to present one time, from their own laptop, a short presentation/demonstration (3-5 min.) drawn from one of the homework assignments (student's choice).  (This requirement is in addition to the presentation required for the final project at the end of the semester.)
