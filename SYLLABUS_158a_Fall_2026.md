@@ -180,11 +180,11 @@ Listen for how each work detaches recorded sound from its original context and g
 <!-- wk.3 lesson -->
 <strong>(tu)</strong> 09/08 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with VST~ (synthesizer) PT. 3
 <br><br>
-<!-- class demonstration -->
-<strong>(th)</strong> 09/10 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- CLASS DEMONSTRATIONS
-<br><br>
    <!-- home study -->
 — Home study week 2: Andrew Blanton Max introduction videos-  <kbd>patcher</kbd>, <kbd>scale</kbd>, <kbd> pattr </kbd>, <kbd>table</kbd>
+<br><br>
+<!-- class demonstration -->
+<strong>(th)</strong> 09/10 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- CLASS DEMONSTRATIONS
 <br><br>
 <!-- DUE -->
 <em style="color: #C75C5C;">DUE: Homework_1 due today by midnight. Students are given a chance to present in class today.</em>
@@ -209,6 +209,9 @@ Both works invite attention to process rather than only surface events. Compare 
 <br><br>
 <!-- wk.4 lesson -->
 <strong>(tu)</strong> 09/15 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 1
+<br><br>
+   <!-- home study -->
+— Home study week 2: Andrew Blanton Max introduction videos-  <kbd>cycle~</kbd>, <kbd>buffer~</kbd>, <kbd>svf~ </kbd>, <kbd>line~</kbd>
 <br><br>
 <!-- wk.4 lesson -->
 <strong>(th)</strong> 09/17 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 2
