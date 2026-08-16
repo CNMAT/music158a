@@ -17,5 +17,5 @@
 </div>
 
 <p align="center">
-<img src="images/blanton-158acourse_40percent.png" alt="Ableton DSP Objects">
+<img src="images/images/Ableton_DSP.png" alt="Ableton DSP Objects">
 </p>
