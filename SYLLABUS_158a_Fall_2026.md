@@ -127,7 +127,7 @@ MAX/MSP basics with Max download and installs <a href="#max-and-related-software
 — In-class practice with Max/MSP and Audio out
 <br><br>
   <!-- homework -->
-— Andrew Blanton Max introduction videos- <nbk>button </nbk>, <nbk>number</nbk> 
+— Home study week 1: Andrew Blanton Max introduction videos- <nbk>button </nbk>, <nbk>number</nbk> 
 <br><br>
 <!-- class requirement -->
 <em>Class Requirement: Always bring laptops with a full working environment ready for in-class LAB. Install Max/MSP. NO CLOUD INSTALLATIONS!!! Windows: OneDrive (make sure all materials are on local machine). Students must keep backups of their materials.</em>
