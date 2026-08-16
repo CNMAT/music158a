@@ -146,11 +146,11 @@ MAX/MSP basics with Max download and installs <a href="#max-and-related-software
 <!-- wk.2 lesson -->
 Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 1
 <br><br>
-  <!-- home study -->
-— Home study week 2: Andrew Blanton Max introduction videos- <kbd>pack </kbd>, <kbd>metro</kbd>, <kbd>random</kbd> 
-<br><br>
 <img src="images/computational-contraption_machine_GitHub_2.gif" alt="Computational Contraption">
   <br><br>
+   <!-- home study -->
+— Home study week 2: Andrew Blanton Max introduction videos- <kbd>pack </kbd>, <kbd>metro</kbd>, <kbd>random</kbd>, <kbd>noteout<kbd> 
+<br><br>
 <!-- wk.2 lesson -->
 <strong>(th)</strong> 09/03 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 2 (Adobe Audition -- editing soundfiles)
 <br><br>
@@ -182,6 +182,9 @@ Listen for how each work detaches recorded sound from its original context and g
 <br><br>
 <!-- class demonstration -->
 <strong>(th)</strong> 09/10 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- CLASS DEMONSTRATIONS
+<br><br>
+   <!-- home study -->
+— Home study week 2: Andrew Blanton Max introduction videos-  <kbd>patcher</kbd>, <kbd>scale</kbd>, <kbd>pattr<kbd>, <kbd>table</kbd>
 <br><br>
 <!-- DUE -->
 <em style="color: #C75C5C;">DUE: Homework_1 due today by midnight. Students are given a chance to present in class today.</em>
