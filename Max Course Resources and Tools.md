@@ -22,9 +22,9 @@
 
 <br>
 
-<strong>Objects Presented in Class (links to tools, materials and support for objects shown in class):</strong>
+<strong>Objects Presented in Class (links to tools, materials and support for objects shown in class)</strong>
 <div style="margin-left: 2em;">
-  Date introduced   links and descriptions with spaces
+  08/16/2026 
 </div>
 
 <p align="center">
