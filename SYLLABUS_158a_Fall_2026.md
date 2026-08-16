@@ -146,6 +146,9 @@ MAX/MSP basics with Max download and installs <a href="#max-and-related-software
 <!-- wk.2 lesson -->
 Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 1
 <br><br>
+  <!-- home study -->
+— Home study week 2: Andrew Blanton Max introduction videos- <kbd>pack </kbd>, <kbd>metro</kbd>, <kbd>random</kbd> 
+<br><br>
 <img src="images/computational-contraption_machine_GitHub_2.gif" alt="Computational Contraption">
   <br><br>
 <!-- wk.2 lesson -->
