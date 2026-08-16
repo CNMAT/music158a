@@ -2,9 +2,9 @@
 <br><br>
 
 <div style="margin-left: 2em;">
-1) In Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>CNMAT-Pedagogy_Overview</kbd> to open the CNMAT Pedagogy Overview patch.
+....1) In Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>CNMAT-Pedagogy_Overview</kbd> to open the CNMAT Pedagogy Overview patch.
 <br><br>
-2) In <strong>CNMAT-Pedagogy_Overview</strong>, select <kbd>Courses</kbd> from the top menu tab, then double-click <kbd>blanton-course</kbd>.
+....2) In <strong>CNMAT-Pedagogy_Overview</strong>, select <kbd>Courses</kbd> from the top menu tab, then double-click <kbd>blanton-course</kbd>.
 </div>
 
 <br>
@@ -17,9 +17,9 @@
 <br><br>
 
 <div style="margin-left: 2em;">
-1) In Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>Ableton DSP Objects</kbd> to open the Ableton DSP Objects overview.
+....1) In Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>Ableton DSP Objects</kbd> to open the Ableton DSP Objects overview.
 <br><br>
-2) From <strong>Ableton DSP Objects</strong>, select <kbd>Object listing</kbd> from the middle tab of the top menu. NOTE: these are not especially useful as help patches; it is generally better to try the objects and explore the audio results.
+....2) From <strong>Ableton DSP Objects</strong>, select <kbd>Object listing</kbd> from the middle tab of the top menu. NOTE: these are not especially useful as help patches; it is generally better to try the objects and explore the audio results.
 </div>
 
 <br>
