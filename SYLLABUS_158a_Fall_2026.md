@@ -96,12 +96,15 @@ The final project will involve both musical and technical considerations. Resear
 
 --------
 ## Schedule
-**Note:** this is an active document and subject to weekly updates.
+**Note:** This is an active document and subject to weekly updates.
 ## **Music 158A playlist links**
 <strong>Apple Music:</strong> <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">ADD APPLE MUSIC PLAYLIST LINK</a>
 <br>
-<strong>Spotify:</strong> <a href="">ADD SPOTIFY PLAYLIST LINK</a>
+Max Course Resources and Tools.md
+<strong>Spotify:</strong> <a href="">Max Course Resources and Tools.md</a>
+
 <br><br>
+
 <table>
 <thead>
 <tr>
