@@ -1,7 +1,5 @@
-<strong>CNMAT Pedagogy Overview (for video course on core Max functionality):</strong>
-<div style="margin-left: 2em;">
-  <br><br>
-1) In Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>CNMAT-Pedagogy_Overview</kbd> to open the CNMAT Pedagogy Overview patch.
+<strong>Andrew Blanton, Max in 20 objects Videos</strong>
+1)  In Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>CNMAT-Pedagogy_Overview</kbd> to open the CNMAT Pedagogy Overview patch.
   <br><br>
 2) In <strong>CNMAT-Pedagogy_Overview</strong>, select <kbd>Courses</kbd> from the top menu tab, then double-click <kbd>blanton-course</kbd>.
 </div>
