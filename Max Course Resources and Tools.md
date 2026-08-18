@@ -9,7 +9,17 @@
 </p>
 
 <br><br>
+<strong>Ableton DSP Objects Library (pre-assembled audio effects and signal patches from Ableton Live):</strong>
+<div style="margin-left: 2em;">
+1) From Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>Ableton DSP Objects</kbd> to open the Ableton DSP Objects overview.<br>
+2) From <strong>Ableton DSP Objects</strong>, select <kbd>Object listing</kbd> from the middle tab of the top menu. NOTE: these are not especially useful as help patches; it is generally better to try the objects and explore the audio results.
+</div>
 
+<p align="center">
+<img src="images/Ableton_DSP.png" alt="Ableton DSP Objects">
+</p>
+
+<br>
 <strong>Ableton DSP Objects Library (pre-assembled audio effects and signal patches from Ableton Live):</strong>
 <div style="margin-left: 2em;">
 1) From Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>Ableton DSP Objects</kbd> to open the Ableton DSP Objects overview.<br>
