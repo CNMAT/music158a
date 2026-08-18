@@ -109,6 +109,9 @@ The final project will involve both musical and technical considerations. Resear
 <strong>Max Course Resources and Tools:</strong>
 <a href="Max%20Course%20Resources%20and%20Tools.md">MAX COURSE RESOURCES AND TOOLS</a>
 <br><br>
+<strong>Max Course Resources and Tools:</strong>
+<a href="https://gemini.google.com/app">BERKELEY GEMINI (search it up!)</a>
+<br><br>
 <table>
 <thead>
 <tr>
