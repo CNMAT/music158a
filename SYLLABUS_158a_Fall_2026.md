@@ -98,7 +98,7 @@ The final project will involve both musical and technical considerations. Resear
 ## Schedule
 **Note:** This is an active document and subject to weekly updates.
 
-## **Music 158A playlist links**
+## **Music 158A Key links**
 
 <strong>Apple Music:</strong>
 <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">APPLE MUSIC PLAYLIST LINK</a>
@@ -112,6 +112,7 @@ The final project will involve both musical and technical considerations. Resear
 <strong>Max Course Resources and Tools:</strong>
 <a href="https://gemini.google.com/app">BERKELEY GEMINI (search it up!)</a>
 <br><br>
+## **WEEKLY SCHEDULE (subject to update)**
 <table>
 <thead>
 <tr>
