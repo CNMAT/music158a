@@ -10,25 +10,37 @@
 
 <strong> Ableton DSP Objects Library(pre-assembled audio effects and signal patches from Ableton Live) </strong> <br>
 The music158a2026 repository contains an annotated help library for the Ableton DSP Objects Library. <br>
-Open the improved help patches master index at music158a2026/_Tools_and_Resources_Links/ABL_Help_Files_v1/_ABL FX Master Index.maxpat.md
-<br><br>
+Open the improved help patches master index found on your personal computer at music158a2026/_Tools_and_Resources_Links/ABL_Help_Files_v1/_ABL FX Master Index.maxpat
+
+<p align="center">
+<img src="images/ABL-dsp_FX_Help_Library.png" alt="Ableton DSP Objects">
+</p>
+
+<br>
+
 
 <strong>Find the Ableton DSP Objects Library in MAX (pre-assembled audio effects and signal patches from Ableton Live):</strong>
 <div style="margin-left: 2em;">
 1) From Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>Ableton DSP Objects</kbd> to open the Ableton DSP Objects overview.<br>
-2) From <strong>Ableton DSP Objects</strong>, select <kbd>Object listing</kbd> from the middle tab of the top menu. NOTE: these are not especially useful as help patches; it is generally better to try the objects and explore the audio results.
+2) From <strong>Ableton DSP Objects</strong>, select <kbd>Object listing</kbd> from the middle tab of the top menu. NOTE: these are not especially useful as help patches; use the class helpfiles!
 </div>
 
 <p align="center">
 <img src="images/Ableton_DSP.png" alt="Ableton DSP Objects">
 </p>
 
-<br>
-<strong>Ableton DSP Objects Library (pre-assembled audio effects and signal patches from Ableton Live):</strong>
+<br><br>
+<strong>Ableton AMXD Objects Library in Max (pre-assembled audio effects and signal patches from Ableton Live):</strong><br>
+The music158a2026 repository contains an annotated help library for the Ableton DSP Objects Library. <br>
+Open the improved help patches master index found on your personal computer at music158a2026/_Tools_and_Resources_Links/AMXD_Help_Files_v1/_AMXD Ableton FX Master Index.maxpat
+
+<p align="center">
+<img src="images/AMXD_FX_Help_Library.png" alt="Ableton AMXD Objects">
+</p>
+<br><br>
+
 <div style="margin-left: 2em;">
-1) From Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>Ableton DSP Objects</kbd> to open the Ableton DSP Objects overview.<br>
-2) From <strong>Ableton DSP Objects</strong>, select <kbd>Object listing</kbd> from the middle tab of the top menu. NOTE: these are not especially useful as help patches; it is generally better to try the objects and explore the audio results.
-</div>
+
 
 <p align="center">
 <img src="images/Ableton_DSP.png" alt="Ableton DSP Objects">
