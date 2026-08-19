@@ -42,9 +42,5 @@ Open the improved help patches master index found on your personal computer at m
 
 <strong>Objects Presented in Class (links to tools, materials and support for objects shown in class)</strong>
 <div style="margin-left: 2em;">
-  08/16/2026 
+  08/27/2026 
 </div>
-
-<p align="center">
-<img src="images/Ableton_DSP.png" alt="Ableton DSP Objects">
-</p>
