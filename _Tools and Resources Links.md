@@ -16,18 +16,6 @@ Open the improved help patches master index found on your personal computer at m
 <img src="images/ABL-dsp_FX_Help_Library.png" alt="Ableton DSP Objects">
 </p>
 
-<br>
-
-
-<strong>Find the Ableton DSP Objects Library in MAX (pre-assembled audio effects and signal patches from Ableton Live):</strong>
-<div style="margin-left: 2em;">
-1) From Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>Ableton DSP Objects</kbd> to open the Ableton DSP Objects overview.<br>
-2) From <strong>Ableton DSP Objects</strong>, select <kbd>Object listing</kbd> from the middle tab of the top menu. NOTE: these are not especially useful as help patches; use the class helpfiles!
-</div>
-
-<p align="center">
-<img src="images/Ableton_DSP.png" alt="Ableton DSP Objects">
-</p>
 
 <br><br>
 <strong>Ableton AMXD Objects Library in Max (pre-assembled audio effects and signal patches from Ableton Live):</strong><br>
