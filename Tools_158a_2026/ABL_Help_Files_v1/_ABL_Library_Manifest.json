@@ -1,0 +1,1693 @@
+[
+  {
+    "object": "abl.device.autofilter~",
+    "file": "abl.device.autofilter~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "internalscgain",
+      "sclisten",
+      "scresonance",
+      "sceqtype",
+      "sceq",
+      "scfrequency",
+      "envrelease",
+      "envhold",
+      "envattack",
+      "envamount",
+      "scmono",
+      "lfophaseoffset",
+      "lfosmoothing",
+      "lfowaveform",
+      "lfoquantize",
+      "lfostereo",
+      "lfophase",
+      "lfospin",
+      "lforate",
+      "lfoamount",
+      "lfomorph",
+      "lfosteps",
+      "vowelformant",
+      "vowelpitch",
+      "djcontrol",
+      "frequency",
+      "drive",
+      "resonance",
+      "filtertype"
+    ],
+    "primary": [
+      "frequency",
+      "resonance",
+      "drive",
+      "filtertype"
+    ],
+    "tabs": [
+      "sidechain",
+      "lfo",
+      "basic"
+    ],
+    "direct_messages": [
+      "filtertype 5",
+      "filtertype 9"
+    ]
+  },
+  {
+    "object": "abl.device.channeleq~",
+    "file": "abl.device.channeleq~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "midgain",
+      "highgain",
+      "midfreq",
+      "lowgain"
+    ],
+    "primary": [
+      "midgain",
+      "highgain",
+      "midfreq",
+      "lowgain"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.device.compressor~",
+    "file": "abl.device.compressor~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "release",
+      "ratio",
+      "gain",
+      "threshold",
+      "attack"
+    ],
+    "primary": [
+      "gain",
+      "attack",
+      "release",
+      "threshold"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.device.delay~",
+    "file": "abl.device.delay~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "modtime",
+      "modfreq",
+      "modfilter",
+      "smoothmode",
+      "filter_width",
+      "filter",
+      "filter_frequency",
+      "delay",
+      "feedback",
+      "mix",
+      "pingpong"
+    ],
+    "primary": [
+      "mix",
+      "feedback",
+      "delay",
+      "modtime"
+    ],
+    "tabs": [
+      "modulation",
+      "smooth-mode",
+      "filter",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.device.drift~",
+    "file": "abl.device.drift~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "voicemode",
+      "voices",
+      "legato",
+      "unison",
+      "stereospread",
+      "glidetime",
+      "drift",
+      "modamt1",
+      "modsrc1",
+      "moddst1",
+      "lfoamount",
+      "lfofreq",
+      "env1release",
+      "env1sustain",
+      "env1decay",
+      "env1attack",
+      "lpres",
+      "lpfreq",
+      "osc1type",
+      "osc2type",
+      "env2sustain",
+      "osc1shape",
+      "osc2gain",
+      "osc1gain",
+      "osc2detune",
+      "osc2octave"
+    ],
+    "primary": [
+      "voicemode",
+      "voices",
+      "legato",
+      "unison"
+    ],
+    "tabs": [
+      "voices",
+      "modulation",
+      "envelope",
+      "filters",
+      "oscillators",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.device.drumbuss~",
+    "file": "abl.device.drumbuss~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "boomfreq",
+      "boom",
+      "decay",
+      "damping",
+      "crunch",
+      "transients",
+      "compressor",
+      "drive",
+      "distortion",
+      "trim",
+      "mix"
+    ],
+    "primary": [
+      "mix",
+      "drive",
+      "decay",
+      "boomfreq"
+    ],
+    "tabs": [
+      "\"low frequencies\"",
+      "\"mid frequencies\"",
+      "input",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.device.drumsampler~",
+    "file": "abl.device.drumsampler~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "filter",
+      "cutoff",
+      "peak",
+      "res",
+      "filtertype",
+      "noisecolor",
+      "noise",
+      "suboscfreq",
+      "subosc",
+      "rmfreq",
+      "rm",
+      "fmfreq",
+      "fm",
+      "eightbitdecay",
+      "eightbitrate",
+      "punchrelease",
+      "punch",
+      "pitchenvdecay",
+      "pitchenv",
+      "loopoffset",
+      "looplength",
+      "stretchgrain",
+      "stretchfactor",
+      "fxtype",
+      "attack",
+      "hold",
+      "decay",
+      "envtype",
+      "start",
+      "length",
+      "transpose",
+      "detune",
+      "gain"
+    ],
+    "primary": [
+      "gain",
+      "decay",
+      "attack",
+      "filtertype"
+    ],
+    "tabs": [
+      "filter",
+      "FX",
+      "envelope",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.device.echo~",
+    "file": "abl.device.echo~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "repitch_smoothing_time",
+      "mod_delay",
+      "mod_envelope",
+      "mod_mult",
+      "mod_waveform",
+      "mod_freq",
+      "mod_phase",
+      "repitch",
+      "wobble",
+      "wobble_morph",
+      "noise",
+      "noise_morph",
+      "gate",
+      "gate_release",
+      "gate_threshold",
+      "duck",
+      "duck_threshold",
+      "duck_release",
+      "channel_mode",
+      "delay",
+      "reverb",
+      "reverb_location",
+      "reverb_decay",
+      "input",
+      "mix",
+      "feedback",
+      "output"
+    ],
+    "primary": [
+      "mix",
+      "feedback",
+      "delay",
+      "output"
+    ],
+    "tabs": [
+      "modulation",
+      "character",
+      "dynamics",
+      "\"channel mode\"",
+      "reverb",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.device.limiter~",
+    "file": "abl.device.limiter~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "link",
+      "release",
+      "ceiling",
+      "gain",
+      "routing",
+      "threshold",
+      "output",
+      "maximize",
+      "lookahead",
+      "mode"
+    ],
+    "primary": [
+      "gain",
+      "release",
+      "threshold",
+      "output"
+    ],
+    "tabs": [
+      "routing",
+      "maximize",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.device.redux~",
+    "file": "abl.device.redux~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "rate",
+      "shape",
+      "jitter",
+      "bitdepth"
+    ],
+    "primary": [
+      "rate",
+      "shape",
+      "jitter",
+      "bitdepth"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.device.reverb~",
+    "file": "abl.device.reverb~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "decay",
+      "predelay",
+      "mix",
+      "damping"
+    ],
+    "primary": [
+      "mix",
+      "decay",
+      "predelay",
+      "damping"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.device.roar~",
+    "file": "abl.device.roar~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "lfo1waveform",
+      "lfo_frequency_1",
+      "input_gain",
+      "routing",
+      "tone_amount",
+      "tone_frequency",
+      "shaper_amount_1",
+      "shaper_type_1",
+      "shaper_bias_1",
+      "filter_frequency_1",
+      "blend",
+      "filter_type_1",
+      "filter_resonance_1"
+    ],
+    "primary": [
+      "lfo1waveform",
+      "lfo_frequency_1",
+      "input_gain",
+      "routing"
+    ],
+    "tabs": [
+      "modulation",
+      "basic"
+    ],
+    "direct_messages": [
+      "getmod"
+    ]
+  },
+  {
+    "object": "abl.device.spectralresonator~",
+    "file": "abl.device.spectralresonator~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "voices",
+      "unison",
+      "harmonics",
+      "pitch_mod",
+      "frequency",
+      "mod_type",
+      "mod_rate",
+      "mix",
+      "stretch",
+      "shift",
+      "decay",
+      "hf_damp",
+      "lf_damp"
+    ],
+    "primary": [
+      "mix",
+      "frequency",
+      "decay",
+      "shift"
+    ],
+    "tabs": [
+      "\"unison & harmonics\"",
+      "modulation",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.device.spectraltime~",
+    "file": "abl.device.spectraltime~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "fade_in",
+      "crossfade_pct",
+      "fade_out",
+      "retrig_mode",
+      "fade",
+      "time_sync_interval",
+      "spread",
+      "delay_mix",
+      "delay_time",
+      "feedback",
+      "shift",
+      "spray",
+      "tilt",
+      "mask",
+      "freeze",
+      "sensitivity",
+      "freeze_mode",
+      "mix"
+    ],
+    "primary": [
+      "mix",
+      "feedback",
+      "shift",
+      "freeze"
+    ],
+    "tabs": [
+      "\"freeze crossfade\"",
+      "delay",
+      "\"freeze modes\"",
+      "basic"
+    ],
+    "direct_messages": [
+      "retrig_mode 1, fade 0",
+      "retrig_mode 0, fade 0",
+      "retrig_mode 0, fade 1",
+      "retrig_mode 1, fade 1"
+    ]
+  },
+  {
+    "object": "abl.device.utility~",
+    "file": "abl.device.utility~.maxhelp",
+    "family": "device",
+    "attributes": [
+      "invert_phase_l",
+      "invert_phase_r",
+      "channelmode",
+      "mono",
+      "midside",
+      "audition_bass_mono",
+      "bass_mono_frequency",
+      "bass_mono",
+      "balance",
+      "gain"
+    ],
+    "primary": [
+      "gain",
+      "balance",
+      "invert_phase_l",
+      "invert_phase_r"
+    ],
+    "tabs": [
+      "stereo",
+      "\"bass mono\"",
+      "basic"
+    ],
+    "direct_messages": [
+      "mute $1"
+    ]
+  },
+  {
+    "object": "abl.dsp.alternate~",
+    "file": "abl.dsp.alternate~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "fx2",
+      "fx1",
+      "fx2_type",
+      "fx1_type",
+      "l2",
+      "l1"
+    ],
+    "primary": [
+      "fx2",
+      "fx1",
+      "fx2_type",
+      "fx1_type"
+    ],
+    "tabs": [
+      "fx",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.basicshapes~",
+    "file": "abl.dsp.basicshapes~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "shape"
+    ],
+    "primary": [
+      "shape"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.bitgrunge~",
+    "file": "abl.dsp.bitgrunge~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "depth"
+    ],
+    "primary": [
+      "depth"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.bubble~",
+    "file": "abl.dsp.bubble~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "randomness",
+      "rate"
+    ],
+    "primary": [
+      "rate",
+      "randomness"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.chip~",
+    "file": "abl.dsp.chip~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "mod",
+      "pulsewidth"
+    ],
+    "primary": [
+      "mod",
+      "pulsewidth"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.chorus~",
+    "file": "abl.dsp.chorus~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "mix",
+      "width",
+      "rate",
+      "mod",
+      "invert",
+      "gain",
+      "feedback"
+    ],
+    "primary": [
+      "mix",
+      "gain",
+      "feedback",
+      "rate"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.compander~",
+    "file": "abl.dsp.compander~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "mode",
+      "shape"
+    ],
+    "primary": [
+      "shape",
+      "mode"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.crackle~",
+    "file": "abl.dsp.crackle~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "intensity",
+      "density"
+    ],
+    "primary": [
+      "density",
+      "intensity"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.darkhall~",
+    "file": "abl.dsp.darkhall~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "mix",
+      "mod",
+      "bassmult",
+      "basscrossover",
+      "shape",
+      "decay",
+      "size",
+      "freeze",
+      "damping"
+    ],
+    "primary": [
+      "mix",
+      "decay",
+      "size",
+      "mod"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.dfm~",
+    "file": "abl.dsp.dfm~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "resonance",
+      "pregain",
+      "frequency"
+    ],
+    "primary": [
+      "frequency",
+      "resonance",
+      "pregain"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.distortion~",
+    "file": "abl.dsp.distortion~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "sub",
+      "midfreq",
+      "mix",
+      "gain",
+      "mid",
+      "bass",
+      "treble"
+    ],
+    "primary": [
+      "mix",
+      "gain",
+      "sub",
+      "midfreq"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.doubler~",
+    "file": "abl.dsp.doubler~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "mix",
+      "time",
+      "feedback",
+      "mod"
+    ],
+    "primary": [
+      "mix",
+      "feedback",
+      "mod",
+      "time"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.dualbasicshapes~",
+    "file": "abl.dsp.dualbasicshapes~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "detune",
+      "shape"
+    ],
+    "primary": [
+      "shape",
+      "detune"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.ensemble~",
+    "file": "abl.dsp.ensemble~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "warmth",
+      "width",
+      "rate",
+      "mod",
+      "shaping",
+      "gain",
+      "invert",
+      "mix",
+      "feedback"
+    ],
+    "primary": [
+      "mix",
+      "gain",
+      "feedback",
+      "rate"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.envfollower~",
+    "file": "abl.dsp.envfollower~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "release",
+      "attack"
+    ],
+    "primary": [
+      "attack",
+      "release"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.euclid~",
+    "file": "abl.dsp.euclid~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "pulses",
+      "steps",
+      "fx2",
+      "fx1",
+      "fx2_type",
+      "fx1_type"
+    ],
+    "primary": [
+      "pulses",
+      "steps",
+      "fx2",
+      "fx1"
+    ],
+    "tabs": [
+      "fx",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.expshaper~",
+    "file": "abl.dsp.expshaper~.maxhelp",
+    "family": "dsp",
+    "attributes": [],
+    "primary": [],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.extratone~",
+    "file": "abl.dsp.extratone~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "envamount",
+      "pitch"
+    ],
+    "primary": [
+      "pitch",
+      "envamount"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.filterednoise~",
+    "file": "abl.dsp.filterednoise~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "narrow",
+      "offset"
+    ],
+    "primary": [
+      "narrow",
+      "offset"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.filther~",
+    "file": "abl.dsp.filther~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "resonance",
+      "drive",
+      "frequency"
+    ],
+    "primary": [
+      "frequency",
+      "resonance",
+      "drive"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.flanger~",
+    "file": "abl.dsp.flanger~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "mix",
+      "warmth",
+      "feedback",
+      "time"
+    ],
+    "primary": [
+      "mix",
+      "feedback",
+      "time",
+      "warmth"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.fmbass~",
+    "file": "abl.dsp.fmbass~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "feedback"
+    ],
+    "primary": [
+      "feedback"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.foldfm~",
+    "file": "abl.dsp.foldfm~.maxhelp",
+    "family": "dsp",
+    "attributes": [],
+    "primary": [],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.fuzz~",
+    "file": "abl.dsp.fuzz~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "sub",
+      "midfreq",
+      "mix",
+      "gain",
+      "mid",
+      "bass",
+      "treble"
+    ],
+    "primary": [
+      "mix",
+      "gain",
+      "sub",
+      "midfreq"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.harmonicfm~",
+    "file": "abl.dsp.harmonicfm~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "amount",
+      "ratio"
+    ],
+    "primary": [
+      "amount",
+      "ratio"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.meldfilter~",
+    "file": "abl.dsp.meldfilter~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "frequency",
+      "type",
+      "macro1",
+      "macro2"
+    ],
+    "primary": [
+      "frequency",
+      "type",
+      "macro1",
+      "macro2"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.meldosc~",
+    "file": "abl.dsp.meldosc~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "type",
+      "macro1",
+      "macro2"
+    ],
+    "primary": [
+      "type",
+      "macro1",
+      "macro2"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.modalresonator~",
+    "file": "abl.dsp.modalresonator~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "ratio",
+      "frequency",
+      "damping",
+      "decay",
+      "resonator_type"
+    ],
+    "primary": [
+      "frequency",
+      "decay",
+      "ratio",
+      "damping"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.modulator~",
+    "file": "abl.dsp.modulator~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "fx2",
+      "fx1",
+      "fx2_type",
+      "fx1_type",
+      "fold",
+      "shape"
+    ],
+    "primary": [
+      "shape",
+      "fx2",
+      "fx1",
+      "fx2_type"
+    ],
+    "tabs": [
+      "fx",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.noiseloop~",
+    "file": "abl.dsp.noiseloop~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "fade",
+      "rate"
+    ],
+    "primary": [
+      "rate",
+      "fade"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.noisyshapes~",
+    "file": "abl.dsp.noisyshapes~.maxhelp",
+    "family": "dsp",
+    "attributes": [],
+    "primary": [],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.overdrive~",
+    "file": "abl.dsp.overdrive~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "sub",
+      "midfreq",
+      "mix",
+      "gain",
+      "mid",
+      "bass",
+      "treble"
+    ],
+    "primary": [
+      "mix",
+      "gain",
+      "sub",
+      "midfreq"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.phaser~",
+    "file": "abl.dsp.phaser~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "mix",
+      "spread",
+      "blend",
+      "center",
+      "feedback",
+      "mod"
+    ],
+    "primary": [
+      "mix",
+      "feedback",
+      "mod",
+      "spread"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.pitchestimator~",
+    "file": "abl.dsp.pitchestimator~.maxhelp",
+    "family": "dsp",
+    "attributes": [],
+    "primary": [],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.pitchshifter~",
+    "file": "abl.dsp.pitchshifter~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "mix",
+      "wide",
+      "window",
+      "shift"
+    ],
+    "primary": [
+      "mix",
+      "shift",
+      "window",
+      "wide"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.prism~",
+    "file": "abl.dsp.prism~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "freeze",
+      "decay",
+      "size",
+      "highmult",
+      "lowmult",
+      "mix",
+      "crossover"
+    ],
+    "primary": [
+      "mix",
+      "decay",
+      "size",
+      "freeze"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.pulsate~",
+    "file": "abl.dsp.pulsate~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "fx2",
+      "fx1",
+      "fx2_type",
+      "fx1_type",
+      "length",
+      "chance"
+    ],
+    "primary": [
+      "fx2",
+      "fx1",
+      "fx2_type",
+      "fx1_type"
+    ],
+    "tabs": [
+      "fx",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.quartz~",
+    "file": "abl.dsp.quartz~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "freeze",
+      "low_damping",
+      "damping",
+      "size",
+      "distance",
+      "diffusion",
+      "decay",
+      "mix",
+      "mod"
+    ],
+    "primary": [
+      "mix",
+      "decay",
+      "size",
+      "mod"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.rain~",
+    "file": "abl.dsp.rain~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "density",
+      "resonance"
+    ],
+    "primary": [
+      "resonance",
+      "density"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.ramp~",
+    "file": "abl.dsp.ramp~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "fx2",
+      "fx1",
+      "fx2_type",
+      "fx1_type",
+      "slope",
+      "shape"
+    ],
+    "primary": [
+      "shape",
+      "fx2",
+      "fx1",
+      "fx2_type"
+    ],
+    "tabs": [
+      "fx",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.ringmod~",
+    "file": "abl.dsp.ringmod~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "mix",
+      "drive",
+      "frequency",
+      "enable_drive"
+    ],
+    "primary": [
+      "mix",
+      "frequency",
+      "drive",
+      "enable_drive"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.saturator~",
+    "file": "abl.dsp.saturator~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "dcblock",
+      "post_clip",
+      "gain",
+      "curve",
+      "drive",
+      "mix"
+    ],
+    "primary": [
+      "mix",
+      "drive",
+      "gain",
+      "dcblock"
+    ],
+    "tabs": [
+      "advanced",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.shepard~",
+    "file": "abl.dsp.shepard~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "width",
+      "rate"
+    ],
+    "primary": [
+      "rate",
+      "width"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.shimmer~",
+    "file": "abl.dsp.shimmer~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "freeze",
+      "size",
+      "pitchshift",
+      "mod",
+      "shimmer",
+      "diffusion",
+      "decay",
+      "mix",
+      "damping"
+    ],
+    "primary": [
+      "mix",
+      "decay",
+      "size",
+      "mod"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.simplefm~",
+    "file": "abl.dsp.simplefm~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "ratio",
+      "amount"
+    ],
+    "primary": [
+      "amount",
+      "ratio"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.squarefifth~",
+    "file": "abl.dsp.squarefifth~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "width"
+    ],
+    "primary": [
+      "width"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.squaresync~",
+    "file": "abl.dsp.squaresync~.maxhelp",
+    "family": "dsp",
+    "attributes": [],
+    "primary": [],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.stereolfo~",
+    "file": "abl.dsp.stereolfo~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "duty",
+      "waveform",
+      "phase",
+      "stereophase",
+      "spin",
+      "enablespin"
+    ],
+    "primary": [
+      "duty",
+      "waveform",
+      "phase",
+      "stereophase"
+    ],
+    "tabs": [
+      "duty",
+      "phase",
+      "stereo",
+      "basic"
+    ],
+    "direct_messages": [
+      "duty -0.8",
+      "duty 0.75",
+      "reset"
+    ]
+  },
+  {
+    "object": "abl.dsp.subosc~",
+    "file": "abl.dsp.subosc~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "aux"
+    ],
+    "primary": [
+      "aux"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.swarm~",
+    "file": "abl.dsp.swarm~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "spacing",
+      "shape"
+    ],
+    "primary": [
+      "shape",
+      "spacing"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.tarp~",
+    "file": "abl.dsp.tarp~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "tone",
+      "decay"
+    ],
+    "primary": [
+      "decay",
+      "tone"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.tides~",
+    "file": "abl.dsp.tides~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "freeze",
+      "tides",
+      "size",
+      "phase",
+      "waveform",
+      "rate",
+      "decay",
+      "mix",
+      "damping"
+    ],
+    "primary": [
+      "mix",
+      "rate",
+      "decay",
+      "size"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.transform~",
+    "file": "abl.dsp.transform~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "macro",
+      "frequency",
+      "type"
+    ],
+    "primary": [
+      "frequency",
+      "macro",
+      "type"
+    ],
+    "tabs": [
+      "\"quantizer and s&h\"",
+      "comparator",
+      "env",
+      "slew",
+      "fade",
+      "clip",
+      "unipolarizer",
+      "skew",
+      "gate",
+      "attenuverter",
+      "offset",
+      "basic"
+    ],
+    "direct_messages": [
+      "reset"
+    ]
+  },
+  {
+    "object": "abl.dsp.transientdesign~",
+    "file": "abl.dsp.transientdesign~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "sustain",
+      "attack"
+    ],
+    "primary": [
+      "attack",
+      "sustain"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.velvetnoise~",
+    "file": "abl.dsp.velvetnoise~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "spacing"
+    ],
+    "primary": [
+      "spacing"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.vibrato~",
+    "file": "abl.dsp.vibrato~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "offset",
+      "rate",
+      "mod",
+      "shaping",
+      "gain"
+    ],
+    "primary": [
+      "gain",
+      "rate",
+      "mod",
+      "offset"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.vowel~",
+    "file": "abl.dsp.vowel~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "morph",
+      "resonance",
+      "frequency"
+    ],
+    "primary": [
+      "frequency",
+      "resonance",
+      "morph"
+    ],
+    "tabs": [
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.wander~",
+    "file": "abl.dsp.wander~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "fx2",
+      "fx1",
+      "fx2_type",
+      "fx1_type",
+      "step",
+      "morph"
+    ],
+    "primary": [
+      "fx2",
+      "fx1",
+      "fx2_type",
+      "fx1_type"
+    ],
+    "tabs": [
+      "fx",
+      "basic"
+    ],
+    "direct_messages": []
+  },
+  {
+    "object": "abl.dsp.waveshaper~",
+    "file": "abl.dsp.waveshaper~.maxhelp",
+    "family": "dsp",
+    "attributes": [
+      "dcblock",
+      "post_clip",
+      "gain",
+      "period",
+      "linearity",
+      "shaper_drive",
+      "depth",
+      "damping",
+      "curve",
+      "drive",
+      "mix"
+    ],
+    "primary": [
+      "mix",
+      "drive",
+      "gain",
+      "dcblock"
+    ],
+    "tabs": [
+      "post-fx",
+      "shaper",
+      "basic"
+    ],
+    "direct_messages": []
+  }
+]
