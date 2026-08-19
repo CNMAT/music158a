@@ -8,7 +8,7 @@
 </p>
 <br><br>
 
-<strong> Ableton DSP Objects Library(pre-assembled audio effects and signal patches from Ableton Live) <strong> <br>
+<strong> Ableton DSP Objects Library(pre-assembled audio effects and signal patches from Ableton Live) </strong> <br>
 The music158a2026 repository contains an annotated help library for the Ableton DSP Objects Library. <br>
 Open the improved help patches master index at music158a2026/_Tools_and_Resources_Links/ABL_Help_Files_v1/_ABL FX Master Index.maxpat.md
 <br><br>
