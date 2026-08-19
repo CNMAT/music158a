@@ -52,7 +52,7 @@ The primary goal is to accomplish a working understanding of Max/MSP software an
 Class Materials
 ---------------
 
-Music 158A/258A will use the Cycling’74 MaxMSP programming environment extensively. Students must have access to a laptop computer with MaxMSP (Windows or MacOS). Please see the instructor for computer access options. Students must subscribe monthly to MaxMSP to access the full library and save features. Free software materials running in the Max/MSP environment will be made available to students by the Center for New Music and Audio Technologies throughout the semester. Patches developed in class will be stored in this repository for access and download. BCourses site is used only for homework submissions and grading.
+Music 158A/258A will use the Cycling’74 MaxMSP programming environment extensively. Students must have access to a laptop computer with MaxMSP (Windows or MacOS). Students must subscribe monthly to MaxMSP to access the full library and save features. <a href="https://studenttech.berkeley.edu/devicelending">Please see the instructor for computer access options.</a> Free software materials running in the Max/MSP environment will be made available to students by the Center for New Music and Audio Technologies throughout the semester. Patches developed in class will be stored in this repository for access and download. BCourses site is used only for homework submissions and grading.
 
 Bi-weekly modules with homework
 -----------------------------------
