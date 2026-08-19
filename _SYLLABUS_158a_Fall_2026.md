@@ -176,7 +176,7 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 • The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005) 
 <br><br>
 Listen for how each work detaches recorded sound from its original context and gives it a new musical function. Compare gesture, repetition, segmentation, semantic residue, and the boundary between documentary sound and composed structure. <strong>What changes when recognizable recorded events become compositional objects?</strong>
-  <div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a></sub></div>
+<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL" target="_blank">LINK</a> · Spotify: <a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- shading parity spacer -->
@@ -208,7 +208,7 @@ Listen for how each work detaches recorded sound from its original context and g
 • Paul Lansky — <em>Idle Chatter Junior</em> (2001)
 <br><br>
 Both works invite attention to process rather than only surface events. Compare phase drift and repetition in Reich with layered, recursive, generative processes in Lansky. Ask which musical details are directly specified and which emerge from the system. <strong>When does a simple rule become complex behavior?</strong>
-    <div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
+<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL" target="_blank">LINK</a> · Spotify: <a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- WEEK 4 -->
@@ -238,7 +238,7 @@ Both works invite attention to process rather than only surface events. Compare 
 • Squarepusher — <em>Square Rave</em> (1999)
 <br><br>
 Compare two highly contrasting electronic works in which synthesis moves beyond the emulation of existing instruments, pre-existing styles, or established formal procedures, and in which expanded resources and new sonic materials contribute to new approaches to form. Focus on timing, envelope, articulation, timbre, physicality, gesture, and the extent to which a newly designed sound can itself articulate or carry form. <strong>Why might new electronic sounds require an expansion or rethinking of pre-existing formal structures?</strong>
-<div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
+<div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- shading parity spacer -->
@@ -270,8 +270,7 @@ Compare two contrasting electronic compositions: one by Brian Eno, based on simp
 <div align="right">
 <sub>
 <strong>Music 158A playlist links:</strong>
-Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL" target="_blank">LINK</a>
-· Spotify: <a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a>
+<div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL" target="_blank">LINK</a> · Spotify: <a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a></sub></div>
 </sub>
 </div>
 </td>
