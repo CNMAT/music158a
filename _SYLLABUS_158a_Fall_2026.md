@@ -104,7 +104,7 @@ The final project will involve both musical and technical considerations. Resear
 <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">APPLE MUSIC PLAYLIST LINK</a>
 <br><br>
 <strong>Spotify Music:</strong>
-<a href=">https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9">SPOTIFY MUSIC PLAYLIST LINK</a>
+<a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9">SPOTIFY MUSIC PLAYLIST LINK</a>
 <br><br>
 <strong>Max Course Resources and Tools:</strong>
 <a href="Max%20Course%20Resources%20and%20Tools.md">MAX COURSE RESOURCES AND TOOLS</a>
