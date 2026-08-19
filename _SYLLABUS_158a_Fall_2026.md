@@ -104,7 +104,7 @@ The final project will involve both musical and technical considerations. Resear
 <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL">APPLE MUSIC PLAYLIST LINK</a>
 <br><br>
 <strong>Spotify Music:</strong>
-<a href="">ADD SPOTIFY MUSIC PLAYLIST LINK</a>
+<a href=">https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9">SPOTIFY MUSIC PLAYLIST LINK</a>
 <br><br>
 <strong>Max Course Resources and Tools:</strong>
 <a href="Max%20Course%20Resources%20and%20Tools.md">MAX COURSE RESOURCES AND TOOLS</a>
@@ -176,7 +176,7 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 • The Books — <em>Enjoy Your Worries, You May Never Have Them Again</em> from <em>Lost and Safe</em> (2005) 
 <br><br>
 Listen for how each work detaches recorded sound from its original context and gives it a new musical function. Compare gesture, repetition, segmentation, semantic residue, and the boundary between documentary sound and composed structure. <strong>What changes when recognizable recorded events become compositional objects?</strong>
-  <div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
+  <div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- shading parity spacer -->
@@ -271,7 +271,7 @@ Compare two contrasting electronic compositions: one by Brian Eno, based on simp
 <sub>
 <strong>Music 158A playlist links:</strong>
 Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL" target="_blank">LINK</a>
-· Spotify: <a href="" target="_blank">LINK</a>
+· Spotify: <a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a>
 </sub>
 </div>
 </td>
@@ -300,7 +300,7 @@ Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-202
 • Bernard Parmegiani — <em>En phase, hors phase</em> from <em>Dedans-Dehors</em> (1977)
 <br><br>
 Compare fixed-media spatial compositions. Ask whether location and movement function as decoration or serve more formal roles. <strong>When did sound spatialization move beyond traditional mixing toward becoming an essential element in musical structure, what some call a "compositional determinant"?</strong>
-<div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
+<div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- shading parity spacer -->
@@ -432,7 +432,7 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <strong>Contextual Listening: Phoebe Bridgers — The Outside from Lost Weekend</strong>
 <br><br>
 What tools, techniques, and specific effects heard in this recent release by Phoebe Bridgers relate to materials covered in this class? <strong>How is electronic technology functioning within and transforming a top-selling indie folk/alternative singer's practice?</strong>
-    <div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="" target="_blank">LINK</a></sub></div>
+    <div align="right"><sub><strong>Music 158A playlist links:</strong>Apple Music:<a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL"target="_blank">LINK</a>· Spotify:<a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
 <!-- WEEK 13 -->
