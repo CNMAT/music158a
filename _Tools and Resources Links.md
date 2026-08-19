@@ -8,8 +8,11 @@
 </p>
 <br><br>
 
-<sub>[*Ableton DSP FX Help Library*](Tools_158a_2026/ABL_Help_Files_v1)<sub>
-<strong>Ableton DSP Objects Library (pre-assembled audio effects and signal patches from Ableton Live):</strong>
+<strong>[*Ableton DSP FX Help Library*](Tools_158a_2026/ABL_Help_Files_v1)<strong>
+Professor Campion has provided an annotated help library for the Ableton DSP Objects Library. Open the improved help patches music158a2026/_Tools_and_Resources_Links/ABL_Help_Files_v1/_ABL FX Master Index.maxpat.md
+<br><br>
+
+<strong>Find the Ableton DSP Objects Library in MAX (pre-assembled audio effects and signal patches from Ableton Live):</strong>
 <div style="margin-left: 2em;">
 1) From Max 9 (top menu), choose <kbd>Extras</kbd> → <kbd>Ableton DSP Objects</kbd> to open the Ableton DSP Objects overview.<br>
 2) From <strong>Ableton DSP Objects</strong>, select <kbd>Object listing</kbd> from the middle tab of the top menu. NOTE: these are not especially useful as help patches; it is generally better to try the objects and explore the audio results.
