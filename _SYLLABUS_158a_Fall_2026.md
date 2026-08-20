@@ -143,7 +143,7 @@ MAX/MSP basics with Max download and installs <a href="#max-and-related-software
 — In-class practice with Max/MSP and Audio out
 <br><br>
   <!-- home study -->
-— Home study week 1: <a href="Max%20Course%20Resources%20and%20Tools.md">Andrew Blanton Max introduction videos </a><kbd>button </kbd>, <kbd>number</kbd>, <kbd>message</kbd>
+— Home study week 1: <a href="_Tools and Resources Links.md">Andrew Blanton Max introduction videos </a><kbd>button </kbd>, <kbd>number</kbd>, <kbd>message</kbd>
 <br><br>
 <!-- class requirement -->
 <em>Class Requirement: Always bring laptops with a full working environment ready for in-class LAB. Install Max/MSP. NO CLOUD INSTALLATIONS!!! Windows: OneDrive (make sure all materials are on local machine). Students must keep backups of their materials.</em>
@@ -165,7 +165,7 @@ Max Control and Timing, Probabilistic Selection Engines, Decision Structures and
 <img src="images/computational-contraption_machine_GitHub_2.gif" alt="Computational Contraption">
   <br><br>
    <!-- home study -->
-— Home study week 2: <a href="Max%20Course%20Resources%20and%20Tools.md">Andrew Blanton Max introduction videos </a><kbd>pack </kbd>, <kbd>metro</kbd>, <kbd>random</kbd>, <kbd>noteout</kbd> 
+— Home study week 2: <a href="_Tools and Resources Links.md">Andrew Blanton Max introduction videos </a><kbd>pack </kbd>, <kbd>metro</kbd>, <kbd>random</kbd>, <kbd>noteout</kbd> 
 <br><br>
 <!-- wk.2 lesson -->
 <strong>(th)</strong> 09/03 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with Audio Samples PT. 2 (Adobe Audition -- editing soundfiles)
@@ -197,7 +197,7 @@ Listen for how each work detaches recorded sound from its original context and g
 <strong>(tu)</strong> 09/08 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- with VST~ (synthesizer) PT. 3
 <br><br>
    <!-- home study -->
-— Home study week 3: <a href="Max%20Course%20Resources%20and%20Tools.md">Andrew Blanton Max introduction videos </a><kbd>patcher</kbd>, <kbd>scale</kbd>, <kbd> pattr </kbd>, <kbd>table</kbd>
+— Home study week 3: <a href="_Tools and Resources Links.md">Andrew Blanton Max introduction videos </a><kbd>patcher</kbd>, <kbd>scale</kbd>, <kbd> pattr </kbd>, <kbd>table</kbd>
 <br><br>
 <!-- class demonstration -->
 <strong>(th)</strong> 09/10 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- CLASS DEMONSTRATIONS
@@ -227,7 +227,7 @@ Both works invite attention to process rather than only surface events. Compare 
 <strong>(tu)</strong> 09/15 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 1
 <br><br>
    <!-- home study -->
-— Home study week 4: <a href="Max%20Course%20Resources%20and%20Tools.md">Andrew Blanton Max introduction videos </a>  <kbd>cycle~</kbd>, <kbd>buffer~</kbd>, <kbd>svf~ </kbd>, <kbd>line~</kbd>
+— Home study week 4: <a href="_Tools and Resources Links.md">Andrew Blanton Max introduction videos </a>  <kbd>cycle~</kbd>, <kbd>buffer~</kbd>, <kbd>svf~ </kbd>, <kbd>line~</kbd>
 <br><br>
 <!-- wk.4 lesson -->
 <strong>(th)</strong> 09/17 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 2
