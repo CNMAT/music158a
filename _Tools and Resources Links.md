@@ -33,6 +33,6 @@ Open the improved help patches master index found on your personal computer at m
   08/27/2026 
   
   <br><br>
-<img src="images/computational-contraption_machine_GitHub_2.gif" alt="Computational Contraption">
+<img src="images/eardrumwave.gif" alt="That's All Folks!!!">
   <br><br>
 </div>
