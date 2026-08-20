@@ -502,10 +502,10 @@ What tools, techniques, and specific effects heard in this recent release by Pho
 <!-- final project presentation lesson -->
 <strong>12/14</strong> — FINAL PROJECT DUE TODAY!!!
 </td>
-</tr>
-  ###### **[(Jump to Schedule)](#schedule)**
+    ###### **[(Jump to Schedule)](#schedule)**
 
 [classschedule]: https://classes.berkeley.edu/search/class?search=music+158a&f%5B0%5D=term%3A8588
+</tr>
 Music 158A, Spring 2026 <br />
 </tbody>
 </table>
