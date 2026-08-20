@@ -31,4 +31,8 @@ Open the improved help patches master index found on your personal computer at m
 <strong>Objects Presented in Class (links to tools, materials and support for objects shown in class)</strong>
 <div style="margin-left: 2em;">
   08/27/2026 
+  
+  <br><br>
+<img src="images/computational-contraption_machine_GitHub_2.gif" alt="Computational Contraption">
+  <br><br>
 </div>
