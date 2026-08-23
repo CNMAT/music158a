@@ -3,7 +3,7 @@
 Department of Music/CNMAT <br />
 Sound and Music Computing with CNMAT Technologies <br />
 ###### **[(Jump to Schedule)](#schedule)**
-[Jump to CHROME/GEMINI — Chat Folders](#chat-folders)
+<sub><sub>[Jump to CHROME/GEMINI — Chat Folders](#chat-folders)</sub></sub>
 
 [classschedule]: https://classes.berkeley.edu/search/class?search=music+158a&f%5B0%5D=term%3A8588
 Music 158A, Spring 2026 <br />
