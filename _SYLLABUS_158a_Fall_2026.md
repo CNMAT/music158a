@@ -507,7 +507,7 @@ Music 158A, Spring 2026 <br />
   <tr>
 <td><strong>Google Chrome extension for folders with Gemini</strong></td>
 <td>
-<strong>12/14</strong> How to Find and Enable Chat Folders in ChromeOpen the Chrome Web Store (chromewebstore.google.com).Search for chat organization tools such as "Gemini Folder Manager", "Gemini Chat Folders", or "Fast Folders for Gemini".  Click Add to Chrome on your chosen extension.Open gemini.google.com in your browser. The extension will inject a new folder/sidebar widget directly into the interface, allowing you to drag and drop your chats into organized folders.  
+<strong>12/14</strong> How to Find and Enable Chat Folders in Chrome. <br> Open the Chrome Web Store (chromewebstore.google.com). <br> Search for chat organization tools such as "Gemini Folder Manager", "Gemini Chat Folders", or "Fast Folders for Gemini".  <br> Click Add to Chrome on your chosen extension. <br>Open gemini.google.com in your browser. <br> The extension will inject a new folder/sidebar widget directly into the interface, allowing you to drag and drop your chats into organized folders.  
 </td>
 </tr>
 </tbody>
