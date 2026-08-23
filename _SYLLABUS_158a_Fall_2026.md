@@ -3,7 +3,6 @@
 Department of Music/CNMAT <br />
 Sound and Music Computing with CNMAT Technologies <br />
 ###### **[(Jump to Schedule)](#schedule)**
-<sub><sub>[Jump to CHROME/GEMINI — Chat Folders](#chat-folders)</sub></sub>
 
 [classschedule]: https://classes.berkeley.edu/search/class?search=music+158a&f%5B0%5D=term%3A8588
 Music 158A, Spring 2026 <br />
@@ -117,6 +116,7 @@ The final project will involve both musical and technical considerations. Resear
 <br><br>
 <strong>Max Course Resources and Tools:</strong>
 <a href="https://gemini.google.com/app">BERKELEY GEMINI (search it up!)</a>
+<sub><sub>[How to install CHROME/GEMINI — Chat Folders extension](#chat-folders)</sub></sub>
 <br><br>
 ## **WEEKLY SCHEDULE (subject to update)**
 <table>
