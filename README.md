@@ -38,4 +38,4 @@ What musical knowledge becomes explicit when formalized computationally—and wh
 
 How do feedback, randomness, recursion, emergence, and constraint function musically?
 
-[Syllabus]([[https://github.com/CNMAT/Music158a/blob/main/SYLLABUS_158a_Fall_2026.md](https://github.com/CNMAT/music158a/blob/main/SYLLABUS_158a_Fall_2026.md)]
+<sub>[*(Jump to Fall 2026 Music 158a SYLLABUS)*](_SYLLABUS_158a_Fall_2026.md)<sub>

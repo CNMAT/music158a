@@ -133,6 +133,7 @@ The final project will involve both musical and technical considerations. Resear
 <td>
 <!-- Lesson Plan Week 1 -->
 <strong>Lesson Plan Week 1</strong>
+  <a href="00_Tu_Sept_01_Max_control-and-timing">Link to Module 1 Control-and-Timing classroom patches </a>
 <br><br>
 <!-- wk.1 lesson -->
 <strong>(th)</strong> 08/27 — Introduction to Music 158A
