@@ -205,7 +205,7 @@ Listen for how each work detaches recorded sound from its original context and g
 <strong>(th)</strong> 09/10 — Max Control and Timing, Probabilistic Selection Engines, Decision Structures and New Forms of Rhythms (primes, asymmetrical sequences) -- CLASS DEMONSTRATIONS
 <br><br>
 <!-- DUE -->
-<em style="color: #C75C5C;">DUE: Homework_1 due today by start of classtime. Students are given a chance to present in class today.</em>
+<em style="color: #C75C5C;">DUE: Homework_1 due today by start of classtime. </em>
 <br><br>
 <!-- contextual listening -->
 <strong>Contextual Listening: Reich ↔ Lansky — From Simple Rules to Complex Behavior</strong>
@@ -218,7 +218,7 @@ Both works invite attention to process rather than only surface events. Compare 
 <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL" target="_blank">LINK</a> · Spotify: <a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
-<!-- WEEK 4 -->
+<!-- WEEK 4 -- Module 2 MSP -->
 <tr>
 <td><strong>Week 4</strong><br>Sep. 14-18</td>
 <td>
@@ -226,7 +226,8 @@ Both works invite attention to process rather than only surface events. Compare 
 <strong>Lesson Plan Week 4</strong>
 <br><br>
 <!-- wk.4 lesson -->
-<strong>(tu)</strong> 09/15 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 1
+<strong>(tu)</strong> 09/15 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 1 <br>
+Students are given a chance to present results from Homework 01 in class today.
 <br><br>
    <!-- home study -->
 — Home study week 4: <a href="_Tools and Resources Links.md">Andrew Blanton Max introduction videos </a>  <kbd>cycle~</kbd>, <kbd>buffer~</kbd>, <kbd>svf~ </kbd>, <kbd>line~</kbd>
