@@ -218,16 +218,16 @@ Both works invite attention to process rather than only surface events. Compare 
 <div align="right"><sub><strong>Music 158A playlist links:</strong> Apple Music: <a href="https://music.apple.com/us/playlist/music158a-playlist-2026/pl.u-MDAWlLGFWNo1pL" target="_blank">LINK</a> · Spotify: <a href="https://open.spotify.com/playlist/4O8HNSOreYT8APjo78yMxL?si=93d5c71421ba4de9" target="_blank">LINK</a></sub></div>
 </td>
 </tr>
-<!-- WEEK 4 -- Module 2 MSP -->
+<!-- WEEK 4 -->
 <tr>
 <td><strong>Week 4</strong><br>Sep. 14-18</td>
 <td>
-<!-- Lesson Plan Week 4 -->
+<!-- Lesson Plan Week 4 (New Module 2 MSP) -->
 <strong>Lesson Plan Week 4</strong>
 <br><br>
 <!-- wk.4 lesson -->
 <strong>(tu)</strong> 09/15 — Signal, Synthesis and Tone, CNMAT Spectral Objects PT. 1 <br>
-Students are given a chance to present results from Homework 01 in class today.
+Students can present results from Homework 01 in class today.
 <br><br>
    <!-- home study -->
 — Home study week 4: <a href="_Tools and Resources Links.md">Andrew Blanton Max introduction videos </a>  <kbd>cycle~</kbd>, <kbd>buffer~</kbd>, <kbd>svf~ </kbd>, <kbd>line~</kbd>
@@ -265,7 +265,7 @@ Compare two highly contrasting electronic works in which synthesis moves beyond 
 <strong>(th)</strong> 09/24 — Signal, Synthesis and Tone, Mixing, CNMAT Spectral Objects — CLASS DEMONSTRATIONS
 <br><br>
 <!-- DUE -->
-<em style="color: #C75C5C;">DUE: Homework_2 due today by start of classtime. Students are given a chance to present in class today.</em>
+<em style="color: #C75C5C;">DUE: Homework_2 due today by start of classtime. </em>
 <br><br>
 <!-- CONTEXTUAL LISTENING -->
 <strong>Contextual Listening: Brian Eno ↔ Aphex Twin — Tone and Noise and Note to Noise Continuum</strong>
@@ -288,10 +288,11 @@ Compare two contrasting electronic compositions: one by Brian Eno, based on simp
 <td><strong>Week 6</strong><br>Sep. 28-Oct. 2</td>
 <td>
 <!-- Lesson Plan Week 6 -->
-<strong>Lesson Plan Week 6</strong>
+<strong>Lesson Plan Week 6 (New Module 3 Spatial Audio)</strong>
 <br><br>
 <!-- wk.6 lesson -->
-<strong>(tu)</strong> 09/29 — Spatial Audio, Mixing, SPAT PT. 1
+<strong>(tu)</strong> 09/29 — Spatial Audio, Mixing, SPAT PT. 1 <br>
+  Students can present results from Homework 02 in class today.
 <br><br>
 <!-- wk.6 lesson -->
 <strong>(th)</strong> 10/01 — Spatial Audio, Mixing, SPAT PT. 2
@@ -326,7 +327,7 @@ Compare fixed-media spatial compositions. Ask whether location and movement func
 <strong>(th)</strong> 10/08 — Spatial Audio, Mixing, SPAT --CLASS DEMONSTRATIONS
 <br><br>
 <!-- DUE -->
-<em style="color: #C75C5C;">DUE: Homework_3 due today by start of classtime. Students are given a chance to present in class today.</em>
+<em style="color: #C75C5C;">DUE: Homework_3 due today by start of classtime. </em>
 <br><br>
 <!-- contextual listening -->
 <strong>Contextual Listening: Multi-Channel Sound in the CNMAT Main Room</strong>
@@ -343,10 +344,11 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <td><strong>Week 8</strong><br>Oct. 12-16</td>
 <td>
 <!-- Lesson Plan Week 8 -->
-<strong>Lesson Plan Week 8</strong>
+<strong>Lesson Plan Week 8 (New Module 04 Advanced Control)</strong>
 <br><br>
 <!-- wk.8 lesson -->
-<strong>(tu)</strong> 10/13 — Advanced Control and AI-assisted programming (ml.star) with Pitch Spaces (v8.codebox and v8.ui) PT. 1, Max nodes object for interpolation with trackpad interface control
+<strong>(tu)</strong> 10/13 — Advanced Control and AI-assisted programming (ml.star) with Pitch Spaces (v8.codebox and v8.ui) PT. 1, Max nodes object for interpolation with trackpad interface control <br>
+  Students can present results from Homework 03 in class today.
 <br><br>
   <!-- homework assignment 4 -->
 <em>Assignment: Homework_4. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
@@ -360,16 +362,17 @@ Work presented demonstrates the use of 8 or 16 channel spatial audio. Ask whethe
 <td><strong>Week 9</strong><br>Oct. 19-23</td>
 <td>
 <!-- Lesson Plan Week 9 -->
-<strong>Lesson Plan Week 9</strong>
+<strong>Lesson Plan Week 9 (New Module 05 Advanced Sampling)</strong>
 <br><br>
 <!-- wk.9 lesson -->
-<strong>(tu)</strong> 10/20 — Advanced Sampling, Event Morphology with Soundfile Descriptors, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 1
+<strong>(tu)</strong> 10/20 — Advanced Sampling, Event Morphology with Soundfile Descriptors, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 1 <br>
+  Students can present results from Homework 03 in class today.
 <br><br>
    <!-- homework assignment 5 -->
 <em>Assignment: Homework_5. All assignments are found in the <strong><code>Homework_Assignments</code></strong> folder on BCourses.</em>
 <br><br>
 <!-- DUE -->
-<em style="color: #C75C5C;">DUE: Homework_4 due today by start of classtime. Students are given a chance to present in class today.</em>
+<em style="color: #C75C5C;">DUE: Homework_4 due today by start of classtime. </em>
 <br><br>
 <!-- wk.9 lesson -->
 <strong>(th)</strong> 10/22 — Advanced Sampling, Event Morphology, <code>vst~</code> plug-ins, <code>sfz~</code> samplers PT. 2
