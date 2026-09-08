@@ -1,0 +1,2 @@
+VALIDATION OK
+74 .maxhelp files parsed as JSON; no dangling top-level patch cords; visible spec comments removed; compact window height verified. Max top-level content bottom: 459.0px.

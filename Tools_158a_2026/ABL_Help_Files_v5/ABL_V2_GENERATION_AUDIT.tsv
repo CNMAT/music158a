@@ -1,0 +1,75 @@
+file	object	receive	attributes	randomized	wet_defaults	input_gain_minus3	output_like_excluded	excluded	input_inlets	warnings
+abl.device.autofilter~.maxhelp	abl.device.autofilter~	ABL_autofilter	29	29					0|1	
+abl.device.channeleq~.maxhelp	abl.device.channeleq~	ABL_channeleq	4	4					0|1	
+abl.device.compressor~.maxhelp	abl.device.compressor~	ABL_compressor	5	5					0	
+abl.device.delay~.maxhelp	abl.device.delay~	ABL_delay	11	10	mix			mix	0|1	
+abl.device.drift~.maxhelp	abl.device.drift~	ABL_drift	26	26						
+abl.device.drumbuss~.maxhelp	abl.device.drumbuss~	ABL_drumbuss	11	10	mix			mix	0|1	
+abl.device.drumsampler~.maxhelp	abl.device.drumsampler~	ABL_drumsampler	33	33						
+abl.device.echo~.maxhelp	abl.device.echo~	ABL_echo	27	25	mix		output	mix|output	0|1	output-like controls excluded; factory value retained (unit/range not inferred)
+abl.device.limiter~.maxhelp	abl.device.limiter~	ABL_limiter	10	9			output	output	0|1	output-like controls excluded; factory value retained (unit/range not inferred)
+abl.device.redux~.maxhelp	abl.device.redux~	ABL_redux	4	4					0|1	
+abl.device.reverb~.maxhelp	abl.device.reverb~	ABL_reverb	4	3	mix			mix	0	
+abl.device.roar~.maxhelp	abl.device.roar~	ABL_roar	13	12		input_gain		input_gain	0|1	
+abl.device.spectralresonator~.maxhelp	abl.device.spectralresonator~	ABL_spectralresonator	13	12	mix			mix	0|1	
+abl.device.spectraltime~.maxhelp	abl.device.spectraltime~	ABL_spectraltime	18	16	delay_mix|mix			delay_mix|mix	0|1	
+abl.device.utility~.maxhelp	abl.device.utility~	ABL_utility	10	10					0|1	
+abl.dsp.alternate~.maxhelp	abl.dsp.alternate~	ABL_alternate	6	6						
+abl.dsp.basicshapes~.maxhelp	abl.dsp.basicshapes~	ABL_basicshapes	1	1						
+abl.dsp.bitgrunge~.maxhelp	abl.dsp.bitgrunge~	ABL_bitgrunge	1	1						
+abl.dsp.bubble~.maxhelp	abl.dsp.bubble~	ABL_bubble	2	2						
+abl.dsp.chip~.maxhelp	abl.dsp.chip~	ABL_chip	2	2						
+abl.dsp.chorus~.maxhelp	abl.dsp.chorus~	ABL_chorus	7	6	mix			mix	0|1	
+abl.dsp.compander~.maxhelp	abl.dsp.compander~	ABL_compander	2	2					0	
+abl.dsp.crackle~.maxhelp	abl.dsp.crackle~	ABL_crackle	2	2						
+abl.dsp.darkhall~.maxhelp	abl.dsp.darkhall~	ABL_darkhall	9	8	mix			mix	0|1	
+abl.dsp.dfm~.maxhelp	abl.dsp.dfm~	ABL_dfm	3	3					0	
+abl.dsp.distortion~.maxhelp	abl.dsp.distortion~	ABL_distortion	7	6	mix			mix	0|1	
+abl.dsp.doubler~.maxhelp	abl.dsp.doubler~	ABL_doubler	4	3	mix			mix	0|1	
+abl.dsp.dualbasicshapes~.maxhelp	abl.dsp.dualbasicshapes~	ABL_dualbasicshapes	2	2						
+abl.dsp.ensemble~.maxhelp	abl.dsp.ensemble~	ABL_ensemble	9	8	mix			mix	0|1	
+abl.dsp.envfollower~.maxhelp	abl.dsp.envfollower~	ABL_envfollower	2	2					0	
+abl.dsp.euclid~.maxhelp	abl.dsp.euclid~	ABL_euclid	6	6					1	
+abl.dsp.expshaper~.maxhelp	abl.dsp.expshaper~	ABL_expshaper	0	0					0	
+abl.dsp.extratone~.maxhelp	abl.dsp.extratone~	ABL_extratone	2	2						
+abl.dsp.filterednoise~.maxhelp	abl.dsp.filterednoise~	ABL_filterednoise	2	2						
+abl.dsp.filther~.maxhelp	abl.dsp.filther~	ABL_filther	3	3					0	
+abl.dsp.flanger~.maxhelp	abl.dsp.flanger~	ABL_flanger	4	3	mix			mix	0|1	
+abl.dsp.fmbass~.maxhelp	abl.dsp.fmbass~	ABL_fmbass	1	1						
+abl.dsp.foldfm~.maxhelp	abl.dsp.foldfm~	ABL_foldfm	0	0					1	
+abl.dsp.fuzz~.maxhelp	abl.dsp.fuzz~	ABL_fuzz	7	6	mix			mix	0|1	
+abl.dsp.harmonicfm~.maxhelp	abl.dsp.harmonicfm~	ABL_harmonicfm	2	2						
+abl.dsp.meldfilter~.maxhelp	abl.dsp.meldfilter~	ABL_meldfilter	4	4					0	
+abl.dsp.meldosc~.maxhelp	abl.dsp.meldosc~	ABL_meldosc	3	3						
+abl.dsp.modalresonator~.maxhelp	abl.dsp.modalresonator~	ABL_modalresonator	5	5					0	
+abl.dsp.modulator~.maxhelp	abl.dsp.modulator~	ABL_modulator	6	6						
+abl.dsp.noiseloop~.maxhelp	abl.dsp.noiseloop~	ABL_noiseloop	2	2						
+abl.dsp.noisyshapes~.maxhelp	abl.dsp.noisyshapes~	ABL_noisyshapes	0	0					1	
+abl.dsp.overdrive~.maxhelp	abl.dsp.overdrive~	ABL_overdrive	7	6	mix			mix	0|1	
+abl.dsp.phaser~.maxhelp	abl.dsp.phaser~	ABL_phaser	6	5	mix			mix	0|1	
+abl.dsp.pitchestimator~.maxhelp	abl.dsp.pitchestimator~	ABL_pitchestimator	0	0					0	
+abl.dsp.pitchshifter~.maxhelp	abl.dsp.pitchshifter~	ABL_pitchshifter	4	3	mix			mix	1|0	
+abl.dsp.prism~.maxhelp	abl.dsp.prism~	ABL_prism	7	6	mix			mix	0|1	
+abl.dsp.pulsate~.maxhelp	abl.dsp.pulsate~	ABL_pulsate	6	6						
+abl.dsp.quartz~.maxhelp	abl.dsp.quartz~	ABL_quartz	9	8	mix			mix	0|1	
+abl.dsp.rain~.maxhelp	abl.dsp.rain~	ABL_rain	2	2						
+abl.dsp.ramp~.maxhelp	abl.dsp.ramp~	ABL_ramp	6	6						
+abl.dsp.ringmod~.maxhelp	abl.dsp.ringmod~	ABL_ringmod	4	3	mix			mix	0|1	
+abl.dsp.saturator~.maxhelp	abl.dsp.saturator~	ABL_saturator	6	5	mix			mix	0|1	
+abl.dsp.shepard~.maxhelp	abl.dsp.shepard~	ABL_shepard	2	2						
+abl.dsp.shimmer~.maxhelp	abl.dsp.shimmer~	ABL_shimmer	9	8	mix			mix	0|1	
+abl.dsp.simplefm~.maxhelp	abl.dsp.simplefm~	ABL_simplefm	2	2						
+abl.dsp.squarefifth~.maxhelp	abl.dsp.squarefifth~	ABL_squarefifth	1	1						
+abl.dsp.squaresync~.maxhelp	abl.dsp.squaresync~	ABL_squaresync	0	0					1	
+abl.dsp.stereolfo~.maxhelp	abl.dsp.stereolfo~	ABL_stereolfo	6	6						
+abl.dsp.subosc~.maxhelp	abl.dsp.subosc~	ABL_subosc	1	1						
+abl.dsp.swarm~.maxhelp	abl.dsp.swarm~	ABL_swarm	2	2						
+abl.dsp.tarp~.maxhelp	abl.dsp.tarp~	ABL_tarp	2	2						
+abl.dsp.tides~.maxhelp	abl.dsp.tides~	ABL_tides	9	8	mix			mix	0|1	
+abl.dsp.transform~.maxhelp	abl.dsp.transform~	ABL_transform	3	3					0	
+abl.dsp.transientdesign~.maxhelp	abl.dsp.transientdesign~	ABL_transientdesign	2	2					0|1	
+abl.dsp.velvetnoise~.maxhelp	abl.dsp.velvetnoise~	ABL_velvetnoise	1	1						
+abl.dsp.vibrato~.maxhelp	abl.dsp.vibrato~	ABL_vibrato	5	5					0|1	
+abl.dsp.vowel~.maxhelp	abl.dsp.vowel~	ABL_vowel	3	3					0	
+abl.dsp.wander~.maxhelp	abl.dsp.wander~	ABL_wander	6	6						
+abl.dsp.waveshaper~.maxhelp	abl.dsp.waveshaper~	ABL_waveshaper	11	10	mix			mix	0|1	

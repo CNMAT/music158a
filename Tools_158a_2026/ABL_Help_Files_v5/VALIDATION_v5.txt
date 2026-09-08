@@ -1,0 +1,3 @@
+Maxhelp files: 74
+Generation errors: 0
+Structural/link errors: 0

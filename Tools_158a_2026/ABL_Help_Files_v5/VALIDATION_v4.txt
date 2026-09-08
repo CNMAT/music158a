@@ -1,0 +1,4 @@
+Maxhelp files checked: 74
+Embedded original-help subpatches remaining: 0
+Help-link configuration errors: 0
+JSON / patch-cord errors: 0

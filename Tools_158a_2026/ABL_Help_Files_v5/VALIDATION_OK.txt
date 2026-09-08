@@ -1,0 +1,1 @@
+Validated 74 maxhelp files: JSON, patchline endpoints, v26 panel/window invariants, receive names, Direct_Parameter_Messaging rows, 24-slot preset banks, helper naming, and hidden ABL parameter bindings.
